@@ -72,4 +72,50 @@ floats:<sup><a href="https://www.w3schools.com/go/go_float_data_type.php">[4]</a
 <li><code>float64</code> 64-bit, -1.7e+308 to +1.7e+308</li>
 string:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</a></sup>
 <li><code>string</code></li>
+
+<h3>structs</h3>
+<p>template:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
+<box><pre>
+type struct_name struct {
+	member1 datatype;
+	member2 datatype;
+	member3 datatype;
+	...
+}
+</pre></box>
+<p>examples:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
+<box><pre>
+type Person struct {
+	name string
+	age int
+	job string
+	salary int
+}
+
+func main() {
+	var pers1 Person
+	var pers2 Person
+
+	pers1.name = "Hege"
+	pers1.age = 45
+	pers1.job = "Teacher"
+	pers1.salary = 6000
+
+	pers2.name = "Cecilie"
+	pers2.age = 24
+	pers2.job = "Marketing"
+	pers2.salary = 4500
+
+	fmt.Println("Name: ", pers1.name)
+	fmt.Println("Age: ", pers1.age)
+	fmt.Println("Job: ", pers1.job)
+	fmt.Println("Salary: ", pers1.salary)
+
+	fmt.Println("Name: ", pers2.name)
+	fmt.Println("Age: ", pers2.age)
+	fmt.Println("Job: ", pers2.job)
+	fmt.Println("Salary: ", pers2.salary)
+}
+</pre></box>
+
 </main>
