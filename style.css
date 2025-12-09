@@ -11,3 +11,9 @@ body {
 pre, code {
 	font-size: 1em;
 }
+
+box {
+	border: 1px solid #e0e0e0;
+    padding: 1em;
+    display: inline-block;
+}

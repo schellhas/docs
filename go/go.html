@@ -3,13 +3,13 @@
 <h2>overview</h2>
 <h3>function declarations</h3>
 <p>template:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
-<pre>
+<box><pre>
 func nameOfFunc(arguments) (returnTypes) {
 	// body
 }
-</pre>
+</pre></box>
 <p>examples:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
-<pre>
+<box><pre>
 func multiply(x, y int) int {
 	return x*y;
 }
@@ -21,30 +21,24 @@ fun showAge(name string, age int) {
 func addSub(x, y int) (int, int) {
 	return x+y, x-y
 }
-</pre>
+</pre></box>
 
 <h3>data types</h3>
-<li>boolean:<sup><a href="https://www.w3schools.com/go/go_boolean_data_type.php">[2]</a></sup> <code>bool</code></li>
-<li>
-	integers:<sup><a href="https://www.w3schools.com/go/go_integer_data_type.php">[3]</a></sup>
-	<ul>
-		<li><code>int</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
-		<li><code>int8</code> -128 to 127</li>
-		<li><code>int16</code> -32_768 to 32_767</li>
-		<li><code>int32</code> -2_147_483_648 to 2_147_483_647</li>
-		<li><code>int64</code> -9_223_372_036_854_775_808 to 9_223_372_036_854_775_807</li>
-		<li><code>uint</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
-		<li><code>uint8</code> 0 to 255</li>
-		<li><code>uint16</code> 0 to 65_535</li>
-		<li><code>uint32</code> 0 to 4_294_967_295</li>
-		<li><code>uint64</code>0 to 18_446_744_073_709_551_615</li>
-	</ul>
-</li>
-<li>
-	floats:<sup><a href="https://www.w3schools.com/go/go_float_data_type.php">[4]</a></sup>
-	<ul>
-		<li><code>float32</code> 32-bit, -3.4e+38 to 3.4e+38</li>
-		<li><code>float64</code> 64-bit, -1.7e+308 to +1.7e+308</li>
-	</ul>
-</li>
-<li>string:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</a></sup> <code>string</code></li>
+boolean:<sup><a href="https://www.w3schools.com/go/go_boolean_data_type.php">[2]</a></sup>
+<li><code>bool</code></li>
+integers:<sup><a href="https://www.w3schools.com/go/go_integer_data_type.php">[3]</a></sup>
+<li><code>int</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
+<li><code>int8</code> -128 to 127</li>
+<li><code>int16</code> -32_768 to 32_767</li>
+<li><code>int32</code> -2_147_483_648 to 2_147_483_647</li>
+<li><code>int64</code> -9_223_372_036_854_775_808 to 9_223_372_036_854_775_807</li>
+<li><code>uint</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
+<li><code>uint8</code> 0 to 255</li>
+<li><code>uint16</code> 0 to 65_535</li>
+<li><code>uint32</code> 0 to 4_294_967_295</li>
+<li><code>uint64</code>0 to 18_446_744_073_709_551_615</li>
+floats:<sup><a href="https://www.w3schools.com/go/go_float_data_type.php">[4]</a></sup>
+<li><code>float32</code> 32-bit, -3.4e+38 to 3.4e+38</li>
+<li><code>float64</code> 64-bit, -1.7e+308 to +1.7e+308</li>
+string:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</a></sup>
+<li><code>string</code></li>
