@@ -33,13 +33,13 @@
 <h2>overview</h2>
 <h3>function declarations</h3>
 <p>template:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
-<box><pre>
+<pre><box>
 func nameOfFunc(arguments) (returnTypes) {
 	// body
 }
-</pre></box>
+</box></pre>
 <p>examples:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
-<box><pre>
+<pre><box>
 func multiply(x, y int) int {
 	return x*y;
 }
@@ -51,7 +51,7 @@ fun showAge(name string, age int) {
 func addSub(x, y int) (int, int) {
 	return x+y, x-y
 }
-</pre></box>
+</box></pre>
 
 <h3>data types</h3>
 boolean:<sup><a href="https://www.w3schools.com/go/go_boolean_data_type.php">[2]</a></sup>
@@ -75,16 +75,16 @@ string:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</
 
 <h3>structs</h3>
 <p>template:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
-<box><pre>
+<pre><box>
 type struct_name struct {
 	member1 datatype;
 	member2 datatype;
 	member3 datatype;
 	...
 }
-</pre></box>
+</box></pre>
 <p>example:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
-<box><pre>
+<pre><box>
 type Person struct {
 	name string
 	age int
@@ -116,17 +116,17 @@ func main() {
 	fmt.Println("Job: ", pers2.job)
 	fmt.Println("Salary: ", pers2.salary)
 }
-</pre></box>
+</box></pre>
 
 <h3>arrays</h3>
 <p>template:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
-<box><pre>
+<pre><box>
 var array_name = [length]datatype{values}	/* length is defined */
 var array_name = [...]datatype{values}		/* length is inferred */
 
 array_name := [length]datatype{values}	/* length is defined */
 array_name := [...]datatype{values}		/* length is inferred */
-</pre></box>
+</box></pre>
 <p>example:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
 <pre><box>
 package main
