@@ -124,7 +124,7 @@ func main() {
 var array_name = [length]datatype{values}	/* length is defined */
 var array_name = [...]datatype{values}		/* length is inferred */
 
-array_name := [length]datatype{values}	/* length is defined */
+array_name := [length]datatype{values}		/* length is defined */
 array_name := [...]datatype{values}		/* length is inferred */
 </box></pre>
 <p>example:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
@@ -196,7 +196,7 @@ func main() {
 }
 </box></pre>
 <h4>array initialization</h4>
-<p>if not initialized, the not-initialized elements get <em>default value</em> assigned. for int: 0, for string: "".</p>
+<p>if not initialized, the not-initialized elements get a <em>default value</em> assigned. for int: 0, for string: "".</p>
 <pre><box>
 package main
 import ("fmt")
