@@ -47,52 +47,58 @@ ssh-add ~/.ssh/id_rsa_uni
 ssh-add ~/.ssh/id_rsa_personal
 </box></pre>
 <h4>step 2.5: copy the stuff of course</h4>
-<p>copy your keys and put it in the git gui in the browser</p>
+<p>copy your the <code>.pub</code> key and put it in the git gui in the browser</p>
 <pre><box>
 cat ~/.ssh/id_rsa_work.pub
 cat ~/.ssh/id_rsa_uni.pub
 cat ~/.ssh/id_rsa_personal.pub
 </box></pre>
-<h4>step 3: edit the <code>~/.ssh/config</code> file</h4>
+<h4>step 3: configure the <code>~/.ssh/config</code> file</h4>
+<p>for github/gitlab, the ssh user is always <code>git</code>. authentication happens via the ssh key, not the username.</p>
 <p>example:</p>
 <pre><box>
 # Example for github where:
 # Username: duckingduck
 # URL: github.com
 Host github_duckingduck			/* this is just a nickname for when you ssh */
-    HostName www.github.com		/* actual domain or ip of the remote server */
-    User duckingduck			/* your username to login the remote server */
-    IdentityFile ~/.ssh/id_rsa_work	/* whatever key you generated */
-    IdentitiesOnly yes			/* idk */
+	HostName github.com		/* actual domain or ip of the remote server */
+	User git			/* your username to login the remote server */
+	IdentityFile ~/.ssh/id_rsa_work	/* whatever key you generated */
+	IdentitiesOnly yes		/* idk */
 </box></pre>
 <p>longer example:</p>
 <pre><box>
 # work
 Host work
-    HostName git.work.com
-    User firstname_lastname
-    IdentityFile ~/.ssh/id_rsa_work
-    IdentitiesOnly yes
+	HostName work.com
+	User git
+	IdentityFile ~/.ssh/id_rsa_work
+	IdentitiesOnly yes
 
 # uni
 Host uni
-    HostName git.uni.edu
-    User uni_username
-    IdentityFile ~/.ssh/id_rsa_uni
-    IdentitiesOnly yes
+	HostName uni.edu
+	User git
+	IdentityFile ~/.ssh/id_rsa_uni
+	IdentitiesOnly yes
 
 # personal github
 Host personal_github
-    HostName www.github.com
-    User username_on_github
-    IdentityFile ~/.ssh/id_rsa_personal
-    IdentitiesOnly yes
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa_personal
+	IdentitiesOnly yes
 
 # personal gitlab
 Host personal_gitlab
-    HostName www.gitlab.com
-    User username_on_gitlab
-    IdentityFile ~/.ssh/id_rsa_personal
-    IdentitiesOnly yes
+	HostName gitlab.com
+	User git
+	IdentityFile ~/.ssh/id_rsa_personal
+	IdentitiesOnly yes
+</box></pre>
+<h4>step 4: clone using ssh</h4>
+<p>url should look something like this:</p>
+<pre><box>
+git clone git@github:username/repo.git
 </box></pre>
 </main>
