@@ -1,0 +1,55 @@
+/* RESET desktop-layout */
+aside {
+	position: fixed;
+	left: -16em;
+	top: 0;
+	width: 15em;
+	height: 100vh;
+	background: #121212;
+	border-right: 1px solid #e0e0e0;
+	transition: left 0.2s ease;
+	z-index: 1000;
+}
+
+main {
+	margin-left: 0;
+	padding-top: 3em;
+}
+
+/* hamburger */
+#menu-button {
+	position: fixed;
+	top: 0.5em;
+	left: 0.5em;
+	font-size: 1.5em;
+	cursor: pointer;
+	z-index: 1100;
+	user-select: none;
+}
+
+/* checkbox unsichtbar */
+#menu-toggle {
+	display: none;
+}
+
+/* menu open */
+#menu-toggle:checked ~ aside {
+	left: 0;
+}
+
+/* nav minimal */
+aside ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+aside li {
+	margin: 0.5em 0;
+}
+
+/* classic mobile vibe */
+a {
+	display: block;
+	padding: 0.3em 0;
+}
