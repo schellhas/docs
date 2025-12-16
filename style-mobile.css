@@ -1,3 +1,4 @@
+/* RESET desktop-layout */
 aside {
 	position: fixed;
 	left: -16em;
@@ -9,23 +10,27 @@ aside {
 
 main {
 	margin-left: 0;
+	padding-top: 3em;
 }
 
-/* menu button */
+/* hamburger */
 #menu-button {
 	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: 1100;
+	top: 0.5em;
+	left: 0.5em;
+	font-size: 1.5em;
 	cursor: pointer;
+	z-index: 1100;
+	user-select: none;
 }
 
-/* hide checkbox */
+/* checkbox unsichtbar */
 #menu-toggle {
 	display: none;
 }
 
-/* toggle menu */
+/* menu open */
 #menu-toggle:checked ~ aside {
 	left: 0;
 }
+
