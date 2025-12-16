@@ -1,38 +1,37 @@
-html {
-	font-size: 150%;
-}
-
-body {
-	background-color: #121212;
-	color: #e0e0e0;
-	font-family: serif;
-}
-
-pre, code {
-	font-size: 1em;
-}
-
-box {
-	border: 1px solid #e0e0e0;
-    padding: 1em;
-    display: inline-block;
+aside {
+	position: fixed;
+	left: -15em;
+	top: 0;
+	width: 15em;
+	height: 100vh;
+	border-right: 1px solid currentColor;
+	z-index: 1000;
 }
 
 main {
-	margin-left: 17em;
-	padding: 1em;
+	margin-left: 0;
 }
 
-aside {
+/* menu button */
+#menu-button {
 	position: fixed;
-	width: 15em;
-	height: 100vh;
-	border-right: 1px solid #e0e0e0;
-	padding: 1em;
-	overflow-y: auto;
-	box-sizing: border-box;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+	z-index: 1100;
 }
 
-a {
-	color: #8ab4f8;
+/* hide checkbox */
+#menu-toggle {
+	display: none;
+}
+
+/* open menu */
+#menu-toggle:checked ~ aside {
+	left: 0;
+}
+
+/* push content */
+#menu-toggle:checked ~ main {
+	margin-left: 15em;
 }
