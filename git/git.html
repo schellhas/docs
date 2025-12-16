@@ -1,41 +1,49 @@
 <link rel="stylesheet" href="/docs/style.css">
 <head><title>docs - git</title></head>
 <aside>
-	<h1>docs</h1>		
-	languages
-	<li><a href="/docs/c/c.html">c</a></li>
-	<li><a href="/docs/asm/asm.html">asm</a></li>
-	<li><a href="/docs/go/go.html">go</a></li>
-	<li><a href="/docs/cpp/cpp.html">c++</a></li>
-	<li><a href="/docs/haskell/haskell.html">haskell</a></li>
-	<li><a href="/docs/rust/rust.html">rust</a></li>
-	apis/frameworks
-	<li><a href="/docs/opengl/opengl.html">opengl</a></li>
-	<li><a href="/docs/vulkan/vulkan.html">vulkan</a></li>
-	<li><a href="/docs/wasm/wasm.html">wasm</a></li>
-	<li><a href="/docs/juce/juce.html">juce</a></li>
-	theory
-	<li><a href="/docs/os/os.html">operating systems</a></li>
-	<li><a href="/docs/communication/communication.html">communication systems</a></li>
-	<li><a href="/docs/infosec/infosec.html">information security</a></li>
-	tools
-	<li><a href="/docs/git/git.html">git</a></li>
-	<li><a href="/docs/docker/docker.html">docker</a></li>
-	<li><a href="/docs/k8/k8.html">kubernetes</a></li>
-	<li><a href="/docs/make/make.html">make</a></li>
-	<li><a href="/docs/linker/linker.html">linker</a></li>
-	<li><a href="/docs/bash/bash.html">bash</a></li>
-	programs
-	<li><a href="/docs/blender/blender.html">blender</a></li>
-	<li><a href="/docs/gimp/gimp.html">gimp</a></li>
-	<li><a href="/docs/godot/godot.html">godot</a></li>
+	<h1>Docs</h1>		
+	<nav>
+		Languages
+		<li><a href="/docs/c/c.html">C</a></li>
+		<li><a href="/docs/asm/asm.html">ASM</a></li>
+		<li><a href="/docs/go/go.html">Go</a></li>
+		<li><a href="/docs/cpp/cpp.html">C++</a></li>
+		<li><a href="/docs/haskell/haskell.html">Haskell</a></li>
+		<li><a href="/docs/rust/rust.html">Rust</a></li>
+		APIs/Frameworks
+		<li><a href="/docs/opengl/opengl.html">OpenGL</a></li>
+		<li><a href="/docs/vulkan/vulkan.html">Vulkan</a></li>
+		<li><a href="/docs/wasm/wasm.html">WASM</a></li>
+		<li><a href="/docs/juce/juce.html">JUCE</a></li>
+		Theory
+		<li><a href="/docs/os/os.html">Operating Systems</a></li>
+		<li><a href="/docs/communication/communication.html">Communication Systems</a></li>
+		<li><a href="/docs/infosec/infosec.html">Information Security</a></li>
+		Tools
+		<li><a href="/docs/git/git.html">Git</a></li>
+		<li><a href="/docs/docker/docker.html">Docker</a></li>
+		<li><a href="/docs/k8/k8.html">Kubernetes</a></li>
+		<li><a href="/docs/make/make.html">Make</a></li>
+		<li><a href="/docs/linker/linker.html">Linker</a></li>
+		<li><a href="/docs/bash/bash.html">Bash</a></li>
+		Programs
+		<li><a href="/docs/blender/blender.html">Blender</a></li>
+		<li><a href="/docs/gimp/gimp.html">GIMP</a></li>
+		<li><a href="/docs/godot/godot.html">Godot</a></li>
+	</nav>
 </aside>
 <main>
-<h1>git</h1>
-<h2>overview</h2>
-<h3>managing multiple SSH accounts</h3>
-<p>whole site is written by ai</p>
-<h4>step 1: generate ed25519 SSH keys for each account</h4>
+
+<h1>Git</h1>
+
+<h2>Overview</h2>
+
+<h3>Managing multiple SSH accounts</h3>
+
+<p>Whole site is written by AI.</p>
+
+<h4>Step 1: Generate ed25519 SSH keys for each account</h4>
+
 <p>Do this for each account (GitHub, work server, university, personal, etc.). Each key is unique per account.</p>
 <pre><box>
 # Work Git server
@@ -51,7 +59,8 @@ ssh-keygen -t ed25519 -C "personal@email.com" -f ~/.ssh/id_ed25519_personal_gith
 ssh-keygen -t ed25519 -C "personal2@email.com" -f ~/.ssh/id_ed25519_personal2_github
 </box></pre>
 
-<h4>step 2: add the keys to ssh-agent</h4>
+<h4>Step 2: Add the keys to <code>ssh-agent</code></h4>
+
 <p>This ensures SSH can automatically use your keys without entering the passphrase every time.</p>
 <pre><box>
 eval "$(ssh-agent -s)"
@@ -61,7 +70,8 @@ ssh-add ~/.ssh/id_ed25519_personal_github
 ssh-add ~/.ssh/id_ed25519_personal2_github
 </box></pre>
 
-<h4>step 3: add public keys to the corresponding services</h4>
+<h4>Step 3: Add public keys to the corresponding services</h4>
+
 <p>Copy the <code>.pub</code> files into the web UI of your Git servers / GitHub accounts.</p>
 <pre><box>
 cat ~/.ssh/id_ed25519_work.pub
@@ -71,45 +81,46 @@ cat ~/.ssh/id_ed25519_personal2_github.pub
 </box></pre>
 <p>Upload each key to the correct account:</p>
 <ul>
-<li>Work server → work git account</li>
-<li>Uni server → uni git account</li>
-<li>Personal GitHub → personal GitHub account</li>
-<li>Second GitHub → second GitHub account</li>
+	<li>Work server → work git account</li>
+	<li>Uni server → uni git account</li>
+	<li>Personal GitHub → personal GitHub account</li>
+	<li>Second GitHub → second GitHub account</li>
 </ul>
 
-<h4>step 4: configure <code>~/.ssh/config</code></h4>
+<h4>Step 4: Configure <code>~/.ssh/config</code></h4>
 <p>This maps each host alias to its key. You will use these aliases in git clone URLs.</p>
 <pre><box>
 # Work server
 Host git_work
-    HostName git.work.com       # actual server
-    User git                     # usually 'git' for git servers, otherwise your Unix username
-    IdentityFile ~/.ssh/id_ed25519_work
-    IdentitiesOnly yes
+	HostName git.work.com	# actual server
+	User git		# usually 'git' for git servers, otherwise your Unix username
+	IdentityFile ~/.ssh/id_ed25519_work
+	IdentitiesOnly yes
 
 # University server
 Host git_uni
-    HostName git.uni.edu
-    User git                     # or your actual username on uni server
-    IdentityFile ~/.ssh/id_ed25519_uni
-    IdentitiesOnly yes
+	HostName git.uni.edu
+	User git                     # or your actual username on uni server
+	IdentityFile ~/.ssh/id_ed25519_uni
+	IdentitiesOnly yes
 
 # Personal GitHub account
 Host personal_github
-    HostName github.com
-    User git                     # always 'git' for GitHub
-    IdentityFile ~/.ssh/id_ed25519_personal_github
-    IdentitiesOnly yes
+	HostName github.com
+	User git                     # always 'git' for GitHub
+	IdentityFile ~/.ssh/id_ed25519_personal_github
+	IdentitiesOnly yes
 
 # Second GitHub account
 Host personal2_github
-    HostName github.com
-    User git
-    IdentityFile ~/.ssh/id_ed25519_personal2_github
-    IdentitiesOnly yes
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_ed25519_personal2_github
+	IdentitiesOnly yes
 </box></pre>
 
-<h4>step 5: test SSH connections</h4>
+<h4>Step 5: Test SSH connections</h4>
+
 <p>Make sure each key works and connects to the correct account:</p>
 <pre><box>
 ssh -T git@git_work
@@ -120,7 +131,8 @@ ssh -T git@personal2_github
 <p>Expected output: <br>
 <code>Hi username! You've successfully authenticated, but GitHub/GitLab does not provide shell access.</code></p>
 
-<h4>step 6: clone repositories using the SSH host aliases</h4>
+<h4>Step 6: Clone repositories using the SSH host aliases</h4>
+
 <p>Use the <code>Host</code> alias you defined in <code>~/.ssh/config</code> instead of the raw domain:</p>
 <pre><box>
 # Work repo
@@ -136,7 +148,8 @@ git clone git@personal_github:personal_username/repo.git
 git clone git@personal2_github:personal2_username/repo.git
 </box></pre>
 
-<h4>step 7: set local user.name and user.email per repo</h4>
+<h4>Step 7: Set local user.name and user.email per repo</h4>
+
 <p>This controls commit metadata and is completely independent of SSH authentication.</p>
 <pre><box>
 cd path/to/repo
@@ -150,7 +163,8 @@ git config user.name "Personal Name"
 git config user.email "personal@email.com"
 </box></pre>
 
-<h4>step 8: commit and push</h4>
+<h4>Step 8: Commit and push</h4>
+
 <pre><box>
 # create commits as usual
 git add .
@@ -160,14 +174,15 @@ git commit -m "my commit"
 git push
 </box></pre>
 
-<h4>step 9: notes / best practices</h4>
+<h4>Step 9: Notes / best practices</h4>
+
 <ul>
-<li>Each GitHub account must have its **own unique SSH key**.</li>
-<li>Do **not** reuse keys between accounts.</li>
-<li>Always use **host aliases** from <code>~/.ssh/config</code> in your git remotes.</li>
-<li>Local <code>user.name</code> and <code>user.email</code> only affect commit metadata, not push permission.</li>
-<li>If using GitHub privacy emails, use the noreply email for <code>user.email</code> to avoid push errors.</li>
-<li><code>ssh-add</code> only needs to run once per session (or you can add keys to your OS keychain).</li>
-<li>ed25519 keys are recommended over RSA for security and speed.</li>
+	<li>Each GitHub account must have its <strong>own unique SSH key</strong>.</li>
+	<li>Do <strong>not</strong> reuse keys between accounts.</li>
+	<li>Always use <strong>host aliases</strong> from <code>~/.ssh/config</code> in your git remotes.</li>
+	<li>Local <code>user.name</code> and <code>user.email</code> only affect commit metadata, not push permission.</li>
+	<li>If using GitHub privacy emails, use the noreply email for <code>user.email</code> to avoid push errors.</li>
+	<li><code>ssh-add</code> only needs to run once per session (or you can add keys to your OS keychain).</li>
+	<li>ed25519 keys are recommended over RSA for security and speed.</li>
 </ul>
 </main>
