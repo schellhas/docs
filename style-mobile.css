@@ -1,4 +1,11 @@
-/* RESET desktop-layout */
+html {
+	font-size: 100%;
+}
+
+pre, code {
+	font-size: 0.8em;
+}
+
 aside {
 	position: fixed;
 	left: -16em;
@@ -14,7 +21,6 @@ main {
 	padding-top: 3em;
 }
 
-/* hamburger */
 #menu-button {
 	position: fixed;
 	top: 0.5em;
@@ -25,13 +31,10 @@ main {
 	user-select: none;
 }
 
-/* checkbox unsichtbar */
 #menu-toggle {
 	display: none;
 }
 
-/* menu open */
 #menu-toggle:checked ~ aside {
 	left: 0;
 }
-
