@@ -1,52 +1,47 @@
 <link rel="stylesheet" href="/docs/style.css">
 <head><title>Docs - Go</title></head>
 <aside>
-	<h1>Docs</h1>
-	<nav>
-		Languages
-		<li><a href="/docs/c/c.html">C</a></li>
-		<li><a href="/docs/asm/asm.html">ASM</a></li>
-		<li><a href="/docs/go/go.html">Go</a></li>
-		<li><a href="/docs/cpp/cpp.html">C++</a></li>
-		<li><a href="/docs/haskell/haskell.html">Haskell</a></li>
-		<li><a href="/docs/rust/rust.html">Rust</a></li>
-		APIs/Frameworks
-		<li><a href="/docs/opengl/opengl.html">OpenGL</a></li>
-		<li><a href="/docs/vulkan/vulkan.html">Vulkan</a></li>
-		<li><a href="/docs/wasm/wasm.html">WASM</a></li>
-		<li><a href="/docs/juce/juce.html">JUCE</a></li>
-		Theory
-		<li><a href="/docs/os/os.html">Operating Systems</a></li>
-		<li><a href="/docs/communication/communication.html">Communication Systems</a></li>
-		<li><a href="/docs/infosec/infosec.html">Information Security</a></li>
-		Tools
-		<li><a href="/docs/git/git.html">Git</a></li>
-		<li><a href="/docs/docker/docker.html">Docker</a></li>
-		<li><a href="/docs/k8/k8.html">Kubernetes</a></li>
-		<li><a href="/docs/make/make.html">Make</a></li>
-		<li><a href="/docs/linker/linker.html">Linker</a></li>
-		<li><a href="/docs/bash/bash.html">Bash</a></li>
-		Programs
-		<li><a href="/docs/blender/blender.html">Blender</a></li>
-		<li><a href="/docs/gimp/gimp.html">GIMP</a></li>
-		<li><a href="/docs/godot/godot.html">Godot</a></li>
-	</nav>
+	<h1>docs</h1>		
+	languages
+	<li><a href="/docs/c/c.html">c</a></li>
+	<li><a href="/docs/asm/asm.html">asm</a></li>
+	<li><a href="/docs/go/go.html">go</a></li>
+	<li><a href="/docs/cpp/cpp.html">c++</a></li>
+	<li><a href="/docs/haskell/haskell.html">haskell</a></li>
+	<li><a href="/docs/rust/rust.html">rust</a></li>
+	apis/frameworks
+	<li><a href="/docs/opengl/opengl.html">opengl</a></li>
+	<li><a href="/docs/vulkan/vulkan.html">vulkan</a></li>
+	<li><a href="/docs/wasm/wasm.html">wasm</a></li>
+	<li><a href="/docs/juce/juce.html">juce</a></li>
+	theory
+	<li><a href="/docs/os/os.html">operating systems</a></li>
+	<li><a href="/docs/communication/communication.html">communication systems</a></li>
+	<li><a href="/docs/infosec/infosec.html">information security</a></li>
+	tools
+	<li><a href="/docs/git/git.html">git</a></li>
+	<li><a href="/docs/docker/docker.html">docker</a></li>
+	<li><a href="/docs/k8/k8.html">kubernetes</a></li>
+	<li><a href="/docs/make/make.html">make</a></li>
+	<li><a href="/docs/linker/linker.html">linker</a></li>
+	<li><a href="/docs/bash/bash.html">bash</a></li>
+	programs
+	<li><a href="/docs/blender/blender.html">blender</a></li>
+	<li><a href="/docs/gimp/gimp.html">gimp</a></li>
+	<li><a href="/docs/godot/godot.html">godot</a></li>
+>>>>>>> parent of 81d5f85 (new form)
 </aside>
 <main>
-
-<h1>Go</h1>
-
-<h2>Overview</h2>
-
-<h3>Function Declarations</h3>
-
-<p>Template:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
+<h1>go</h1>
+<h2>overview</h2>
+<h3>function declarations</h3>
+<p>template:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
 <pre><box>
 func nameOfFunc(arguments) (returnTypes) {
 	// body
 }
 </box></pre>
-<p>Examples:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
+<p>examples:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
 <pre><box>
 func multiply(x, y int) int {
 	return x*y;
@@ -61,30 +56,28 @@ func addSub(x, y int) (int, int) {
 }
 </box></pre>
 
-<h3>Data Types</h3>
-
-Boolean:<sup><a href="https://www.w3schools.com/go/go_boolean_data_type.php">[2]</a></sup>
+<h3>data types</h3>
+boolean:<sup><a href="https://www.w3schools.com/go/go_boolean_data_type.php">[2]</a></sup>
 <li><code>bool</code></li>
-Integers:<sup><a href="https://www.w3schools.com/go/go_integer_data_type.php">[3]</a></sup>
-<li><code>int</code> Size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
+integers:<sup><a href="https://www.w3schools.com/go/go_integer_data_type.php">[3]</a></sup>
+<li><code>int</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
 <li><code>int8</code> -128 to 127</li>
 <li><code>int16</code> -32_768 to 32_767</li>
 <li><code>int32</code> -2_147_483_648 to 2_147_483_647</li>
 <li><code>int64</code> -9_223_372_036_854_775_808 to 9_223_372_036_854_775_807</li>
-<li><code>uint</code> Size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
+<li><code>uint</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
 <li><code>uint8</code> 0 to 255</li>
 <li><code>uint16</code> 0 to 65_535</li>
 <li><code>uint32</code> 0 to 4_294_967_295</li>
 <li><code>uint64</code>0 to 18_446_744_073_709_551_615</li>
-Floats:<sup><a href="https://www.w3schools.com/go/go_float_data_type.php">[4]</a></sup>
+floats:<sup><a href="https://www.w3schools.com/go/go_float_data_type.php">[4]</a></sup>
 <li><code>float32</code> 32-bit, -3.4e+38 to 3.4e+38</li>
 <li><code>float64</code> 64-bit, -1.7e+308 to +1.7e+308</li>
-String:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</a></sup>
+string:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</a></sup>
 <li><code>string</code></li>
 
-<h3>Structs</h3>
-
-<p>Template:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
+<h3>structs</h3>
+<p>template:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
 <pre><box>
 type struct_name struct {
 	member1 datatype;
@@ -93,7 +86,7 @@ type struct_name struct {
 	...
 }
 </box></pre>
-<p>Example:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
+<p>example:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
 <pre><box>
 type Person struct {
 	name string
@@ -128,9 +121,8 @@ func main() {
 }
 </box></pre>
 
-<h3>Arrays</h3>
-
-<p>Template:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
+<h3>arrays</h3>
+<p>template:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
 <pre><box>
 var array_name = [length]datatype{values}	/* length is defined */
 var array_name = [...]datatype{values}		/* length is inferred */
@@ -138,7 +130,7 @@ var array_name = [...]datatype{values}		/* length is inferred */
 array_name := [length]datatype{values}		/* length is defined */
 array_name := [...]datatype{values}		/* length is inferred */
 </box></pre>
-<p>Example:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
+<p>example:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
 <pre><box>
 package main
 import ("fmt")
@@ -206,10 +198,8 @@ func main() {
 	fmt.Println(len(arr2))
 }
 </box></pre>
-
-<h4>Array Initialization</h4>
-
-<p>If not initialized, the not-initialized elements get a <em>default value</em> assigned. for int: 0, for string: "".</p>
+<h4>array initialization</h4>
+<p>if not initialized, the not-initialized elements get a <em>default value</em> assigned. for int: 0, for string: "".</p>
 <pre><box>
 package main
 import ("fmt")
@@ -224,4 +214,5 @@ func main() {
 	fmt.Println(arr3)
 }
 </box></pre>
+
 </main>
