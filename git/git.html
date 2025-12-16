@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/docs/style.css">
 <aside>
-	<h1>docs</h1>		
+	<h1>docs</h1>
 	languages
 	<li><a href="/docs/c/c.html">c</a></li>
 	<li><a href="/docs/asm/asm.html">asm</a></li>
@@ -96,9 +96,18 @@ Host personal_gitlab
 	IdentityFile ~/.ssh/id_rsa_personal
 	IdentitiesOnly yes
 </box></pre>
-<h4>step 4: clone using ssh</h4>
+<h4>step 4: check the connection</h4>
+<pre><box>
+ssh -T git@github	/* for github */
+</box></pre>
+<h4>step 5: clone using ssh</h4>
 <p>url should look something like this:</p>
 <pre><box>
 git clone git@github:username/repo.git
+</box></pre>
+<h4>step 6: set local user.name and user.email</h4>
+<pre><box>
+git config user.name "name"
+git config user.email "name@mail.com"
 </box></pre>
 </main>
