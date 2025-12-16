@@ -36,3 +36,11 @@ aside {
 a {
 	color: #8ab4f8;
 }
+
+/* hide burger menu on desktop */
+@media (min-width: 769px) {
+	#menu-toggle,
+	#menu-button {
+		display: none;
+	}
+}
