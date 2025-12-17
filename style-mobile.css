@@ -54,7 +54,7 @@ main {
 	z-index: 1200;
 	box-sizing: border-box;
 	gap: 1em;                  /* space between items if needed */
-	font-size: 1em;
+	font-size: 2em;
 }
 
 /* insert static text into header */
