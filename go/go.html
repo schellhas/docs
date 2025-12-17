@@ -6,7 +6,7 @@
 <input type="checkbox" id="menu-toggle">
 <label for="menu-toggle" id="menu-button">☰</label>
 <aside>
-	<h1>docs</h1>		
+	<h1>docs</h1>
 	languages
 	<ul>
 	<li><a href="/docs/c/c.html">c</a></li>
@@ -138,11 +138,15 @@ func main() {
 <h3>arrays</h3>
 <p>template:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
 <pre><box>
-var array_name = [length]datatype{values}	/* length is defined */
-var array_name = [...]datatype{values}		/* length is inferred */
+/* length is defined */
+var array_name = [length]datatype{values}
+/* length is inferred */
+var array_name = [...]datatype{values}
 
-array_name := [length]datatype{values}		/* length is defined */
-array_name := [...]datatype{values}		/* length is inferred */
+/* length is defined */
+array_name := [length]datatype{values}
+/* length is inferred */
+array_name := [...]datatype{values}
 </box></pre>
 <p>example:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
 <pre><box>
@@ -174,7 +178,8 @@ package main
 import ("fmt")
 
 func main() {
-	var cars = [4]string{"Volvo", "BMW", "Ford", "Mazda"}
+	var cars = [4]string{"Volvo", "BMW", "Ford",
+				"Mazda"}
 	fmt.Print(cars)
 }
 </box></pre>
@@ -205,7 +210,8 @@ package main
 import ("fmt")
 
 func main() {
-	arr1 := [4]string{"Volvo", "BMW", "Ford", "Mazda"}
+	arr1 := [4]string{"Volvo", "BMW", "Ford",
+				"Mazda"}
 	arr2 := [...]int{1,2,3,4,5,6}
 
 	fmt.Println(len(arr1))

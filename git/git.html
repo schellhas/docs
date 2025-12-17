@@ -7,7 +7,7 @@
 <input type="checkbox" id="menu-toggle">
 <label for="menu-toggle" id="menu-button">☰</label>
 <aside>
-	<h1>docs</h1>		
+	<h1>docs</h1>
 	languages
 	<ul>
 	<li><a href="/docs/c/c.html">c</a></li>
@@ -55,16 +55,20 @@
 <p>Do this for each account (GitHub, work server, university, personal, etc.). Each key is unique per account.</p>
 <pre><box>
 # Work Git server
-ssh-keygen -t ed25519 -C "work@email.com" -f ~/.ssh/id_ed25519_work
+ssh-keygen -t ed25519 -C "work@email.com" -f \
+	~/.ssh/id_ed25519_work
 
 # University Git server
-ssh-keygen -t ed25519 -C "uni@email.com" -f ~/.ssh/id_ed25519_uni
+ssh-keygen -t ed25519 -C "uni@email.com" -f \
+	~/.ssh/id_ed25519_uni
 
 # Personal GitHub account
-ssh-keygen -t ed25519 -C "personal@email.com" -f ~/.ssh/id_ed25519_personal_github
+ssh-keygen -t ed25519 -C "personal@email.com" -f \
+	~/.ssh/id_ed25519_personal_github
 
 # Second GitHub account (if you have one)
-ssh-keygen -t ed25519 -C "personal2@email.com" -f ~/.ssh/id_ed25519_personal2_github
+ssh-keygen -t ed25519 -C "personal2@email.com" -f \
+	~/.ssh/id_ed25519_personal2_github
 </box></pre>
 
 <h4>step 2: add the keys to ssh-agent</h4>
@@ -98,22 +102,25 @@ cat ~/.ssh/id_ed25519_personal2_github.pub
 <pre><box>
 # Work server
 Host git_work
-    HostName git.work.com       # actual server
-    User git                     # usually 'git' for git servers, otherwise your Unix username
+    HostName git.work.com	# actual server
+    User git			# usually 'git' for git
+				# servers, otherwise
+				# your Unix username
     IdentityFile ~/.ssh/id_ed25519_work
     IdentitiesOnly yes
 
 # University server
 Host git_uni
     HostName git.uni.edu
-    User git                     # or your actual username on uni server
+    User git			# or your actual
+				# username on uni server
     IdentityFile ~/.ssh/id_ed25519_uni
     IdentitiesOnly yes
 
 # Personal GitHub account
 Host personal_github
     HostName github.com
-    User git                     # always 'git' for GitHub
+    User git			# always 'git' for GitHub
     IdentityFile ~/.ssh/id_ed25519_personal_github
     IdentitiesOnly yes
 
@@ -172,13 +179,15 @@ git config user.email "personal@email.com"
 git add .
 git commit -m "my commit"
 
-# push to the correct remote (SSH will automatically pick the right key)
+# push to the correct remote
+# (SSH will automatically pick the right key)
 git push
 </box></pre>
 <h4>step 9: wrong SSH key</h4>
 <p>If Git offers the wrong SSH key (check with <code>GIT_SSH_COMMAND="ssh -v" git push</code>), fix it by pointing the remote to the correct SSH host alias:</p>
 <pre><box>
-git remote set-url origin git@personal_github:username/repo.git
+git remote set-url origin \
+	git@personal_github:username/repo.git
 </box></pre>
 <h4>step 10: notes / best practices</h4>
 <ul>
