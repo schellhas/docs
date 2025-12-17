@@ -54,11 +54,12 @@ main {
 	z-index: 1200;
 	box-sizing: border-box;
 	gap: 1em;                  /* space between items if needed */
+	font-size: 1em;
 }
 
-#mobile-title {
-	font-weight: bold;
-	font-size: 1em;
+/* insert static text into header */
+#mobile-header::before {
+	content: "docs";
 }
 
 main {
