@@ -175,8 +175,12 @@ git commit -m "my commit"
 # push to the correct remote (SSH will automatically pick the right key)
 git push
 </box></pre>
-
-<h4>step 9: notes / best practices</h4>
+<h4>step 9: wrong SSH key</h4>
+<p>If Git offers the wrong SSH key (check with <code>GIT_SSH_COMMAND="ssh -v" git push</code>), fix it by pointing the remote to the correct SSH host alias:</p>
+<pre><box>
+git remote set-url origin git@personal_github:username/repo.git
+</box></pre>
+<h4>step 10: notes / best practices</h4>
 <ul>
 <li>Each GitHub account must have its **own unique SSH key**.</li>
 <li>Do **not** reuse keys between accounts.</li>
