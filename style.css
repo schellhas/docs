@@ -40,7 +40,9 @@ a {
 /* hide burger menu on desktop */
 @media (min-width: 769px) {
 	#menu-toggle,
-	#menu-button {
+	#menu-button,
+	#mobile-title,
+	#mobile-header {
 		display: none;
 	}
 }
