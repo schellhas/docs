@@ -2,10 +2,6 @@ html {
 	font-size: 100%;
 }
 
-pre, code {
-	font-size: 0.8em;
-}
-
 aside {
 	position: fixed;
 	left: -16em;
