@@ -13,6 +13,10 @@ aside {
 	padding-top: 2em;
 }
 
+pre, code {
+	font-size: 0.8em;
+}
+
 main {
 	margin-left: 0;
 	padding-top: 3em;
