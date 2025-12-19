@@ -1,0 +1,234 @@
+<head>
+<title>docs - go</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/docs/style.css">
+<link rel="stylesheet" href="/docs/style-mobile.css" media="(max-width: 768px)">
+</head>
+<body>
+<!-- mobile top bar -->
+<header id="mobile-header">
+<label for="menu-toggle" id="menu-button">☰</label>
+</header>
+<!-- burger toggle -->
+<input type="checkbox" id="menu-toggle">
+<aside>
+	<h1>docs</h1>
+	languages
+	<li><a href="/docs/c/c.html">c</a></li>
+	<li><a href="/docs/asm/asm.html">asm</a></li>
+	<li><a href="/docs/go/go.html">go</a></li>
+	<li><a href="/docs/cpp/cpp.html">c++</a></li>
+	<li><a href="/docs/haskell/haskell.html">haskell</a></li>
+	<li><a href="/docs/rust/rust.html">rust</a></li>
+	apis/frameworks
+	<li><a href="/docs/opengl/opengl.html">opengl</a></li>
+	<li><a href="/docs/vulkan/vulkan.html">vulkan</a></li>
+	<li><a href="/docs/wasm/wasm.html">wasm</a></li>
+	<li><a href="/docs/juce/juce.html">juce</a></li>
+	concepts
+	<li><a href="/docs/os/os.html">operating systems</a></li>
+	<li><a href="/docs/communication/communication.html">communication systems</a></li>
+	<li><a href="/docs/infosec/infosec.html">information security</a></li>
+	tools
+	<li><a href="/docs/git/git.html">git</a></li>
+	<li><a href="/docs/docker/docker.html">docker</a></li>
+	<li><a href="/docs/k8/k8.html">kubernetes</a></li>
+	<li><a href="/docs/make/make.html">make</a></li>
+	<li><a href="/docs/linker/linker.html">linker</a></li>
+	<li><a href="/docs/bash/bash.html">bash</a></li>
+	programs
+	<li><a href="/docs/blender/blender.html">blender</a></li>
+	<li><a href="/docs/gimp/gimp.html">gimp</a></li>
+	<li><a href="/docs/godot/godot.html">godot</a></li>
+</aside>
+<main>
+<h1>go</h1>
+<h2>overview</h2>
+<h3 id="function-declarations">function declarations</h3>
+<p>template:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
+<pre><box>
+func nameOfFunc(arguments) (returnTypes) {
+	// body
+}
+</box></pre>
+<p>examples:<sup><a href="https://golangdocs.com/functions-in-golang">[1]</a></sup></p>
+<pre><box>
+func multiply(x, y int) int {
+	return x*y;
+}
+
+fun showAge(name string, age int) {
+	fmt.Println("%s is %d years old.\n", name, age)
+}
+
+func addSub(x, y int) (int, int) {
+	return x+y, x-y
+}
+</box></pre>
+
+<h3 id="data-types">data types</h3>
+boolean:<sup><a href="https://www.w3schools.com/go/go_boolean_data_type.php">[2]</a></sup>
+<li><code>bool</code></li>
+integers:<sup><a href="https://www.w3schools.com/go/go_integer_data_type.php">[3]</a></sup>
+<li><code>int</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
+<li><code>int8</code> -128 to 127</li>
+<li><code>int16</code> -32_768 to 32_767</li>
+<li><code>int32</code> -2_147_483_648 to 2_147_483_647</li>
+<li><code>int64</code> -9_223_372_036_854_775_808 to 9_223_372_036_854_775_807</li>
+<li><code>uint</code> size depends on platform, 32-bit on 32-bit systems, 64-bit on 64-bit systems</li>
+<li><code>uint8</code> 0 to 255</li>
+<li><code>uint16</code> 0 to 65_535</li>
+<li><code>uint32</code> 0 to 4_294_967_295</li>
+<li><code>uint64</code>0 to 18_446_744_073_709_551_615</li>
+floats:<sup><a href="https://www.w3schools.com/go/go_float_data_type.php">[4]</a></sup>
+<li><code>float32</code> 32-bit, -3.4e+38 to 3.4e+38</li>
+<li><code>float64</code> 64-bit, -1.7e+308 to +1.7e+308</li>
+string:<sup><a href="https://www.w3schools.com/go/go_string_data_type.php">[5]</a></sup>
+<li><code>string</code></li>
+
+<h3 id="structs">structs</h3>
+<p>template:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
+<pre><box>
+type struct_name struct {
+	member1 datatype;
+	member2 datatype;
+	member3 datatype;
+	...
+}
+</box></pre>
+<p>example:<sup><a href="https://www.w3schools.com/go/go_struct.php">[6]</a></sup></p>
+<pre><box>
+type Person struct {
+	name string
+	age int
+	job string
+	salary int
+}
+
+func main() {
+	var pers1 Person
+	var pers2 Person
+
+	pers1.name = "Hege"
+	pers1.age = 45
+	pers1.job = "Teacher"
+	pers1.salary = 6000
+
+	pers2.name = "Cecilie"
+	pers2.age = 24
+	pers2.job = "Marketing"
+	pers2.salary = 4500
+
+	fmt.Println("Name: ", pers1.name)
+	fmt.Println("Age: ", pers1.age)
+	fmt.Println("Job: ", pers1.job)
+	fmt.Println("Salary: ", pers1.salary)
+
+	fmt.Println("Name: ", pers2.name)
+	fmt.Println("Age: ", pers2.age)
+	fmt.Println("Job: ", pers2.job)
+	fmt.Println("Salary: ", pers2.salary)
+}
+</box></pre>
+
+<h3 id="arrays">arrays</h3>
+<p>template:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
+<pre><box>
+/* length is defined */
+var array_name = [length]datatype{values}
+/* length is inferred */
+var array_name = [...]datatype{values}
+
+/* length is defined */
+array_name := [length]datatype{values}
+/* length is inferred */
+array_name := [...]datatype{values}
+</box></pre>
+<p>example:<sup><a href="https://www.w3schools.com/go/go_arrays.php">[7]</a></sup></p>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	var arr1 = [3]int{1,2,3}
+	arr2 := [5]int{4,5,6,7,8}
+
+	fmt.Println(arr1)
+	fmt.Println(arr2)
+}
+</box></pre>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	var arr1 = [...]int{1,2,3}
+	arr2 := [...]int{4,5,6,7,8}
+
+	fmt.Println(arr1)
+	fmt.Println(arr2)
+}
+</box></pre>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	var cars = [4]string{"Volvo", "BMW", "Ford",
+				"Mazda"}
+	fmt.Print(cars)
+}
+</box></pre>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	prices := [3]int{10,20,30}
+
+	fmt.Println(prices[0])
+	fmt.Println(prices[2])
+}
+</box></pre>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	prices := [3]int{10,20,30}
+
+	prices[2] = 50
+	fmt.Println(prices)
+}
+</box></pre>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	arr1 := [4]string{"Volvo", "BMW", "Ford",
+				"Mazda"}
+	arr2 := [...]int{1,2,3,4,5,6}
+
+	fmt.Println(len(arr1))
+	fmt.Println(len(arr2))
+}
+</box></pre>
+<h4 id="array-initialization">array initialization</h4>
+<p>if not initialized, the not-initialized elements get a <em>default value</em> assigned. for int: 0, for string: "".</p>
+<pre><box>
+package main
+import ("fmt")
+
+func main() {
+	arr1 := [5]int{} //not initialized
+	arr2 := [5]int{1,2} //partially initialized
+	arr3 := [5]int{1,2,3,4,5} //fully initialized
+
+	fmt.Println(arr1)
+	fmt.Println(arr2)
+	fmt.Println(arr3)
+}
+</box></pre>
+
+</main>
