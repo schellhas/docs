@@ -3,7 +3,6 @@ Docs
 
 .. toctree::
 	:maxdepth: 2
-	:numbered:
 
 	languages/index.rst
 	apis_frameworks/index.rst
