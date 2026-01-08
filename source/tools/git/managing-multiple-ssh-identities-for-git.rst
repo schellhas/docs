@@ -4,7 +4,7 @@ Managing multiple SSH identities for Git
 .. note::
    Whole site is written by AI
 
-Step 1: generate ed25519 SSH keys for each account
+Step 1: Generate ed25519 SSH keys for each account
 --------------------------------------------------
 
 Do this for each account (GitHub, work server, university, personal, etc.). Each key is unique per account.
@@ -27,7 +27,7 @@ Do this for each account (GitHub, work server, university, personal, etc.). Each
    ssh-keygen -t ed25519 -C "personal2@email.com" -f \
        ~/.ssh/id_ed25519_personal2_github
 
-Step 2: add the keys to ssh-agent
+Step 2: Add the keys to SSH-agent
 ---------------------------------
 
 This ensures SSH can automatically use your keys without entering the passphrase every time.
@@ -40,7 +40,7 @@ This ensures SSH can automatically use your keys without entering the passphrase
    ssh-add ~/.ssh/id_ed25519_personal_github
    ssh-add ~/.ssh/id_ed25519_personal2_github
 
-Step 3: add public keys to the corresponding services
+Step 3: Add public keys to the corresponding services
 ------------------------------------------------------
 
 Copy the `.pub` files into the web UI of your Git servers / GitHub accounts.
@@ -59,7 +59,7 @@ Upload each key to the correct account:
 - Personal GitHub → personal GitHub account
 - Second GitHub → second GitHub account
 
-Step 4: configure `~/.ssh/config`
+Step 4: Configure `~/.ssh/config`
 ---------------------------------
 
 This maps each host alias to its key. You will use these aliases in git clone URLs.
@@ -94,7 +94,7 @@ This maps each host alias to its key. You will use these aliases in git clone UR
        IdentityFile ~/.ssh/id_ed25519_personal2_github
        IdentitiesOnly yes
 
-Step 5: test SSH connections
+Step 5: Test SSH connections
 ----------------------------
 
 Make sure each key works and connects to the correct account.
@@ -112,7 +112,7 @@ Expected output:
 
    Hi username! You've successfully authenticated, but GitHub/GitLab does not provide shell access.
 
-Step 6: clone repositories using the SSH host aliases
+Step 6: Clone repositories using the SSH host aliases
 ------------------------------------------------------
 
 Use the `Host` alias you defined in `~/.ssh/config` instead of the raw domain.
@@ -131,7 +131,7 @@ Use the `Host` alias you defined in `~/.ssh/config` instead of the raw domain.
    # Second GitHub repo
    git clone git@personal2_github:personal2_username/repo.git
 
-Step 7: set local user.name and user.email per repo
+Step 7: Set local user.name and user.email per repo
 ---------------------------------------------------
 
 This controls commit metadata and is independent of SSH authentication.
@@ -148,7 +148,7 @@ This controls commit metadata and is independent of SSH authentication.
    git config user.name "Personal Name"
    git config user.email "personal@email.com"
 
-Step 8: commit and push
+Step 8: Commit and push
 -----------------------
 
 .. code-block:: bash
@@ -157,7 +157,7 @@ Step 8: commit and push
    git commit -m "my commit"
    git push
 
-Step 9: wrong SSH key
+Step 9: Wrong SSH key
 ---------------------
 
 If Git offers the wrong SSH key (check with `GIT_SSH_COMMAND="ssh -v" git push`), fix it by pointing the remote to the correct SSH host alias.
@@ -167,7 +167,7 @@ If Git offers the wrong SSH key (check with `GIT_SSH_COMMAND="ssh -v" git push`)
    git remote set-url origin \
        git@personal_github:username/repo.git
 
-Step 10: notes / best practices
+Step 10: Notes / best practices
 -------------------------------
 
 - Each GitHub account must have its **own unique SSH key**.
