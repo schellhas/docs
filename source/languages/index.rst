@@ -3,7 +3,6 @@ Languages
 
 .. toctree::
 	:maxdepth: 4
-	:caption: Languages:
 
 	c/index.rst
 	asm/index.rst

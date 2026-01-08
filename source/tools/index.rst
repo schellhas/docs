@@ -3,7 +3,6 @@ Tools
 
 .. toctree::
 	:maxdepth: 4
-	:caption: Tools:
 
 	git/index.rst
 	docker/index.rst
