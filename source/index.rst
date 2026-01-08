@@ -5,4 +5,8 @@ Docs
 	:maxdepth: 4
 	:caption: Contents:
 
-	git/index
+	languages/index.rst
+	apis_frameworks/index.rst
+	concepts/index.rst
+	tools/index.rst
+	programs/index.rst
