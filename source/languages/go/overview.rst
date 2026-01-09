@@ -1,42 +1,42 @@
 Overview
 ========
 
-function declarations
+Function declarations
 ---------------------
 
-template: [1]_
+Template: [1]_
 
 .. code-block:: go
 
-   func nameOfFunc(arguments) (returnTypes) {
-       // body
-   }
+	func nameOfFunc(arguments) (returnTypes) {
+		// body
+	}
 
-examples: [1]_
+Examples: [1]_
 
 .. code-block:: go
 
-   func multiply(x, y int) int {
-       return x*y
-   }
+	func multiply(x, y int) int {
+		return x*y
+	}
 
-   func showAge(name string, age int) {
-       fmt.Printf("%s is %d years old.\n", name, age)
-   }
+	func showAge(name string, age int) {
+		fmt.Printf("%s is %d years old.\n", name, age)
+	}
 
-   func addSub(x, y int) (int, int) {
-       return x+y, x-y
-   }
+	func addSub(x, y int) (int, int) {
+		return x+y, x-y
+	}
 
 
-data types
+Data types
 ----------
 
-boolean: [2]_
+Boolean: [2]_
 
 - ``bool``
 
-integers: [3]_
+Integers: [3]_
 
 - ``int`` (platform dependent)
 - ``int8``  -128 to 127
@@ -49,72 +49,72 @@ integers: [3]_
 - ``uint32``
 - ``uint64``
 
-floats: [4]_
+Floats: [4]_
 
 - ``float32``
 - ``float64``
 
-string: [5]_
+String: [5]_
 
 - ``string``
 
 
-structs
+Structs
 -------
 
-template: [6]_
+Template: [6]_
 
 .. code-block:: go
 
-   type struct_name struct {
-       member1 datatype
-       member2 datatype
-       member3 datatype
-   }
+	type struct_name struct {
+		member1 datatype
+		member2 datatype
+		member3 datatype
+	}
 
-example: [6]_
+Example: [6]_
 
 .. code-block:: go
 
-   type Person struct {
-       name string
-       age int
-       job string
-       salary int
-   }
+	type Person struct {
+		name string
+		age int
+		job string
+		salary int
+	}
 
 
-arrays
+Arrays
 ------
 
-template: [7]_
+Template: [7]_
 
 .. code-block:: go
 
-   var array_name = [length]datatype{values}
-   var array_name = [...]datatype{values}
+	var array_name = [length]datatype{values}
+	var array_name = [...]datatype{values}
 
-example: [7]_
+Example: [7]_
 
 .. code-block:: go
 
-   var arr1 = [3]int{1,2,3}
-   arr2 := [5]int{4,5,6,7,8}
+	var arr1 = [3]int{1,2,3}
+	arr2 := [5]int{4,5,6,7,8}
 
 
-array initialization
+Array initialization
 ~~~~~~~~~~~~~~~~~~~~
 
 If not initialized, elements receive default values.
 
 .. code-block:: go
 
-   arr1 := [5]int{}
-   arr2 := [5]int{1,2}
-   arr3 := [5]int{1,2,3,4,5}
+	arr1 := [5]int{}
+	arr2 := [5]int{1,2}
+	arr3 := [5]int{1,2,3,4,5}
 
 
-sources
+Sources
 -------
 
 .. [1] https://golangdocs.com/functions-in-golang
