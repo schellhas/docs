@@ -12,20 +12,16 @@ Do this for each account (GitHub, work server, university, personal, etc.). Each
 .. code-block:: bash
 
 	# Work Git server
-	ssh-keygen -t ed25519 -C "work@email.com" -f \
-		~/.ssh/id_ed25519_work
+	ssh-keygen -t ed25519 -C "work@email.com" -f ~/.ssh/id_ed25519_work
 
 	# University Git server
-	ssh-keygen -t ed25519 -C "uni@email.com" -f \
-		~/.ssh/id_ed25519_uni
+	ssh-keygen -t ed25519 -C "uni@email.com" -f ~/.ssh/id_ed25519_uni
 
 	# Personal GitHub account
-	ssh-keygen -t ed25519 -C "personal@email.com" -f \
-		~/.ssh/id_ed25519_personal_github
+	ssh-keygen -t ed25519 -C "personal@email.com" -f ~/.ssh/id_ed25519_personal_github
 
 	# Second GitHub account (if you have one)
-	ssh-keygen -t ed25519 -C "personal2@email.com" -f \
-		~/.ssh/id_ed25519_personal2_github
+	ssh-keygen -t ed25519 -C "personal2@email.com" -f ~/.ssh/id_ed25519_personal2_github
 
 Step 2: Add the keys to SSH-agent
 ---------------------------------
@@ -164,8 +160,7 @@ If Git offers the wrong SSH key (check with `GIT_SSH_COMMAND="ssh -v" git push`)
 
 .. code-block:: bash
 
-	git remote set-url origin \
-		git@personal_github:username/repo.git
+	git remote set-url origin git@github.com:username/repo.git
 
 Step 10: Notes / best practices
 -------------------------------
