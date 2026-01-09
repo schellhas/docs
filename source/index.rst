@@ -28,7 +28,7 @@ APIs & Frameworks
 Concepts
 
 .. toctree::
-	:maxpdepth: 1
+	:maxdepth: 1
 
 	os/index
 	computer_networks/index
@@ -58,7 +58,7 @@ Programs
 Notes
 
 .. toctree::
-	:maxpdeth: 1
+	:maxdepth: 1
 
 	vim/index
 	latex/index
