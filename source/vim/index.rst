@@ -5,6 +5,7 @@ vim
 ------
 
 .. code-block:: vim
+
 	set number
 	set breakindent
 	syntax on
