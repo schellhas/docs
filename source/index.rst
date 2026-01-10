@@ -3,10 +3,9 @@ Docs
 
 These documents serve for everything I've had to lookup twice, everything I still want to learn, and some stuff for the sake of completeness.
 
-Languages
-
 .. toctree::
 	:maxdepth: 1
+	:caption: Languages
 
 	c/index
 	asm/index
@@ -15,29 +14,26 @@ Languages
 	haskell/index
 	rust/index
 
-APIs & Frameworks
-
 .. toctree::
 	:maxdepth: 1
+	:caption: APIs & Frameworks
 
 	opengl/index
 	vulkan/index
 	wasm/index
 	juce/index
 
-Concepts
-
 .. toctree::
 	:maxdepth: 1
+	:caption: Concepts
 
 	os/index
 	computer_networks/index
 	information_security/index
 
-Tools
-
 .. toctree::
 	:maxdepth: 1
+	:caption: Tools
 
 	git/index
 	docker/index
@@ -46,19 +42,17 @@ Tools
 	linker/index
 	bash/index
 
-Programs
-
 .. toctree::
 	:maxdepth: 1
+	:caption: Programs
 
 	blender/index
 	gimp/index
 	godot/index
 
-Notes
-
 .. toctree::
 	:maxdepth: 1
+	:caption: Notes
 
 	vim/index
 	latex/index
