@@ -12,23 +12,12 @@ Code:
 		:maxdepth: 2
 		:caption: reStructuredText
 
-		Note
-		Warning
-		List
-		Monospaced
-		Code-Block
+		dir/file1
+		dir/file2
+		dir2/file1
+		dir3/file
 
-Output:
-
-.. toctree::
-	:maxdepth: 2
-	:caption: reStructuredText
-
-		Note
-		Warning
-		List
-		Monospaced
-		Code-Block
+I can't build a toc here because it's a single document, just trust.
 
 Note
 ----
