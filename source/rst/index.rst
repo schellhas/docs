@@ -146,6 +146,7 @@ Output:
 Available languages/syntax-highlightings:
 
 Langs:
+
 - ``c``
 - ``cpp``, ``c++``
 - ``asm``, ``nasm``
@@ -155,10 +156,14 @@ Langs:
 - ``java``
 - ``scala``
 - ``python``
+
 Script:
+
 - ``bash``,  ``sh``
 - ``lua``
+
 Web:
+
 - ``html``
 - ``css``
 - ``javascript``, ``js``
@@ -166,7 +171,9 @@ Web:
 - ``json``
 - ``xml``
 - ``yaml``, ``yml``
+
 Also:
+
 - ``sql``
 - ``toml``
 - ``docker, ``dockerfile``
