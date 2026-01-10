@@ -176,5 +176,5 @@ Also:
 
 - ``sql``
 - ``toml``
-- ``docker, ``dockerfile``
+- ``docker``, ``dockerfile``
 - ``make``, ``makefile``
