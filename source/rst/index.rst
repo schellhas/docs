@@ -59,31 +59,34 @@ Output:
 		return 0;
 	}
 
-Code:
+Available languages/syntax-highlightings:
 
-.. code-block:: rst
-
-	.. code-block:: bash
-		sudo apt install gcc
-
-Output:
-
-.. code-block:: bash
-	sudo apt install gcc
-
-Code:
-
-.. code-block:: rst
-
-	.. code-block:: sql
-		SELECT * 
-		FROM table;
-
-Output:
-
-.. code-block:: sql
-	SELECT * 
-	FROM table;
+Langs:
+- ``c``
+- ``cpp``, ``c++``
+- ``asm``, ``nasm``
+- ``rust``
+- ``go``
+- ``kotlin``
+- ``java``
+- ``scala``
+- ``python``
+Script:
+- ``bash``,  ``sh``
+- ``lua``
+Web:
+- ``html``
+- ``css``
+- ``javascript``, ``js``
+- ``typescript``
+- ``json``
+- ``xml``
+- ``yaml``, ``yml``
+Also:
+- ``sql``
+- ``toml``
+- ``docker, ``dockerfile``
+- ``make``, ``makefile``
 
 Note
 ----
