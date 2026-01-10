@@ -12,11 +12,11 @@ Code:
 		:maxdepth: 2
 		:caption: reStructuredText
 
-		Code-Block
 		Note
 		Warning
 		List
 		Monospaced
+		Code-Block
 
 Output:
 
@@ -24,69 +24,11 @@ Output:
 	:maxdepth: 2
 	:caption: reStructuredText
 
-		Code-Block
 		Note
 		Warning
 		List
 		Monospaced
-
-Code-Block
-----------
-
-Code:
-
-.. code-block:: rst
-
-	.. code-block:: c
-
-		#include <stdio.h>
-
-		int main() {
-			printf("Hello, world!\n");
-
-			return 0;
-		}
-
-Output:
-
-.. code-block:: c
-
-	#include <stdio.h>
-
-	int main() {
-		printf("Hello, world!\n");
-
-		return 0;
-	}
-
-Available languages/syntax-highlightings:
-
-Langs:
-- ``c``
-- ``cpp``, ``c++``
-- ``asm``, ``nasm``
-- ``rust``
-- ``go``
-- ``kotlin``
-- ``java``
-- ``scala``
-- ``python``
-Script:
-- ``bash``,  ``sh``
-- ``lua``
-Web:
-- ``html``
-- ``css``
-- ``javascript``, ``js``
-- ``typescript``
-- ``json``
-- ``xml``
-- ``yaml``, ``yml``
-Also:
-- ``sql``
-- ``toml``
-- ``docker, ``dockerfile``
-- ``make``, ``makefile``
+		Code-Block
 
 Note
 ----
@@ -171,3 +113,61 @@ Code:
 Output:
 
 ``I am written in monospaced font``
+
+Code-Block
+----------
+
+Code:
+
+.. code-block:: rst
+
+	.. code-block:: c
+
+		#include <stdio.h>
+
+		int main() {
+			printf("Hello, world!\n");
+
+			return 0;
+		}
+
+Output:
+
+.. code-block:: c
+
+	#include <stdio.h>
+
+	int main() {
+		printf("Hello, world!\n");
+
+		return 0;
+	}
+
+Available languages/syntax-highlightings:
+
+Langs:
+- ``c``
+- ``cpp``, ``c++``
+- ``asm``, ``nasm``
+- ``rust``
+- ``go``
+- ``kotlin``
+- ``java``
+- ``scala``
+- ``python``
+Script:
+- ``bash``,  ``sh``
+- ``lua``
+Web:
+- ``html``
+- ``css``
+- ``javascript``, ``js``
+- ``typescript``
+- ``json``
+- ``xml``
+- ``yaml``, ``yml``
+Also:
+- ``sql``
+- ``toml``
+- ``docker, ``dockerfile``
+- ``make``, ``makefile``
