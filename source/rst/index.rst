@@ -5,6 +5,7 @@ Table of Contents
 -----------------
 
 Code:
+
 .. code-block:: rst
 
 	.. toctree::
@@ -12,6 +13,7 @@ Code:
 		:caption: reStructuredText
 
 Output:
+
 .. toctree::
 	:maxdepth: 2
 	:caption: reStructuredText
@@ -20,6 +22,7 @@ Code-Block
 ----------
 
 Code:
+
 .. code-block:: rst
 
 	.. code-block:: c
@@ -33,6 +36,7 @@ Code:
 		}
 
 Output:
+
 .. code-block:: c
 
 	#include <stdio.h>
@@ -44,16 +48,19 @@ Output:
 	}
 
 Code:
+
 .. code-block:: rst
 
 	.. code-block:: bash
 		sudo apt install gcc
 
 Output:
+
 .. code-block:: bash
 	sudo apt install gcc
 
 Code:
+
 .. code-block:: rst
 
 	.. code-block:: sql
@@ -61,6 +68,7 @@ Code:
 		FROM table;
 
 Output:
+
 .. code-block:: sql
 	SELECT * 
 	FROM table;
@@ -69,6 +77,7 @@ Note
 ----
 
 Code:
+
 .. code-block:: rst
 
 	.. warning::
@@ -76,22 +85,26 @@ Code:
 		It can span multiple lines.
 
 Output:
+
 .. warning::
 	This is a note.
 	It can span multiple lines.
 
 Code:
+
 .. code-block:: rst
 
 	.. warning:: This is a shorter note.
 
 Output:
+
 .. warning:: This is a shorter note.
 
 Warning
 -------
 
 Code:
+
 .. code-block:: rst
 
 	.. warning::
@@ -99,22 +112,26 @@ Code:
 		It can span multiple lines!
 
 Output:
+
 .. warning::
 	This is a warning!
 	It can span multiple lines!
 
 Code:
+
 .. code-block:: rst
 
 	.. warning:: This is a shorter warning!
 
 Output:
+
 .. warning:: This is a shorter warning!
 
 List
 ----
 
 Code:
+
 .. code-block:: rst
 
 	- You can display
@@ -122,6 +139,7 @@ Code:
 	- like this
 
 Output:
+
 - You can display
 - things in a list
 - like this
@@ -130,9 +148,11 @@ Monospaced
 ----------
 
 Code:
+
 .. code-block:: rst
 	
-	`I am written in monospace font`
+	``I am written in monospace font``
 
 Output:
-`I am written in monospace font`
+
+``I am written in monospace font``
