@@ -26,7 +26,7 @@ Code:
 
 .. code-block:: rst
 
-	.. wnote::
+	.. note::
 		This is a note.
 		It can span multiple lines.
 
