@@ -12,11 +12,23 @@ Code:
 		:maxdepth: 2
 		:caption: reStructuredText
 
+		Code-Block
+		Note
+		Warning
+		List
+		Monospaced
+
 Output:
 
 .. toctree::
 	:maxdepth: 2
 	:caption: reStructuredText
+
+		Code-Block
+		Note
+		Warning
+		List
+		Monospaced
 
 Code-Block
 ----------
@@ -80,13 +92,13 @@ Code:
 
 .. code-block:: rst
 
-	.. warning::
+	.. wnote::
 		This is a note.
 		It can span multiple lines.
 
 Output:
 
-.. warning::
+.. note::
 	This is a note.
 	It can span multiple lines.
 
@@ -94,11 +106,11 @@ Code:
 
 .. code-block:: rst
 
-	.. warning:: This is a shorter note.
+	.. note:: This is a shorter note.
 
 Output:
 
-.. warning:: This is a shorter note.
+.. note:: This is a shorter note.
 
 Warning
 -------
@@ -151,8 +163,8 @@ Code:
 
 .. code-block:: rst
 	
-	``I am written in monospace font``
+	``I am written in monospaced font``
 
 Output:
 
-``I am written in monospace font``
+``I am written in monospaced font``
