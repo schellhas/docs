@@ -6,9 +6,9 @@ Architecture - Part 1
 
 .. epigraph::
 
-    The difference between a good and a poor arthictect is that the poor architect succumbs to every temptation and the good one resists it.
+	The difference between a good and a poor arthictect is that the poor architect succumbs to every temptation and the good one resists it.
 
-    -- Ludwig Wittgenstein
+	-- Ludwig Wittgenstein
 
 Coarse structure
 ~~~~~~~~~~~~~~~~
@@ -44,7 +44,8 @@ Main task: Give abstraction to applications, so it doesn't have to address the h
 Distinction:
 
 .. list-table:: Distinction
-    * - Logical resource:
-      - Real (physical) resource:
-    * - "thought up" for organizational reasons realized by real resources. Examples: file, window, ...
-      - real existence, to be touched. Examples: disc, keyboard, ...
+	
+	* - Logical resource:
+	  - Real (physical) resource:
+	* - "thought up" for organizational reasons realized by real resources. Examples: file, window, ...
+	  - real existence, to be touched. Examples: disc, keyboard, ...
