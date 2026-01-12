@@ -10,3 +10,41 @@ Architecture - Part 1
 
     -- Ludwig Wittgenstein
 
+Coarse structure
+~~~~~~~~~~~~~~~~
+
+A system (operating systems, software systems) consists of:
+
+- Elemente
+- Relations between elements
+
+The elements are functional units with interactions of different kinds in between (data flow, request flow, synchronization, call, communication, ...)
+
+Coarse division of an OS
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The elements and concepts are processes that interact with each other in order to complete a task. An operating system thus consists of multiple processes interacting with each other. They are not hardware, but must be started otherwise. What comes first? How can we start these processes? The kernel does that, it starts first. It initialized the other processes.
+
+These two are the main areas. The **process** area and the **kernel** (or infrastructure) area. These are the two fundamental areas of an OS.
+
+They interact with each other through the *kernel interface*.
+
+The process area
+~~~~~~~~~~~~~~~~
+
+Can be further dissected. Applications want some type of abstraction of hardware and the kernel interface. We provide this abstraction, so the virtual machine to the applications. *Supporting basic* **services** provides this virtual machine (slides). Users want to start applications, which the **control** *of operation* does (slides). It also accesses the kernel because the kernel manages these processes.
+
+Services
+~~~~~~~~
+
+Finer resolution: Services
+
+Main task: Give abstraction to applications, so it doesn't have to address the hardware/resource specifically. So the applications can *easily* use the interface to the services, and the services have a *tideous* interface to the hardware.
+
+Distinction:
+
+.. list-table:: Distinction
+    * - Logical resource:
+      - Real (physical) resource:
+    * - "thought up" for organizational reasons realized by real resources. Examples: file, window, ...
+      - real existence, to be touched. Examples: disc, keyboard, ...
