@@ -4,7 +4,7 @@ Sinologie
 Geschichte Chinas im 20. und 21. Jahrhundert
 
 .. toctree::
-	:maxdepth: 4
+	:maxdepth: 3
 
 	geschichte_chinas_20_21/block1/index
 	geschichte_chinas_20_21/block2/index
