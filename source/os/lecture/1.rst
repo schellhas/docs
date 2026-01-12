@@ -50,19 +50,34 @@ Distinction:
 .. list-table:: Distinction
 	:header-rows: 1
 	
-	* - Logical resource:
-	  - Real (physical) resource:
+	* - Logical resource
+	  - Real (physical) resource
 	* - "thought up" for organizational reasons realized by real resources. Examples: file, window, ...
 	  - real existence, to be touched. Examples: disc, keyboard, ...
-
-+---------------------------+---------------------------------------------------------------------------------------------------+
-| Logical resource          | "thought up" for organizational reasons realized by real resources. Examples: file, window, ...   |
-+===========================+===================================================================================================+
-| Real (physical) resource  | real existence, to be touched. Examples: disc, keyboard, ...                                      |
-+---------------------------+---------------------------------------------------------------------------------------------------+
 
 How to deal with resources
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Applications want to use them, we have to prepare them. We have to decide which applications are allowed to access the resource, especially when they are limited. When the application is done with the resource, the resource must be free'd to be used by the next.
+
+Dealing with resources
+~~~~~~~~~~~~~~~~~~~~~~
+
+The term "operation" is used, when the resource is accessed (for example writing). The application can do that *easily* through the virtual machine.
+
+"Management" is done when multiple accesses have to be coordinated or when letting an application access, and denying access to another application.
+
+Operating system services
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Now we already have 4 layers.
+
+- Management of logical resources
+- Operation of logical resources
+- Management of real resources
+- Operation of real resources
+- (Real resources)
+
+Control
+~~~~~~~
 
