@@ -123,3 +123,39 @@ Where do we put the kernel?
 Microkernel architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Which functions, apart from the most important, should be in the kernel address space?
+
+The first, MULTIX, UNIX, ... saw the task in putting all OS functionality into the kernel address space. This way, the applications can just use the kernel interface. With time, the kernel grew a lot. At some point, people said this isn't functional anymore, the kernel is way too big, and we don't know if parts of the kernel function properly. They then tried to keep the kernel as small as possible. These are the **microkernels**.
+
+Per design, very little function inside the kernel. The other OS services are implemented just like applications. The memory footprint shrunk.
+
+These are sometimes then even called *nanokernel* or *picokernel*. There is no general agreement *what* a kernel is, usually the creator names it one of the terms. The general philosophical designs are **macro- or microkernels**.
+
+Process management and process communication are *essential*.
+
+Monolithical Systems
+~~~~~~~~~~~~~~~~~~~~
+
+All applications and kernel processes are seen as one single program that runs on the hardware. Often in embedded systems. Nowadays also embedded systems are often seperated though.
+
+Monolithical OS-Kernel
+~~~~~~~~~~~~~~~~~~~~~~
+
+Macro - as many as posssible. Could also be called monolithical OS-kernel. All OS functionalities are put into the, sometimes unstructured, kernel. The whole kernel must thus be viewed as *trusted*.
+
+Microkernel OS
+~~~~~~~~~~~~~~
+
+The services of the OS are outside of the kernel, the applications access them via IPC. IPC and Process management are the only functionalities that stay in the kernel.
+
+Advantages of a microkernel architecture
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Why should this be reduction be better?
+
+First, the structure of the OS was better. It forced the developers to structure things properly. It also made the functionalities that stay in the kernel smaller, and thus easier to maintain and check for quality. Security and stability can be addressed better. It also means the realiability is higher, because when an OS process fails, you can restart this OS process, in a macrokernel you would need to reboot your system. Microkernels are also more secure. The sel4 kernel is goated. Limitation of function also means limit of code that can access hardware. One of the first marketing-viable functions, is that the microkernel can handle different OS-implementations on top that can run different applications.
+
+Drawback of microkernel architecute
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Usually worse performance. Why? 
