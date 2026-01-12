@@ -49,3 +49,9 @@ Distinction:
 	  - Real (physical) resource:
 	* - "thought up" for organizational reasons realized by real resources. Examples: file, window, ...
 	  - real existence, to be touched. Examples: disc, keyboard, ...
+
++---------------------------+---------------------------------------------------------------------------------------------------+
+| Logical resource			| "thought up" for organizational reasons realized by real resources. Examples: file, window, ...	|
++---------------------------+---------------------------------------------------------------------------------------------------+
+| Real (physical) resource	| real existence, to be touched. Examples: disc, keyboard, ...										|
++---------------------------+---------------------------------------------------------------------------------------------------+
