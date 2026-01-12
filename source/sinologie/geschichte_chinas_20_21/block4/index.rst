@@ -8,7 +8,7 @@ Zwischen 1990 und 2015 kommt es zu einem hohen Wirtschaftswachstum. China wird z
 
 .. toctree::
 	:maxdepth: 2
-	:caption: **Wachstum und Wandel** in der Gegenwart (1990-2015)
+	:caption: Contents
 
 	vl8
 	vl9
