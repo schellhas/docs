@@ -158,4 +158,4 @@ First, the structure of the OS was better. It forced the developers to structure
 Drawback of microkernel architecute
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Usually worse performance. Why? 
+Usually worse performance. Why? Interaction of OS-functionalities that are processes have to use IPC which is an overhead. Each time they have to perform a system call, which is expensive.
