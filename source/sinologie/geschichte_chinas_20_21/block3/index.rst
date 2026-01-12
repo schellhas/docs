@@ -3,7 +3,7 @@
 
 .. toctree::
 	:maxdepth: 2
-	:caption: Contents
+	:caption: Reform und Öffnung
 
 	vl6
 	vl7

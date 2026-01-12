@@ -3,7 +3,7 @@
 
 .. toctree::
 	:maxdepth: 2
-	:caption: Contents
+	:caption: "Neues China"
 
 	vl1
 	vl2

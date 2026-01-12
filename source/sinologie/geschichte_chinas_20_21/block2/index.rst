@@ -3,7 +3,7 @@
 
 .. toctree::
 	:maxdepth: 2
-	:caption: Contents
+	:caption: Krisenzeichen und Auseinandersetzungen
 
 	vl4
 	vl5
