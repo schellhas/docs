@@ -81,3 +81,45 @@ Now we already have 4 layers.
 Control
 ~~~~~~~
 
+We want the user to be able to control the system. This is done either with a **control itnerface** (manual) or a **procedural interface** (scripts, procedures, ...).
+
+Overview
+~~~~~~~~
+
+Now we have the full resource management as well as the control for the applications. Users use applications, applications use resources.
+
+- Control interface
+- Procedual interface
+- Application
+- Management of logical resources
+- Operation of logical resources
+- Management of real resources
+- Operation of real resources
+- ------------------------------
+- Real resources/Kernel, whichever granularity you chose..
+
+Remarks
+~~~~~~~
+
+The resources and functions can be organised and distinguished. Thus, these layers can also access higher layers to for example access another device. *Upward calls are allowed*.
+
+The Kernel
+~~~~~~~~~~
+
+Now we know what the process area looks like. Now we will zoom into the kernel area.
+
+We need an area that *processes* the calls made to the kernel. The **kernel operations**. What types of calls could that be? For example the creation of new processes. Then we would need to manage processes. The **process state change operations** layer would be called to perform this change. The **data structure operations** area holds data structures which manages and saves process states. The **kernel memory management** manages the kernel memory which holds the data structures for the processes. This should be a dynamic system so processes can be created and removed dynamically. If we don't have a dynamic system, for example when we know which applications we want to use (maybe a microwave), we can also use a static system, or don't need a kernel memory management module at all.
+
+Types of realization of the kernel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Where do we put the kernel?
+
+- Scattered across programs
+	- Historically, we know that they can also be in applications, today still in embedded systems, where the kernel operation can be in the process area of the process.
+- Resident, compact, sealed
+	- Many OSes nowadays seperate the kernel address space, which holds all procedures and functions of the kernel. This way, the processes call the kernel via the kernel interface.
+
+Microkernel architecture
+~~~~~~~~~~~~~~~~~~~~~~~~
+
