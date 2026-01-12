@@ -1,0 +1,10 @@
+Lecture 1 - Architecture
+========================
+
+Architecture - Part 1
+---------------------
+
+    The difference between a good and a poor arthictect is that the poor architect succumbs to every temptation and the good one resists it.
+
+    -- Ludwig Wittgenstein
+
