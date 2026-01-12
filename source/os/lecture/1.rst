@@ -43,7 +43,12 @@ Main task: Give abstraction to applications, so it doesn't have to address the h
 
 Distinction:
 
+**Logical resource:** "thought up" for organizational reasons realized by real resources. Examples: file, window, ...
+
+**Real (physical) resource:** real existence, to be touched. Examples: disc, keyboard, ...
+
 .. list-table:: Distinction
+	:header-rows: 1
 	
 	* - Logical resource:
 	  - Real (physical) resource:
@@ -51,7 +56,13 @@ Distinction:
 	  - real existence, to be touched. Examples: disc, keyboard, ...
 
 +---------------------------+---------------------------------------------------------------------------------------------------+
-| Logical resource			| "thought up" for organizational reasons realized by real resources. Examples: file, window, ...	|
+| Logical resource          | "thought up" for organizational reasons realized by real resources. Examples: file, window, ...   |
 +===========================+===================================================================================================+
-| Real (physical) resource	| real existence, to be touched. Examples: disc, keyboard, ...										|
+| Real (physical) resource  | real existence, to be touched. Examples: disc, keyboard, ...                                      |
 +---------------------------+---------------------------------------------------------------------------------------------------+
+
+How to deal with resources
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Applications want to use them, we have to prepare them. We have to decide which applications are allowed to access the resource, especially when they are limited. When the application is done with the resource, the resource must be free'd to be used by the next.
+
