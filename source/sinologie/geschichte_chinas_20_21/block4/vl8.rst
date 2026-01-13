@@ -295,5 +295,7 @@ Frage ist wie nachhaltig das war. Für die direkte Zeit nach 89 hat die Partei e
 **Inwieweit unterscheiden sie sich von der Wirtschaftspolitik der 1980er Jahre?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+offener
+
 Vorlesung 8.3: Wachstum um jeden Preis (2001-2015)
 --------------------------------------------------
