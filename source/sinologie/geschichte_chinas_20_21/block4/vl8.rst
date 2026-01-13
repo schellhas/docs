@@ -221,6 +221,21 @@ Das hat die Wirtschaftsreformen beliebt bei Kreisen, Bürgermeistern, ... gemach
 - Westliche Kritik: durch diese Abwertung wurden chinesische Exporte künstlich verbilligt
 - Für China: Chinesische Exporte wurden stark erhöht und für ausländische Direktinvestitionen wurde China attraktiver weil wegen der Wechselkurse Lohnverhältnisse und Lohnniveaus für ausländische Investoren sehr günstig waren.
 
+3. Lockerung des *hukou*-Systems
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+War eine Barriere der Land-zu-Stadt Migration.
+
+- Wurde ab Mitte der 90er gelockert
+    - Also jetzt mehr Arbeitsmigration von Land in die Stadt
+- Vorteil für wachsende, städtische Industrie: Sehr viele sehr günstige Arbeitskräfte (*nicht-endender Pool* sagt Prof)
+- "Wanderarbeiterflut" in 90ern (bis zu 150 Millionen Menschen migrierten regelmäßig vom Land in die Stadt)
+- Viele sind nach Monaten oder Jahren wieder zurück aufs Land
+
+4. Steuerreform
+^^^^^^^^^^^^^^^
+
+
 
 **Leitfragen**
 ~~~~~~~~~~~~~~
