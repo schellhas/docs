@@ -170,7 +170,65 @@ Kampagne gegen Korruption (bis hoch zum Politbüro, bis zu 100.000 Beamte inhaft
 Vorlesung 8.2: Die Vertiefung der Wirtschaftsreformen nach 1994 und der WTO-Beitritt 2001
 -----------------------------------------------------------------------------------------
 
+Niederschlagung der Studentenbewegung auf dem TIan'anmenplatz 1989 hatte nicht nur politische Folgen, sondern auch außenpolitische und wirtschaftliche.
 
+Wirtschaftliche Sanktionen
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Wirtschaftliche Sanktionen als Antwort des Auslands darauf, dass China auf seine eigenen Leute geschossen hat. Problem ist dass China durch die wirtschaftlichen Sanktionen ihre Wirtschaftspolitik der 80er (in denen sie "geöffnet" haben) jetzt schwerer verfolgen kann. Also starke Bemühungen Chinas die "internationale Isolierung" zu überwinden.
+
+So zum Beispiel in den "weißen Büchern" in denen China Menschenrechte festlegt um ihre Politik zu rechtfertigen.
+
+- Unter anderem wird das Recht auf "Subsistenz" (GPT: *Subsistenz bezeichnet im wirtschaftlichen und menschenrechtlichen Kontext das Existenzminimum an Ressourcen und Einkommen, das ein Mensch benötigt, um zu überleben und ein menschenwürdiges Leben zu führen.*) und die Gewährleistung dieser.
+- China argumentiert dass die Sicherung der Menschenrechte nicht im politischen, sondern im wirtschaftlichen und sozialen (soziale Absicherung) gewährleistet ist.
+- Gleichzeitig kritisiert CHina in diesen Büchern amerikanische Menschenrechte, weist auf Polizeibrutalität und Rassendiskriminierung hin.
+- China argumentiert auch der Westen könne China menschenrechtlich argumentieren, da die menschenrechtlichen Lagen in China und dem Westen gleich seien. (Implizit)
+
+- Westen konzentriert sich Anfang der 90er Jahre erstmal auf Beziehungen mit Osteuropa (Ex-Sovjetstaaten) und Russland.
+- -> Verbesserung der Beziehungen mit China war unumgänglich, denn China wurde wirtschaftlich viel zu wichtig als dass der Westen China lange in der "Isolation" lassen konnte.
+- USA und Europa ringen darauf Beziehungen mit China zu verbessern (Herbst 1997 Treffen von Jiang Zemin und Clinton)
+
+Wirtschaftliche Reformen
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vor 89 wurde viel ausprobiert, viel experimentiert, aber nach 89 folgen die Reformen einer klaren Systematik.
+
+1. Wettbewerb zwischen Kreisen und Provinzen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Einzigartig und einmalig im chinesischen System. Wettbewerb wurde nach 89 zugelassen und befeuert.
+
+Aufgebaut auf alten Strukturen:
+
+- Seit 1949 wetteifern lokale "Kader" um die Ressourcenverteilung der Zentral(verwaltung)
+- Jetzt sollte es wirtschaftlicher werden (nicht nur Ressourcen)
+- Wer wirtschaftlich am erfoglreichsten ist bekommt zusätzliche Unterstützung der Zentrale
+
+Das hat die Wirtschaftsreformen beliebt bei Kreisen, Bürgermeistern, ... gemacht da sie sozialen Aufstieg bedeuteten und man zur nationalen Elite gehören konnte (wenn man erfolgreich war)
+
+- Förderung der TVEs (Township and Village Enterprises)
+- (Abbildung) Gewinne dieser TVEs schießen in die Höhe, und auch ihr Anteil an der nationalen Produktion (Ende der 90er fast 60% des chinesischen Haushalts)
+
+2. Abwertung der chinesischen Währung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Anfang 94 wurde der Renminbi um 33% entwertet
+- Um Schwarzmarkt und Korruption einzudämmen
+- Verbindung der zwei Währungssysteme
+    - Eins war fürs Ausland und Exportfirmen in China
+    - Eins war für die Regierung und Bevölkerung
+- Durch diese Zusammenführung wurde der Renminbi stark entwertet
+- Westliche Kritik: durch diese Abwertung wurden chinesische Exporte künstlich verbilligt
+
+
+**Leitfragen**
+~~~~~~~~~~~~~~
+
+**Welche Maßnahmen wurden zur Weiterentwicklung und Vertiefung der Wirtschaftsreformen ergriffen?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Inwieweit unterscheiden sie sich von der Wirtschaftspolitik der 1980er Jahre?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Vorlesung 8.3: Wachstum um jeden Preis (2001-2015)
 --------------------------------------------------
