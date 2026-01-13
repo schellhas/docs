@@ -235,9 +235,48 @@ War eine Barriere der Land-zu-Stadt Migration.
 4. Steuerreform
 ^^^^^^^^^^^^^^^
 
+Wie viele Länder die sich in der *nachholenden* Entwicklung befinden, ist es so, dass das Wirtschaftswachstum, das im Bereich der Industrie stattfand, es nicht *notwendiger* Weise dem Staat erlaubt hat auch mehr Steuern zu erheben.
 
+In vielen Drittweltländern in denen wir schwach ausgebildete Steuerungskapazitäten des Staates haben, haben Staaten es oft schwierig, Steuereinnahmen zu erzielen. Und das war auch in China der Fall, bis etwa 1994. Der chinesische Zentralstaat hatte einen geringen Anteil am Wirtschaftswachstum und musste sich deshalb hoch verschulden, was dann wiederum zur Inflationskrise geführt hat, die ja ein wichtiger Faktor für die Krise 1989 war.
 
+- 1994: Durchführung von Steuerreformen, führte zu soliderer finanzieller Grundlage des Staates
+    - von ca. 10% des BIP in 91 zu ca. 20% in 2012
 
+Der Staat konnte jetzt über Steuern Programme finanzieren, z.B. zur sozialen Absicherung, Fehlentwicklungsbekämpfung (?). Sicherheitsnetz für Bevölkerung wurde errichtet (Arbeitslosenversicherung, Armutsbekämpfung, Rentensystem).
+
+5. Reform der Staatsunternehmen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+China begonn, wie viele andere sozialistische Länder, die Reform mit einem riesigen Sektor an Staatsunternehmen. Bis etwa Mitte der 90er hat es dieser Sektor geschafft, sich von den Reformen fernzuhalten bzw. sich diesen zu entziehen. Jetzt musste man auch da ran.
+
+Seit ENde der 90er massive Kürzung im Bereich der Staatsunternehmen. Hat dei Haushaltssituation des Staates verbessert, da viele der Staatsunternehmen Verluste gemacht. Tausende unprofitable Staatsunternehmen wurden geschlossen. Viele kleinere Firmen wurden an in- und ausländische Privatunternehmen veräußert. Nur die größten und profitabelsten Firmen bleiben in Regierungshand. Das waren meist Firmen in strategischen (?) Bereichen oder solche die Monopolstellung hatten. Beispielsweise Energieversorgung, Telekommunikation, Infrastruktur, Flugverkehr, Bahnbau, Betrieb der Schnellbahnlinien, ... alles Staatsunternehmen. Es gibt weniger, aber die überlebenden sind deutlich stärker und in einer besseren Position. Sehr wichtige wirtschaftliche Position inne.
+
+6. Eintritt in die Welthandelsorganisation (WTO)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 1999: Eintritt Chinas in WTO beschlossen
+    - Wichtig denn China hat sich damit komplett geöffnet
+    - Sich selbst, aber auch Zugang zur wirtschaft in gesamter Welt (mit sehr günstigen Bedingungen)
+
+Hohe Wachstumsraten jetzt begleitet von technischer Innovation, allgemeinen Aufholen der chinesischen Wirtschaft.
+
+7. Lockerung der Restriktionen für ausländische Direktinvestitionen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Zunahme ausländischer Investitionstätigkeit. China erreicht eine Quote ausländischer Investitionen die kein Land davor erreicht hat. Teilweise 60-70% der in der Welt verfügbaren Investitionen sind nach China geflossen.
+
+Ergebnis: Beispiellose Möglichkeiten für die Gründung neuer Firmen und die Expansion bestehender in- und ausländischer Firmen in neue Märkte. Dadurch Wachstum von:
+
+- Anreizen
+- Mobilität
+- Märkten
+
+Fazit
+~~~~~
+
+Insgesamt kann man also feststellen, dass die Wirtschaftspolitik nach 1989 die Grundlagen legt für ein beispielloses Wachstum, das dazu führt, dass ca .450 Millionen Menschen in China aus der Armut kommen und Zugang zu gut bezahlten Arbeitsplätzen kriegen. Insgesamt war es eine Zeit von wirtschaftlichem Boom, es wurde sehr viel Geld wird verdient, die Wirtscahft flourierte. Insgesamt hat die Prtei es geschafft durch den Fokus auf Wirtschaftswachstum, die Krise von 1989 in positiver Weise (für die Partei) zu lösen.
+
+Frage ist wie nachhaltig das war. Für die direkte Zeit nach 89 hat die Partei einen Ausweg gefunden.
 
 **Leitfragen**
 ~~~~~~~~~~~~~~
