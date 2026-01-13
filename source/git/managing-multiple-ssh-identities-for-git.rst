@@ -160,8 +160,8 @@ If Git offers the wrong SSH key (check with `GIT_SSH_COMMAND="ssh -v" git push`)
 
 .. code-block:: bash
 
-	| git remote set-url origin git@host_name:username/repo.git
-	| host_name: whatever you called Host in step 4.
+	git remote set-url origin git@host_name:username/repo.git
+	# host_name: whatever you called Host in step 4.
 
 Step 10: Notes / best practices
 -------------------------------
