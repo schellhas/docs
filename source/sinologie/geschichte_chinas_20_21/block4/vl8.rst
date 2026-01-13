@@ -163,11 +163,9 @@ Insgesamt:
 
 Insgesamt sollen die Reformen weiter Wachstum und wirtschaftlichen Umbau voranbringen, aber auf sozialerer und ökonomischerer Weise.
 
-Kampagne gegen Korruption (bis hoch zum Politbäro, bis zu 100.000 Beamte inhaftiert). Grund ist die mangelnde Legitimation des Regimes bei zu hoher Korruption.
+Kampagne gegen Korruption (bis hoch zum Politbüro, bis zu 100.000 Beamte inhaftiert). Grund ist die mangelnde Legitimation des Regimes bei zu hoher Korruption.
 
 **Chinesischer Traum** ist eine Korruptionsbekämpfung und Wiederherstellung politischer und ideologischer Vision Chinas (Xis). Wahrscheinlich hervorgekommen durch Krisenbewusstsein der Regierung (Krisenregierung, nicht Weichenregierung).
-
-    
 
 Vorlesung 8.2: Die Vertiefung der Wirtschaftsreformen nach 1994 und der WTO-Beitritt 2001
 -----------------------------------------------------------------------------------------
