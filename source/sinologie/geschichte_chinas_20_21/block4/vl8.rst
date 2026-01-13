@@ -185,7 +185,7 @@ So zum Beispiel in den "weißen Büchern" in denen China Menschenrechte festlegt
 - China argumentiert auch der Westen könne China menschenrechtlich argumentieren, da die menschenrechtlichen Lagen in China und dem Westen gleich seien. (Implizit)
 
 - Westen konzentriert sich Anfang der 90er Jahre erstmal auf Beziehungen mit Osteuropa (Ex-Sovjetstaaten) und Russland.
-- -> Verbesserung der Beziehungen mit China war unumgänglich, denn China wurde wirtschaftlich viel zu wichtig als dass der Westen China lange in der "Isolation" lassen konnte.
+    - Verbesserung der Beziehungen mit China war unumgänglich, denn China wurde wirtschaftlich viel zu wichtig als dass der Westen China lange in der "Isolation" lassen konnte.
 - USA und Europa ringen darauf Beziehungen mit China zu verbessern (Herbst 1997 Treffen von Jiang Zemin und Clinton)
 
 Wirtschaftliche Reformen
@@ -285,7 +285,7 @@ Frage ist wie nachhaltig das war. Für die direkte Zeit nach 89 hat die Partei e
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Es wurde ein Wettbewerb zwischen Kreisen und Provinzen hergestellt, welcher Produktion aber auch wirtschaftlichen Erfolg (Profit) mit Unterstützung der Zentrale belohnte.
-2. sees
+2. sees 
 
 **Inwieweit unterscheiden sie sich von der Wirtschaftspolitik der 1980er Jahre?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
