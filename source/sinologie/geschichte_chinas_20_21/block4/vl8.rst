@@ -284,6 +284,9 @@ Frage ist wie nachhaltig das war. Für die direkte Zeit nach 89 hat die Partei e
 **Welche Maßnahmen wurden zur Weiterentwicklung und Vertiefung der Wirtschaftsreformen ergriffen?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1. Es wurde ein Wettbewerb zwischen Kreisen und Provinzen hergestellt, welcher Produktion aber auch wirtschaftlichen Erfolg (Profit) mit Unterstützung der Zentrale belohnte.
+2. sees
+
 **Inwieweit unterscheiden sie sich von der Wirtschaftspolitik der 1980er Jahre?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
