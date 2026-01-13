@@ -219,6 +219,7 @@ Das hat die Wirtschaftsreformen beliebt bei Kreisen, Bürgermeistern, ... gemach
     - Eins war für die Regierung und Bevölkerung
 - Durch diese Zusammenführung wurde der Renminbi stark entwertet
 - Westliche Kritik: durch diese Abwertung wurden chinesische Exporte künstlich verbilligt
+- Für China: Chinesische Exporte wurden stark erhöht und für ausländische Direktinvestitionen wurde China attraktiver weil wegen der Wechselkurse Lohnverhältnisse und Lohnniveaus für ausländische Investoren sehr günstig waren.
 
 
 **Leitfragen**
