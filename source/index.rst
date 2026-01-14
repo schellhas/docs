@@ -59,3 +59,10 @@ These documents serve for everything I've had to lookup twice, everything I stil
 	rst/index
 	md/index
 	txt/index
+
+.. toctree::
+	:maxdepth: 1
+	:caption: Misc
+
+	apt/index
+	sinologie/index
