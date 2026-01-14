@@ -188,8 +188,45 @@ Is the main tool in os-dev. Each module has a function that is designed, so that
 Hierarchization
 ~~~~~~~~~~~~~~~
 
-Should be in a tree-like hierarchy so the system stays scalable and managed complexity well.
+Should be in a tree-like hierarchy (of modules) so the system stays scalable and managed complexity well.
 
+Layering
+~~~~~~~~
+
+Another approach. Each layer uses services from lower layers, uses them in their layers, and serves a higher more complex service for the layers above.
+
+Example for Layering: Internet Protocol Stack
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Internet Protocol Stack uses layering.
+
+End-to-End Principle (E2E) (Internet)
+"""""""""""""""""""""""""""""""""""""
+
+The elements in the same layer can communicate to each other and exchange information. They do this by giving this information to lower layers than forward the data, at the lowest layer in physical form.
+
+Hourglass-Architecture (Internet)
+"""""""""""""""""""""""""""""""""
+
+A lot of different applications and services can use the Internet Protocol standard and signal to a lot of different networks, media and signal representations.
+
+Hourglass-Architecture in OS
+""""""""""""""""""""""""""""
+
+Various applications use the OS programming interface (e.g. POSIX) to communicate to various different hardware.
+
+E2E in the OS context: application neutrality
+"""""""""""""""""""""""""""""""""""""""""""""
+
+Customization should be as far "up" the hierarchy as possible, the lower, the more uniform it should be. (?)
+
+- A stable, universal programming interface should be provided.
+- OS for a universal computer should be application neutral.
+- Support for specific requirements should be placed in the topmost layer possible.
+
+
+Seperation of policy and mechanism
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
