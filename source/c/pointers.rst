@@ -1,7 +1,7 @@
 Pointers and Arrays
 ===================
 
-A pointer is a variable that contains the address of a variable. [KR]_
+A pointer is a variable that contains the address of a variable. [K&R]_
 
 Pointers and Addresses
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -29,4 +29,4 @@ Sources
 
 .. rubric:: References
 
-.. [KR] K&R
+.. [K&R] Kernighan, Ritchie - The C Programming Language
