@@ -1,48 +1,28 @@
-Pointers
-========
+Pointers and Arrays
+===================
 
 A pointer is a variable that contains the address of a variable. [KR]_
 
-Storing variable addresses
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pointers and Addresses
+~~~~~~~~~~~~~~~~~~~~~~
 
-A datatype becomes a pointer to a value of that type by adding a ``*``. We receive the address of a value by adding ``&`` in front of it. [#]_
+The unary operator ``&`` gives the address of an object, so the statement ``p = &c`` assigns the address of ``c`` to the variable ``p``, and ``p`` is said to *point* to ``c``. The ``&`` operator only applies to objects in memory: variables and array elements. It cannot be applied to expressions, constants, or register values.
 
+The unary operator ``*`` is the *indirection* or *dereferencing* operator; it accesses the value of the address the pointer stores.
 
-.. code-block:: c
-
-	int main() {
-		int a = 1;
-
-		int* b = &a;
-
-IN this example, ``b`` stores the memory address of the variable ``a``. We call it "``b`` points to ``a``".
-
-Dereferencing
-~~~~~~~~~~~~~
-
-To get the value of the variable a pointer points to, we can add a ``*`` in front of the pointer. [#]_
+Example:
 
 .. code-block:: c
 
-	#include <stdio.h>
+	int x = 1;
+	int y = 2;
+	int z[10];
+	int* ip;	/* ip is a pointer to an int */
 
-	int main() {
-		int a = 1;
-
-		int* b = &a;
-
-		printf("%d\n", *b);
-
-		return 0;
-	}
-
-returns:
-
-.. code-block:: bash
-
-	1
-
+	ip  = &x;	/* ip now points to x */
+	y   = *ip;	/* y is now 1 */
+	*ip = 0;	/* x is now 0 */
+	ip  = &z[0];	/* ip now points to z[0] */
 
 Sources
 ~~~~~~~
