@@ -29,4 +29,4 @@ Example:
 .. rubric:: References
 
 .. [K&R] Kernighan, Ritchie,
-	 The C Programming Language.
+	The C Programming Language.
