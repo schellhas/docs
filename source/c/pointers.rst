@@ -29,4 +29,4 @@ Sources
 
 .. rubric:: References
 
-.. [#] K&R
+.. [KR] K&R
