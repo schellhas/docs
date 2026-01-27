@@ -24,9 +24,9 @@ Example:
 	*ip = 0;	/* x is now 0 */
 	ip  = &z[0];	/* ip now points to z[0] */
 
-Sources
-~~~~~~~
+
 
 .. rubric:: References
 
-.. [K&R] Kernighan, Ritchie - The C Programming Language
+.. [K&R] Kernighan, Ritchie,
+	 The C Programming Language.
