@@ -3,8 +3,8 @@ Pointers and Arrays
 
 A pointer is a variable that contains the address of a variable. [KR]_
 
-Pointers and Addresses
-~~~~~~~~~~~~~~~~~~~~~~
+Pointers and Addresses [KR]_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The unary operator ``&`` gives the address of an object, so the statement ``p = &c`` assigns the address of ``c`` to the variable ``p``, and ``p`` is said to *point* to ``c``. The ``&`` operator only applies to objects in memory: variables and array elements. It cannot be applied to expressions, constants, or register values.
 
