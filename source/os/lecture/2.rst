@@ -78,7 +78,7 @@ Threads and Address Spaces
 	- A thread switches from one address space to another.
 
 Terminology
-~~~~~~~~~~~
+-----------
 
 Concerning the terminology, care must be taken in the relevant literature:
 - A process (task) is mostly considered as a UNIX-type process with a private address space.
@@ -89,4 +89,98 @@ Concerning the terminology, care must be taken in the relevant literature:
 - For windows the same holds.
 - **In this lecture, we use the term "thread".**
 
+Overview of terms used
+----------------------
 
+.. list-table:: Overview of terms used
+	:header-rows: 1
+
+	* - Operating system
+	  - Unit of execution
+	  - Superior unit
+	* - Mach
+	  - thread
+	  - task
+	* - Chorus
+	  - thread
+	  - actor
+	* - Mayflower
+	  - lightweight process
+	  - domain
+	* - V
+	  - thread
+	  - team
+	* - Amoeba
+	  - thread
+	  - cluster
+	* - Cosy
+	  - process
+	  - address space
+	* - Solaris
+	  - thread
+	  - process
+	* - NT
+	  - thread
+	  - process
+
+Thread switch
+-------------
+
+A **thread switch** happens when the processor stops the execution of one thread and continues with another. A thread switch is the transition form one instruction sequence to another. Slide 3-10 has a nice graphic.
+
+Switching by jumping
+--------------------
+
+In the most simple cases the switch can be programmed statically and directly in the threads.
+
+.. warning::
+	What? I don't understand. The threads themselves implement the thread switch? I thought the kernel or OS or whatever would do that. Big question mark here.
+
+It means that we insert a jump instruction that jumps into another thread. To continue the work at the point where the thread left off, we have to memorize the position we have to return to. A switching point therefore consists of at least:
+
+- continuation address (where did we interrupt the work)
+- jump instruction (where do we want to continue)
+
+More nice graphics on slides 3-11 and 3-12. (Very helpful for understanding)
+
+For certain application areas (real-time systems) the time needed to switch from one thread to another is an important quality measure. This thread switch should be realized efficiently of course. The jump is the "minimal solution".
+
+Switching more general
+----------------------
+
+Switching by direct jump is very inflexible and applicable only in very special cases.
+
+In general the thread switch will be more costly since:
+
+- We don't know from where we return to the interrupted thread (memorizing the continuation address)
+- The next thread, to which we switch, is not always the same (selection of next thread)
+- The processor contains essential parts of the thread description that must not get lost (register reload)
+
+.. note::
+	I understand the warning from earlier now, we are starting with a naive approach here. So we think all threads are benevolent and cooperating to switch between each other, and also know where to switch when. I was already thinking about the scheduler doing that, which in this case, "we don't know yet". So yeah, naive approach, the threads switch voluntarily and just jump to another thread and hope they will jump to them, basically.
+
+Memorizing continuation address
+-------------------------------
+
+Before switching to the new thread, we store the address of the next instruction to be executed in a dedicated variable ``ni`` (next instruction) of the thread control block (TCB). Nice graphic on slide 3-14.
+
+Switching with variable continuation address
+--------------------------------------------
+
+.. warning::
+	TODO: slide 3-15
+
+Selection of next thread
+------------------------
+
+Up until now we assumed we know the next thread which we want to switch to. However, in most cases this target thread is not cosntant but will be determined at the time of switching:
+
+Criteria for selection:
+
+- number of thread (cyclic switching)
+- order of arrival
+- priority (urgency)
+	- constant
+	- dynamic
+
+The selection of the next thread influences the distribution of the processors computing capacity to the threads.
