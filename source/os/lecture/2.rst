@@ -184,3 +184,53 @@ Criteria for selection:
 	- dynamic
 
 The selection of the next thread influences the distribution of the processors computing capacity to the threads.
+
+Selection of next threads
+-------------------------
+
+- The selection problem can be solved such that the threads are arleady totally ordered with regard to the execution order.
+- The first thread (``t_next``) in this sequence is selected.
+- New arriving threads will be inserted into that sequence according to the chosen order.
+- When using priorities, the order can be organized in two dimensions.
+
+Process registers
+-----------------
+
+- Threads use arithmetic registers of the processor to store intermediate results.
+- If we simply jump to a next thread, their content will be lost (overwritten).
+- The "switch by jump" solution can only be used when
+	- the contents of the registers will no longer be needed and
+	- the new thread does not expect valid register contents
+
+Thread context
+--------------
+
+- Besides the instruction pointer the processor keeps much more thread specific information in its registers:
+	- Contents of arithmentic registers, index registers, processor state etc., that represent the **state of the execution** of the program, i.e. the thread.
+	- Contents of address registers, segment tables, interrupt masks, access control information etc. that make up the threads execution environment.
+- Altogether, i.e. the complete thread specific information stored in the processor is called **thread context**.
+- This thread context has to be saved as part of switching and restored when the thread is resumed.
+- Data that is constant and available in the TCB, does not need to be saved.
+
+Context switch
+--------------
+
+- Context switch is the most time consuming part of a thread switch.
+- To speed it up, the processors hardware can give some support:
+	- By special instructions that allow storing the complete set of registers to memory in one instruction (and also restoring).
+	- By providing several sets of registers (e.g. 8) on the processor, such that at thread switch only the register needs to be saved that indicates the number of the current valid register sets.
+- Thread switch can be comparably fast, if only the arithmetic registers need to be saved and reloaded, while the addressing environment remains constant (thread switch within an address space, lightweight threads, *threads*).
+
+Switch (as open instruction sequence)
+-------------------------------------
+
+**Switching now has the following form:**
+
+SWITCH -> save context of ``t_run`` -> select ``t_next`` -> save next instruction of ``t_run`` -> jump to ``t_next.ni`` -> ``t_run := t_next`` -> load context of ``t_run``
+
+This sequence can be inserted in the thread's program at all places where a thread switch should take place.
+
+Switching as a subroutine
+-------------------------
+
+
