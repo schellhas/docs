@@ -228,26 +228,22 @@ Customization should be as far "up" the hierarchy as possible, the lower, the mo
 Seperation of policy and mechanism
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+In order to serve a wide generality of software with the OS or a component of the OS, we need to seperate the mechanism that implements this component and the policy and rules/management of this component. I didn't understand quite why tho.
 
+Orthogonality
+~~~~~~~~~~~~~
 
+Functions and concepts of an OS should be independent of each other. They should operate in different *dimensions*. This way we can exchange components without interrupting the rest of the system.
 
+SPOT-Rule (Single Point of Truth)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+We only want to hold our data in a single place, we don't want to have copies as we don't want to synchronize because this has a threat of diverging data in different places.
 
+For code: Each functionality is implemented exactly once, we don't want duplicate code. Risk of diverging functionality if we change one
 
+For data: Each piece of information can have only exactly one representation, for the same reasons.
 
+Usage of SPOT avoids inconsistencies.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	*Architecture - Part 2 done*
