@@ -82,13 +82,28 @@ Code:
 
 	- You can display
 	- things in a list
-	- like this
+		- like this
+	- And indentations
+		- work very nicely
+			- even over multiple levels
+		- just keep going
+	- rst will know
+	- what you mean
 
 Output:
 
 - You can display
 - things in a list
-- like this
+	- like this
+- And indentations
+	- work very nicely
+		- even over multiple levels
+	- just keep going
+- rst will know
+- what you mean
+
+Tables
+------
 
 Code:
 
