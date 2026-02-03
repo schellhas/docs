@@ -409,3 +409,75 @@ Auch Vermischung von Eigentum, Staastunternehmen, Privatunternehmen, Joined-Vent
 
 Dieses System wird manchmal auch als "Staatskapitalismus" bezeichnet. Man kann sagen das System ist ein Widerspruch, Kommunismus in Verbindung mit modernen Kapitalistischen Ideen.
 
+Negative Folgen des Wirtschafswachstums
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Wachstumsfördernde Maßnahmen fürhten zu wirtschaftlicher Verzerrung
+    - Hohe Abhängigkeit der chinesischen Wirtscahft von Investitionen (insbesondere der großen SOEs)
+2. Abhängigkeit von niedrig qualifizierten Arbeitsplätzen (Lohnzuwachs begrenzt)
+- Private Haushalte profitierten weniger von Gewinnen als Investoren und Firmen
+
+Abbildung: Nur 1/3 des BIP geht auf Haushaltskonsum zurück, 2/3 von Investitionen. Private Leute konsumieren wenig also wenig Anteil von BIP
+
+Wachsende Kluft zwischen Stadt und Land
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Arbeitsmigration in die Städte -> Arbeitskräftemangel auf dem Land
+- Geringeres Wachstum in der Landwirtscahft
+- Bekämpft durch: Programm "Das neue sozialistische Dorf"
+    - Sollte Entwicklung in Dörfern vorantreiben
+    - Straßen, Krankenversicherung, Rentensystem
+    - Existenzminimum sollte in ländlichen Gebieten gewährleistet werden
+    - Voranbringen der Technisierung in der Landwirtschaft
+    - 2006: Abschaffung aller landwirtschaftlichen Steuern und Abgaben
+        - Sehr selten für Länder
+
+Soziale Ungleichheit
+~~~~~~~~~~~~~~~~~~~~
+
+- Weiterhin große Einkommensunterschiede zwischen Land und Stadt
+- Unterschiede in Qualität und Zugang zu medizinischer Versorgung
+- Städtische Gesundheitssystem wie im Westen, Ländliches eher wie ein Entwicklungsland
+- Ungleichheit also in vielen Bereichen: Gesundheitswesen, Einkommen, Technologiezugang, Zugang zu Bildung, ...
+
+Problem der Eigentumsrechte
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hat die Partei nicht angegangen, hat sie nicht gelöst.
+
+- Ackerland im kollektiven Besitz der Gemeinde
+    - Das Einkommen lokaler Regierungen ist abhängig von dessen Verkauf an Bauträger und Landentwickler
+    - Konflikte aufgrund von Zwangsumsiedlungen und unzureichenden Entschädigungen der Bauern
+    - 1998 Landprachtverträge eingeführt mit denen das Land 30 Jahre verpachtet wurde was Bauern Sicherheit geben sollte
+    - Auch heute noch die Situation, auf 70 Jahre verlängert
+    - Aber immer noch gehört niemandem in China Land
+    - Bauern investieren dadurch weniger in ihr Land
+
+Förderung des Bildungssektors
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Um höherwertiges Wachstum zu schaffen, also qualitativ hoch, in Bereichen die weniger umweltverschmutzend sind, um diesen Übergang zu schaffen, hat die Regierung in Bildung investiert.
+
+- Ab 1990er: Ausweitung des Bildungswesens
+- Unis werden internationaler
+- Qualität von Forschung und Lehre gesteigert
+- 1978: unter 1 Mio Studenten
+- 2012: 23,9 Mio Studenten
+
+Verlangsamung des Wachstums
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Gegen Ende des 1. Jahrzehnts des 21. Jh. kommt es zu Rückgang des Wirtschaftswachstums. Phase der super hohen Wachstumsraten kommen ans Ende. Regierung konzentriert sich darauf, heimische Nachfrage zu stützen und anzukurbeln. Anpassung an wirtschaftliche Strukturen, die zuvor ausschließlich von schnellem Wachstum abhingen. Steigende Arbeits- und Energiekosten verringern die Wettbewerbsfähigkeit. 2015/16 Ungewissenheit wies weiter geht. Modell das China eingeschlagen hat ist nicht mehr so einfach umsetzbar. Ob China den Umbau schafft, begonnen haben sie, ob es möglich ist und zu welchem Preis zeigt die Zukunft.
+
+Leitfragen
+~~~~~~~~~~
+
+Warum verfolgte die Reigerung eine wachstumsorientierte Politik?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Sozialismus in Osteuropa war gescheitert da der versprochene erhöhte Lebensstandard nicht gewährleistet werden konnte
+- Mehr Legitimation für chinesische Regierung und System
+- Hohes Wachstum ermöglichte Ausbau von chinesichen Zielen
+
+Welche negativen Konsequenzen stellten sich ein?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
