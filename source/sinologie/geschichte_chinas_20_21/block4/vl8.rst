@@ -299,3 +299,113 @@ ist jetzt offener
 
 Vorlesung 8.3: Wachstum um jeden Preis (2001-2015)
 --------------------------------------------------
+
+Nach Beitritt zur WTO kams zur Phase von sehr hohem Wachstum in China. "Super high growth". Phase des Wachstums um jeden Preis. Wachstum soll so hoch wie möglich.
+
+- Wachstum der "Produktivkräfte" (BIP) war primäres Ziel der Regierung
+- Zunächst kapitalintensive schwerintensive Industrie bevorzugt
+- China ist "Workshop" der Welt, fast alles in den Läden ist aus China
+
+In bestimmten Branchen, z.B. Textil, fast 80% der weltweiten Produktion aus China
+
+- Lokale Regierungen: Förderungen eher in der Leicht- und Konsumgüterindustrie (exportorientiert)
+- Leicht- und Konsumgüterindustrie eher dezentral, Schwerindustrie auf national/zentrale Ebene betreut
+- Es kommt zu nachhaltiger Mobilisierung von Kapital für Investitionen
+- Wieso sie kommen: In China deutlicher Wettbewerbvorteil von günstigen und relativ gut qualifizierten Arbeitskräften
+- Viele westliche Unternehmen bringen Produktion nach China
+- Auto, Elektro, Halbleiter, fast alles in China (fast 90% der Weltproduktion)
+
+Hohe Investitionsrate
+~~~~~~~~~~~~~~~~~~~~~
+
+- Manche Forscher sagen höchste Investitionsrate die ein Land je erreicht hat (Investitionsrate = Anteil von Anlageinvestitionen am BIP)
+- 1992-2002 38-39% des BIP investiert worden
+- ab 2003 Anstieg auf über 40%, also 40% des gesamten BIP wird nicht in Konsum gegeben, sondern re-investiert
+- 60% der Bruttoanlageinvestitionen wurde aus inländischen Ersparnissen finanziert
+
+Ausländische Direktinvestitionen (ADI)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Steigerung von ca. 2 Mrd. (Beginn der Reformära) auf mehr als 40 Mrd. US-Dollar (späte 1990er Jahre)
+- China war Spitzenempfänger von ADIs unter den Entwicklungsländern
+- 2002 überholt China die USA als beliebtestes Land für ADIs
+- Es wird also mehr in China investiert als in Europa oder die USA
+- 60% der ADIs kamen aus "Greater China", also Taiwan, Hong Kong, Singapur, Überseechinesen, Malaysia, Indonesien, ...
+- Zeigt dass chinesisches Wirtschaftswachstum nicht so sehr vom Westen abhängt wie man das denkt
+- Sehr schöne Abbildung auf Slides (Kuchendiagramm)
+- Wirtschaftswachsum durch innere Stärke gegeben
+- Viele dieser Investoren konzentrieren sich auf kleine und mittlere Unternehmen (KMU)
+- Können die "Überseechinesen" besser, da sie sich dort besser auskennen als z.B. Deutsche
+- Erfolgreiche Bereiche:
+    - Computertechnologie
+    - Elektronik
+    - Telekommunikation
+    - Pharmazeutik
+    - Petrochemie
+
+Technologietransfer
+~~~~~~~~~~~~~~~~~~~
+
+- Eröffnung von Forschungs- und Entwicklungszentren
+- Zunehmender Export von Hightech-Produkten
+- China nicht mehr nur "billig"-Lohnsektor
+- Sondern auch in fortschrittlichen Technologien
+- Dadurch Debatte über Eigentum im Sozialismus
+    - Viele Arten des "Besitz" entstanden
+    - Aktien, Joined-Ventures, Privatbesitz, Kollektivbesitz
+
+Reform der Staatsbetriebe
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In 90er Jahren schon Kürzung/Reduzierung gesehen
+
+In 2000ern sollten Staatsunternehmen neu aufgestellt werden.
+
+- 2003 "Kommission zur Kontrolle und Verwaltung von Staatsvermögen" SASAC State Asset Supervision and Administration Commission
+- Im Westen unbekannt
+- Eine der wichtigsten, reichsten und einflussreichsten Organisationen der Welt
+- In dieser Kommission sind alle Staatsbetriebe Chinas versammelt und werden von ihr verwaltet
+- Diese Kommission hält Besitzanteile aller Staatsunternehmen in China
+
+SASAC
+~~~~~
+
+Ziel: Erhaltung, Konsolidierung und strategische Reform der SOEs
+
+- Rohstoffe
+- Energie
+- Kommunikation
+- Infrastruktur
+- Verteidigung
+
+Es gibt noch viele Staatsunternehmen auch wenn die Zahl zurückgegangen ist. Diese Unternehmen sind sehr erfolgreich. 2012 waren 45 der Forutne Global 500-Konzerne im Besitz von SASAC (also ca. 10%). Gesamtwert von 4,5 Brd. US-Dollar.
+
+- Reform der SOEs sehr erfolgreich
+    - Effizientes Management durch die Einführung von unternehmerischen Elementen
+    - Leistungsbezogene Bezahlung, Überbleibsel des Sozialismus verschwunden
+- SASAC folgte einer Agenda der Professionalisierung, Spezialisierung und Förderung internationaler Wettbewerbsfähigkeit
+
+Vermeidung von Monopolen
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sollte vermieden werden dass die Staatsunternehmen ein Monopol haben
+
+- Mindestens zwei große Firmen in jedem marksegment sollten miteinander konkurrieren
+- Beispiel Telekomm.: China Mobile, China Unicom, China Telecom
+    - 3 große Unternehmen in Staatsbesitz die voneinander unabhängig agieren und miteinander konkurrieren
+- Luftfahrt: Air China, China Eastern, China Southern, alles Staatsunternehmen, gibt inzw. auch paar private
+- Öl: China National Petroleum Corporation (CNPC), China Petrochemical Corporation (PetroChina), China National Offshore Oil Corporation (CNOOC)
+
+Durch diese Umstrukturierung konnten Monopole verhindert werden, aber Staats Kontrolle über strategische und sensible Bereiche behalten. Das heißt auch dass diese Staatsunternehmen weiter existieren, und sogar flourieren. Heute die erfolgreichsten chinesichen Unternehmen.
+
+Form der Wirtschaft
+~~~~~~~~~~~~~~~~~~~
+
+- Gemischtes Wirtschaftssystem
+- Einige große Unterhmen im Staatsbesitz auf zentraler Ebene
+- Private Unternehmen mit engen Verbindungen zu Kommunen und lokalen Regierungsbehörden
+
+Auch Vermischung von Eigentum, Staastunternehmen, Privatunternehmen, Joined-Ventures, Kollektivbesitz, z.B. TVEs (Township und Village Enterprises).
+
+Dieses System wird manchmal auch als "Staatskapitalismus" bezeichnet. Man kann sagen das System ist ein Widerspruch, Kommunismus in Verbindung mit modernen Kapitalistischen Ideen.
+
