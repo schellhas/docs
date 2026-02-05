@@ -58,22 +58,22 @@ Der Erfolg dieser Reformen in der Landwirtschaft führt dazu, dass die Reformpol
 Entwicklung der Gemeinde- und Dorfunternehmen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Ab 1979: Regierung ermutigt dass Gemeinde- dund dorfunternehmen gegründet werden.
-- als orgnaisationsform:
-	- gehen in die GuDu 1950er zurück wo china solche formen schon zugelassen hat, also d+rfern und gemeinden wewar es erlaubt unternhemen zu gründen
-	- diese waren im kollektivbesitz alos im besitz des kreises oder der gemeinde
+- Ab 1979: Regierung ermutigt, dass Gemeinde- und Dorfunternehmen gegründet werden.
+- Als Organisationsform:
+    - Gehen in die GuDu der 1950er zurück, wo China solche Formen schon zugelassen hat. Also den Dörfern und Gemeinden war es erlaubt, Unternehmen zu gründen.
+    - Diese waren im Kollektivbesitz, also im Besitz des Kreises oder der Gemeinde.
 
-in jahren nac h1955: viele beschränkungen und barrieren die entiwkclungen dieser utnernehmen verhindern, in kulturrevolution fast verschwunden
+In den Jahren nach 1955: viele Beschränkungen und Barrieren, die Entwicklungen dieser Unternehmen verhinderten, in der Kulturrevolution fast verschwunden.
 
-in reformpolitik setzt sich für den abbau der hidnernissen zur gründeunge der GuDu ein.
+In der Reformpolitik setzt sich die Regierung für den Abbau der Hindernisse zur Gründung der GuDu ein.
 
-Was mache ndiese dorf und mgeiendunternehmen? sie stellen dinge des alltäglichen gebrauchs her. kleidung, schuhe, koffer, werkzeuge, dienstleistungen für die landwirtschaft.
+Was machen diese Dorf- und Gemeindeunternehmen? Sie stellen Dinge des alltäglichen Gebrauchs her: Kleidung, Schuhe, Koffer, Werkzeuge, Dienstleistungen für die Landwirtschaft.
 
 - Schnelle Entwicklung:
-- hinsichtilich Anzahl, zahl der angestellten, breite der produktpalette, ausmaß technologischer entwicklungen und anforderungen
-- werden schnell zur dynamischsten kraft der chinesischen wirtschaft
+    - Hinsichtlich Anzahl, Zahl der Angestellten, Breite der Produktpalette, Ausmaß technologischer Entwicklungen und Anforderungen
+    - Werden schnell zur dynamischsten Kraft der chinesischen Wirtschaft
 
-in diesem bereich kommts zu vielen markteinstiegen, viele unternehmen neu gegründet die mit großem erfolg an den markt gehen und dort prodfukte verkaufen. **Produktionsanstieg der Gemeinde- und Dorfunternehmen um 30-35% pro Jahr**, bis 1995: 125 Mio. Angestellte. Hübsche Abbildung auf Slides: Unterhmenen kriegen viele investitionen aus dem ausland (overseas- chinese) aber auch von chinesen selbst. schon nach kurzer zeit nicht merh firmen in staats- und kollektivsbesitz. jetzt oft gemischte eigentumsformen, in vielen f+lllen privates kapital sehr viel größer als das der stadt oder landkreise. nominell handelt es sich aber um kollektivunternehmen. eigentlich privatunternehmen, weil oft auch privates management vorsitzt und städte und gemeinden nur noch minoritätenanteile halten.
+In diesem Bereich kommt es zu vielen Markteinstiegen, viele Unternehmen werden neu gegründet, die mit großem Erfolg an den Markt gehen und dort Produkte verkaufen. **Produktionsanstieg der Gemeinde- und Dorfunternehmen um 30-35 % pro Jahr**, bis 1995: 125 Mio. Angestellte. Hübsche Abbildung auf Slides: Unternehmen bekommen viele Investitionen aus dem Ausland (Overseas-Chinese), aber auch von Chinesen selbst. Schon nach kurzer Zeit nicht mehr Firmen in Staats- und Kollektivbesitz. Jetzt oft gemischte Eigentumsformen, in vielen Fällen privates Kapital sehr viel größer als das der Stadt oder Landkreise. Nominell handelt es sich aber um Kollektivunternehmen. Eigentlich Privatunternehmen, weil oft auch privates Management vorsitzt und Städte und Gemeinden nur noch Minderheitenanteile halten.
 
 Konkurrenz für die staatlichen Unternehmen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
