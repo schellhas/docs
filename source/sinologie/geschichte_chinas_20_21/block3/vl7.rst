@@ -60,8 +60,8 @@ Entwicklung der Gemeinde- und Dorfunternehmen
 
 - Ab 1979: Regierung ermutigt, dass Gemeinde- und Dorfunternehmen gegründet werden.
 - Als Organisationsform:
-    - Gehen in die GuDu der 1950er zurück, wo China solche Formen schon zugelassen hat. Also den Dörfern und Gemeinden war es erlaubt, Unternehmen zu gründen.
-    - Diese waren im Kollektivbesitz, also im Besitz des Kreises oder der Gemeinde.
+	- Gehen in die GuDu der 1950er zurück, wo China solche Formen schon zugelassen hat. Also den Dörfern und Gemeinden war es erlaubt, Unternehmen zu gründen.
+	- Diese waren im Kollektivbesitz, also im Besitz des Kreises oder der Gemeinde.
 
 In den Jahren nach 1955: viele Beschränkungen und Barrieren, die Entwicklungen dieser Unternehmen verhinderten, in der Kulturrevolution fast verschwunden.
 
@@ -70,8 +70,8 @@ In der Reformpolitik setzt sich die Regierung für den Abbau der Hindernisse zur
 Was machen diese Dorf- und Gemeindeunternehmen? Sie stellen Dinge des alltäglichen Gebrauchs her: Kleidung, Schuhe, Koffer, Werkzeuge, Dienstleistungen für die Landwirtschaft.
 
 - Schnelle Entwicklung:
-    - Hinsichtlich Anzahl, Zahl der Angestellten, Breite der Produktpalette, Ausmaß technologischer Entwicklungen und Anforderungen
-    - Werden schnell zur dynamischsten Kraft der chinesischen Wirtschaft
+	- Hinsichtlich Anzahl, Zahl der Angestellten, Breite der Produktpalette, Ausmaß technologischer Entwicklungen und Anforderungen
+	- Werden schnell zur dynamischsten Kraft der chinesischen Wirtschaft
 
 In diesem Bereich kommt es zu vielen Markteinstiegen, viele Unternehmen werden neu gegründet, die mit großem Erfolg an den Markt gehen und dort Produkte verkaufen. **Produktionsanstieg der Gemeinde- und Dorfunternehmen um 30-35 % pro Jahr**, bis 1995: 125 Mio. Angestellte. Hübsche Abbildung auf Slides: Unternehmen bekommen viele Investitionen aus dem Ausland (Overseas-Chinese), aber auch von Chinesen selbst. Schon nach kurzer Zeit nicht mehr Firmen in Staats- und Kollektivbesitz. Jetzt oft gemischte Eigentumsformen, in vielen Fällen privates Kapital sehr viel größer als das der Stadt oder Landkreise. Nominell handelt es sich aber um Kollektivunternehmen. Eigentlich Privatunternehmen, weil oft auch privates Management vorsitzt und Städte und Gemeinden nur noch Minderheitenanteile halten.
 
@@ -118,15 +118,15 @@ Reformen in der Industrie
 Die Regierung verfolgt einen zweigleisigen Ansatz:
 
 1. Unternehmen im Staatsbesitz erhalten Rohstoffe und Produktionsmaterialien vom Staat
-    - Müssen festgesetzte Quoten produzieren, die der Staat verkauft
-    - Über die Quote hinaus dürfen Produkte an Märkte verkauft werden zu Preisen, die der Markt bestimmt
-    - Entsteht eine Art Gemisch-System: Staatsunternehmen arbeiten in bestimmten Bereichen wie Staatsunternehmen in der Planwirtschaft, was sie über die Quote hinaus produzieren, können sie privat an Konsumenten oder Vertriebe/Märkte verkaufen
-    - Auch hier folgt man demselben Modell wie in der Landwirtschaft erprobt
+	- Müssen festgesetzte Quoten produzieren, die der Staat verkauft
+	- Über die Quote hinaus dürfen Produkte an Märkte verkauft werden zu Preisen, die der Markt bestimmt
+	- Entsteht eine Art Gemisch-System: Staatsunternehmen arbeiten in bestimmten Bereichen wie Staatsunternehmen in der Planwirtschaft, was sie über die Quote hinaus produzieren, können sie privat an Konsumenten oder Vertriebe/Märkte verkaufen
+	- Auch hier folgt man demselben Modell wie in der Landwirtschaft erprobt
 2. Private Unternehmen mussten Produktionsmaterialien auf dem Markt kaufen
-    - Konnten diese wieder an den Markt verkaufen
+	- Konnten diese wieder an den Markt verkaufen
 - Entstehung eines dualen Preissystems
-    - Eine Seite: Preis innerhalb des noch geplanten Bereichs der Wirtschaft
-    - Aber auch marktbestimmte Preise, die dadurch entstehen, dass die Staatsbetriebe die Produkte, die sie über die Quote hinaus produziert haben, frei verkaufen können
+	- Eine Seite: Preis innerhalb des noch geplanten Bereichs der Wirtschaft
+	- Aber auch marktbestimmte Preise, die dadurch entstehen, dass die Staatsbetriebe die Produkte, die sie über die Quote hinaus produziert haben, frei verkaufen können
 
 Abbildung: China erreicht sehr positive wirtschaftliche Entwicklung.
 
@@ -190,32 +190,48 @@ Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 e
 Über alle Maßnahmen ist erstmal zu sagen: sie waren graduell. Was ja in Osteuropa nicht so gut geklappt hat (sofortiges Öffnen des Marktes, Staatsunternehmen gingen schnell bankrott, dadurch hohe Arbeitslosigkeit und Unzufriedenheit), wurde in China besser gelöst. "Alle" Änderungen wurden graduell vorgenommen, sodass Staatsunternehmen sich an den freien Markt anpassen konnten, Konkurrenz graduell eingeführt wurde, und nicht alle Stützen sofort verschwanden. Stattdessen wurden ein wenig Stützen genommen, die dann durch Profit am freien/privaten Markt ersetzt worden konnten. So hat man sich langsam "vorgearbeitet" und die Planwirtschaft langsam in Richtung freier Marktwirtschaft umgebaut. Bis heute bleibt es allerdings ein "Hybridsystem". (Das galt in dieser Zeit vor allem für Bauern und die Industrie)
 
 - Motivierung der Bauern
-    1. Einführung des "Haushaltsverantwortungssytems"
-        - Familienbewirtschaftung wurde wieder eingeführt
-        - Verträge zwischen Bauern und Kommunen/Kreisen
-        - Bauern mussten gewisse Quoten an Abgaben an diese erfüllen
-        - Rest durfte privat auf dem Markt für Profit verkauft werden (oder behalten)
-        - Führte zu höherer Produktivität
-    2. Rapide Entwicklung ländlicher Unternehmen
-    - Ab 1985: Nur noch finanzielle Abgaben (Mittel dazu wurden auf privaten Märkten durch Verkauf der Produktion erworben)
-    - 1985: Gesamte Planwirtschaft abgeschafft, gradueller Prozess dauerte etwa 7-8 Jahre
-    - Dadurch immenses Wachstum der Landwirtschaft erzielt
-    - Durch diese "frühen" Erfolge, wurde Reformpolitik Dengs beliebt im Volk
+	1. Einführung des "Haushaltsverantwortungssytems"
+		- Familienbewirtschaftung wurde wieder eingeführt
+		- Verträge zwischen Bauern und Kommunen/Kreisen
+		- Bauern mussten gewisse Quoten an Abgaben an diese erfüllen
+		- Rest durfte privat auf dem Markt für Profit verkauft werden (oder behalten)
+		- Führte zu höherer Produktivität
+	2. Rapide Entwicklung ländlicher Unternehmen
+		- Ab 1985: Nur noch finanzielle Abgaben (Mittel dazu wurden auf privaten Märkten durch Verkauf der Produktion erworben)
+		- 1985: Gesamte Planwirtschaft abgeschafft, gradueller Prozess dauerte etwa 7-8 Jahre
+		- Dadurch immenses Wachstum der Landwirtschaft erzielt
+		- Durch diese "frühen" Erfolge, wurde Reformpolitik Dengs beliebt im Volk
 - Gemeinde- und Dorfunternehmen
-    - in 50ern gingen diese durch Regularien zurück
-    - Jetzt setzt sich die Regierung für Abbaue der Hindernisse ein
-    - Diese Gemeinde- und Dorfunternehmen:
-        - Produzieren Produkte für alltäglichen Gebrauch: Kleidung, Schuhe, Koffer, Werkzeuge, ...
-        - Entwickelten sich sehr schnell hinsichtlich Anzahl, Angestelle, Produktionspalette, Ausmaß
-        - Früh dynamischte Kraft in chinesischer Wirtschaft
-    - Funktionierten als sehr erfolgreiches Modell als Konkurrenz für alte, klassische, große Staatsunternehmen
-        - Staat hat dies bewusst zugelassen
+	- in 50ern gingen diese durch Regularien zurück
+	- Jetzt setzt sich die Regierung für Abbaue der Hindernisse ein
+	- Diese Gemeinde- und Dorfunternehmen:
+		- Produzieren Produkte für alltäglichen Gebrauch: Kleidung, Schuhe, Koffer, Werkzeuge, ...
+		- Entwickelten sich sehr schnell hinsichtlich Anzahl, Angestelle, Produktionspalette, Ausmaß
+		- Früh dynamischte Kraft in chinesischer Wirtschaft
+	- Funktionierten als sehr erfolgreiches Modell als Konkurrenz für alte, klassische, große Staatsunternehmen
+		- Staat hat dies bewusst zugelassen
 - Öffnung zur Weltwirtschaft
-    - Sonderwirtschaftszonen (SWZ) bekommen günstigere Bedingungen für ausländische Investitionen, dadurch:
-        - Ausländisches Kapital
-        - Innovativere Technologien
-        - Ausländische Expertise
-    - 
+	- Sonderwirtschaftszonen (SWZ) bekommen günstigere Bedingungen für ausländische Investitionen, dadurch:
+		- Ausländisches Kapital
+		- Innovativere Technologien
+		- Ausländische Expertise
+	- Ende 1990: Knapp 30.000 Vereinbarungen über Investitionen aus dem Ausland, Volumen von insg. 68,1 Mrd. US-Dollar
+- Reformen in der Industrie
+	- Erhalten Rohstoffe und Produktionsmaterialien vom Staat
+	- Müssen gewisse Quote an Abgaben an den Staat erfüllen
+	- Dürfen den Überschuss für Gewinn verkaufen
+	- Dadurch teilweise Korruption (Durch duales System Produkte die durch Subventionen billiger produziert wurden teurer auf freiem Markt (zu höheren Preisen) verkaufen)
+- Neue soziale Schichten durch freien Markt
+	- Da diese Unternehmer, Manager, Gründer, ... viel Einfluss haben, will KPC diese (auf lokaler Ebene) aufnehmen
+	- Lokale Unternehmen wollen das denn: Schutz und Unterstützung der Partei
+	- Partei will das denn: Zugang zu Steuergeldern, Reichtümern und Unternehmen wichtige soziale Rolle in Dörfern als Arbeitgeber und Investoren
+	- "Staatskorporatistisches System", oder "Staatskapitalismus", die enge Symbiose aus Wirtschaft und Regierung
+- Eigentumsrechte
+	- Land wird von Bauern nicht besitzt sondern nur die Nutzungsrechte verpachtet
+	- Diese Nutzungsrechte können weiter vekauft werden
+	- Staat kann Land aber jederzeit zurücknehmen für z.B. Infrastruktur, Industrie, kommerzielles, ...
+	- Nur Industrie- und Immobilienunternehmen können Land besitzen
+	- 80% des Landes gehört dem Staat
 
 Vorlesung 7.2: Öfentliche Debatten über die chinesische Kultur in den 1980er Jahren
 -----------------------------------------------------------------------------------
