@@ -58,6 +58,51 @@ Der Erfolg dieser Reformen in der Landwirtschaft führt dazu, dass die Reformpol
 Entwicklung der Gemeinde- und Dorfunternehmen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Ab 1979: Regierung ermutigt dass Gemeinde- dund dorfunternehmen gegründet werden.
+- als orgnaisationsform:
+	- gehen in die GuDu 1950er zurück wo china solche formen schon zugelassen hat, also d+rfern und gemeinden wewar es erlaubt unternhemen zu gründen
+	- diese waren im kollektivbesitz alos im besitz des kreises oder der gemeinde
+
+in jahren nac h1955: viele beschränkungen und barrieren die entiwkclungen dieser utnernehmen verhindern, in kulturrevolution fast verschwunden
+
+in reformpolitik setzt sich für den abbau der hidnernissen zur gründeunge der GuDu ein.
+
+Was mache ndiese dorf und mgeiendunternehmen? sie stellen dinge des alltäglichen gebrauchs her. kleidung, schuhe, koffer, werkzeuge, dienstleistungen für die landwirtschaft.
+
+- Schnelle Entwicklung:
+- hinsichtilich Anzahl, zahl der angestellten, breite der produktpalette, ausmaß technologischer entwicklungen und anforderungen
+- werden schnell zur dynamischsten kraft der chinesischen wirtschaft
+
+in diesem bereich kommts zu vielen markteinstiegen, viele unternehmen neu gegründet die mit großem erfolg an den markt gehen und dort prodfukte verkaufen. **Produktionsanstieg der Gemeinde- und Dorfunternehmen um 30-35% pro Jahr**, bis 1995: 125 Mio. Angestellte. Hübsche Abbildung auf Slides: Unterhmenen kriegen viele investitionen aus dem ausland (overseas- chinese) aber auch von chinesen selbst. schon nach kurzer zeit nicht merh firmen in staats- und kollektivsbesitz. jetzt oft gemischte eigentumsformen, in vielen f+lllen privates kapital sehr viel größer als das der stadt oder landkreise. nominell handelt es sich aber um kollektivunternehmen. eigentlich privatunternehmen, weil oft auch privates management vorsitzt und städte und gemeinden nur noch minoritätenanteile halten.
+
+Konkurrenz für die staatlichen Unternehmen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Diese dynamischen kleinen ländlichen Unternehmen, sehr nahe am Kunden, die die Kunden gut kennen, werden zur großen Konkurrenz für große klassische Staatsunternehmen, die während der Mao-Ära aufgebaut wurden und bis Ende der 70er oft Monopole hatten. Die schnelle Ausdehnung des nichtstaatlichen Bereichs in der ländlichen Wirtschaft schafft eine riesige Konkurrenz für die bestehenden Unternehmen in Staatsbesitz. Das ist sicherlich einer der großen Verdienste der Reformpolitik, diese Konkurrenz zuzulassen und die Staatsunternehmen unter Druck zu setzen, was natürlich nicht einfach war, da diese gute Beziehungen zur Partei hatten und hätten durchsetzen können, „geschützt“ zu werden.
+
+Der Konkurrenzdruck führt zu Gewinnverlusten bei Staatsunternehmen, die vom Staat wettgemacht werden mussten, geraten Einnahmen der Zentralregierung unter Druck, und es entsteht eine Art Finanzkrise. Die Regierung muss Schulden aufnehmen, und die Verluste weiten sich aus.
+
+1984: Regierung erweitert Reformen auf städtische Gebiete. Auch hier werden Regeln verändert. Managern von Staatsunternehmen wird mehr Autonomie gewährt. Staatsunternehmen dürfen Gewinne behalten und Produkte auf dem Markt verkaufen. Es wird auch zugelassen, die Entwicklung privater Firmen und Dienstleister im städtischen Gebiet zu fördern: Verkaufsläden, Kaufhäuser, Dienstleistungen usw.
+
+Öffnung zur Weltwirtschaft
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auch eine Maßnahme von großer Bedeutung. Deng Xiaoping öffnet das Land für internationalen Handel und Investitionen in China. Dazu werden Schlüsselregionen entlang der Küsten ausgewählt, die **Sonderwirtschaftszonen** gründen dürfen. Die ersten davon sind: **Shenzhen**, **Zhuhai**, **Shantou**, **Xiamen**.
+
+Sonderwirtschaftszonen (SWZ)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sehr günstige Bedingungen für das Anwerben von:
+
+- ausländischem Kapital
+- innovativer Technologien
+- ausländischer Expertise
+
+Das bedeutet, in den SWZ erhalten ausländische Investoren besonderen Rechtsschutz, der größer ist als das, was normalerweise chinesische Unternehmen im chinesischen Markt gewährt wird. Dort werden neue Unternehmen gegründet, die natürlich nach globalem bzw. internationalem Standard operieren. Auch hier ist das Interesse des Auslands groß. 
+
+1979-1984 -> über 900 Abkommen mit ausländischen Investoren über insgesamt ca. 6 Mrd. US-Dollar.
+
+
 Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 ergriffen, um die Wirtschaft zu reformieren?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
