@@ -85,7 +85,7 @@ Heute ist es so dass in China tatsächlich flächendeckend Dorfwahlen und Kommun
 Regierungswechsel 2012
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Xi Jinping regiert, Premierminister ist Li Keqiang.
+**Xi Jinping (习近平)** regiert, Premierminister ist **Li Keqiang (李克强)**.
 
 Dieser Wechsel ist wieder friedlich wie verabredet. Neue Regierung ist selbstverständlich weiter der selben Politik verpflichtet, Umbau der Wirtschaft soll fortgesetzt werden.
 
@@ -480,4 +480,4 @@ Gegen Ende des 1. Jahrzehnts des 21. Jh. kommt es zu Rückgang des Wirtschaftswa
 - Hohes Wachstum ermöglichte Ausbau von chinesichen Zielen
 
 **Welche negativen Konsequenzen stellten sich ein?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
