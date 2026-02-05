@@ -10,3 +10,4 @@ Zwischen 1990 und 2015 kommt es zu einem hohen Wirtschaftswachstum. China wird z
 	vl8
 	vl9
 	vl10
+	vortrag
