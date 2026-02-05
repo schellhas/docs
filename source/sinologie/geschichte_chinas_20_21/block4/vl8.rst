@@ -469,15 +469,15 @@ Verlangsamung des Wachstums
 
 Gegen Ende des 1. Jahrzehnts des 21. Jh. kommt es zu Rückgang des Wirtschaftswachstums. Phase der super hohen Wachstumsraten kommen ans Ende. Regierung konzentriert sich darauf, heimische Nachfrage zu stützen und anzukurbeln. Anpassung an wirtschaftliche Strukturen, die zuvor ausschließlich von schnellem Wachstum abhingen. Steigende Arbeits- und Energiekosten verringern die Wettbewerbsfähigkeit. 2015/16 Ungewissenheit wies weiter geht. Modell das China eingeschlagen hat ist nicht mehr so einfach umsetzbar. Ob China den Umbau schafft, begonnen haben sie, ob es möglich ist und zu welchem Preis zeigt die Zukunft.
 
-Leitfragen
-~~~~~~~~~~
+**Leitfragen**
+~~~~~~~~~~~~~~
 
-Warum verfolgte die Reigerung eine wachstumsorientierte Politik?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Warum verfolgte die Reigerung eine wachstumsorientierte Politik?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Sozialismus in Osteuropa war gescheitert da der versprochene erhöhte Lebensstandard nicht gewährleistet werden konnte
 - Mehr Legitimation für chinesische Regierung und System
 - Hohes Wachstum ermöglichte Ausbau von chinesichen Zielen
 
-Welche negativen Konsequenzen stellten sich ein?
+**Welche negativen Konsequenzen stellten sich ein?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -236,17 +236,17 @@ Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 e
 Vorlesung 7.2: Öfentliche Debatten über die chinesische Kultur in den 1980er Jahren
 -----------------------------------------------------------------------------------
 
-Leitfrage: Welche Ideen und Vorstellungen prägten die öffentlichen Debatten in den 1980er Jahren?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Leitfrage: Welche Ideen und Vorstellungen prägten die öffentlichen Debatten in den 1980er Jahren?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vorlesung 7.3: Die Niederschlagung der Demokratiebewegung am 4. Juni 1989
 -------------------------------------------------------------------------
 
-Leitfragen
-~~~~~~~~~~
+**Leitfragen**
+~~~~~~~~~~~~~~
 
-Welche Faktoren führten zum Entstehen der Demokratiebewegung?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Welche Faktoren führten zum Entstehen der Demokratiebewegung?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Was waren die Folgen ihrer gewaltsamen Niederschlagung?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Was waren die Folgen ihrer gewaltsamen Niederschlagung?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
