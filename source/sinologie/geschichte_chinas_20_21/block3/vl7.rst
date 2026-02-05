@@ -156,6 +156,29 @@ Interessantes Phänomen: enge Symbiose zwischen Parteikadern und lokalen Unterne
 
 Viele Beobachter und Wissenschaftler nennen dieses System „staatskorporatistisches System“, eine Symbiose von Wirtschaft und Regierung. Andere: „Staatskapitalismus“ - der Staat spielt weiter eine Rolle, z.B. durch die Partei, auf der anderen Seite wird die Entwicklung nicht mehr primär durch Planwirtschaft getrieben, sondern durch das freie Spiel der Marktkräfte. Bis heute ist im Grund feststellbar, dass die Trennung vom regulatorischen Staat und Marktsystem kaum möglich ist - diese Verbindungen sind viel zu eng zwischen Markt und Staat in China.
 
+Eigentumsrechte
+~~~~~~~~~~~~~~~
+
+Es kommt zu keiner Privatisierung des Landbesitzes, sondern nur zur Privatisierung der Landnutzung. Die Bauern haben ja mit dem Staat oder den kollektiven Einrichtungen Verträge abgeschlossen hinsichtlich der Nutzung des Landes. Im Gegensatz zur Nutzung des Landes liefern sie Produkte ab und behalten den Überschuss für sich. Der Staat selbst bleibt aber Eigentümer des Landes; Bauern können das Land nur nutzen, es ist gepachtet. Eigentum des Landes bleibt im Kollektiv. Verpachtetes Land kann auch verkauft werden, aber eben nur als verpachtetes Land - was also eigentlich gehandelt wird, sind Landnutzungsrechte, nicht Eigentumsrechte. Land kann auch mit Hypotheken belastet werden, bleibt aber Eigentum des Staates.
+
+80 % der gesamten landwirtschaftlichen Fläche gehört dem Staat. Ausnahmen gibt es nur dort, wo Land an Investoren veräußert wurde, z.B. für Wohnungsbau. Das ist dann Immobilieneigentum. Tatsächlich geht es ansonsten immer nur um die Landnutzung. Der Staat kann das Land also verkaufen an Investoren zum Wohnungsbau, für Industrieansiedlungen und dadurch den Bauern die Nutzung untersagen und wegnehmen, um es anderweitig zu nutzen. Große Ursache für Proteste in China. Bauern haben oft in diesen Dörfern das Land über Generationen bestellt. Vor 1949 war ja alles Land in Privatbesitz. Wenn das jetzt weggenommen wird für kommerzielle Zwecke, ist das oft auf Protest in den Dörfern gestoßen. Die Bauern haben keine Möglichkeit, sich dagegen zu wehren. Es wurde dann meistens durch Kompensationszahlungen versucht, die Proteste zu unterbinden. Dies ist einer der großen Konfliktpunkte.
+
+Steigende Lebensstandards
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Alles in allem blieben die Reformen aber ein großer Erfolg. Die zuvor weit verbreitete Armut verschwand, die Ausbreitung moderner Errungenschaften war feststellbar, selbst in abgelegensten Gebieten. Es gab einen Anstieg des Lebensstandards, sowohl im Land als auch in der Stadt, deutlich sichtbar.
+
+Der Einfluss des Marktes hat das Leben verändert. Früher war alles vom Staat geregelt, einschließlich Essen, Wohnung und Produkte, was man kaufen konnte, wie viel Geld man hatte etc. Jetzt bestimmt der Markt vieles; der Einzelne musste seine Arbeitskraft auf dem Markt verkaufen. Staatliche Garantien sind alle verschwunden, aber auch die staatlichen Restriktionen. Ebenfalls verschwunden sind Egalitarismus und Kollektivismus. 
+
+Dadurch entstanden neue Ungleichheiten und neue Unsicherheiten. Dazu später mehr.
+
+Zunahme wirtschaftlicher Probleme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Zum Ende der 80er Jahre geriet der Staatshaushalt immer mehr unter Druck, da die Staatsbetriebe für den Staat immer teurer wurden und immer mehr Subventionen benötigten. Der Staat musste auch Infrastrukturinvestitionen vornehmen, und insgesamt kam es Ende der 80er Jahre zu einer viel größeren Schuldenaufnahme, wodurch die Inflation rapide stieg. Verlust der realen Kaufkraft der Menschen, Gefahr, dass die gesamtwirtschaftliche Kontrolle verloren geht.
+
+Insgesamt führten die Reformen trotz aller Erfolge zu zunehmenden Problemen in der chinesischen Wirtschaft. Die Defizite der Staatsunternehmen und Verluste durch Investitionen in Infrastruktur führten zu hoher Inflation, die die Realeinkommen der Menschen bedrohte, und zu verbreitetem Unmut sowie ersten Protesten.
+
 
 Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 ergriffen, um die Wirtschaft zu reformieren?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
