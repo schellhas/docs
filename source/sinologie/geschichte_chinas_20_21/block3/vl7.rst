@@ -102,7 +102,11 @@ Das bedeutet, in den SWZ erhalten ausländische Investoren besonderen Rechtsschu
 
 1979-1984 -> über 900 Abkommen mit ausländischen Investoren über insgesamt ca. 6 Mrd. US-Dollar.
 
-Das ist nicht nur wichtiges kpaitla für investitionen, es kommt uach know how und zugang zu internationalen märkten, technologische innovation ins land, in diesen swz und chinesische arbeiter aber auch manager können dort ausgebildet werden und die expertise erlangen. Abbildung: zahl der SWZ die im laufe der zeit immer weiter zuminnt. letzte große: **Pudong-Gebiet* in Shanghai** das 1990 eröffnet wurde. insgeasmt ist die zahl der SWZ bis 1990 auf über 20 gewachsen. wirschaftliche produktion in diesen SWZ ist ebenfalls kontinuierlich angewachsen. abbidung: zahl der ausländischen direktinvestitionen die stark zugenommen hat. sehr seltenes ausmaß an ausländischen investitionen.
+Das ist nicht nur wichtiges Kapital für Investitionen, es kommt auch Know-how und Zugang zu internationalen Märkten, technologische Innovation ins Land. In diesen SWZ können chinesische Arbeiter, aber auch Manager ausgebildet werden und Expertise erlangen. 
+
+Abbildung: Zahl der SWZ, die im Laufe der Zeit immer weiter zunimmt. Letzte große: **Pudong-Gebiet in Shanghai**, das 1990 eröffnet wurde. Insgesamt ist die Zahl der SWZ bis 1990 auf über 20 gewachsen. Die wirtschaftliche Produktion in diesen SWZ ist ebenfalls kontinuierlich angewachsen. 
+
+Abbildung: Zahl der ausländischen Direktinvestitionen, die stark zugenommen hat: sehr seltenes Ausmaß an ausländischen Investitionen.
 
 Diese Investitionen stärken die Wirtschaft sehr erheblich in China, vor allem auch die Wirtschaft außerhalb des Staatsplans/Planwirtschaft.
 
@@ -182,6 +186,36 @@ Insgesamt führten die Reformen trotz aller Erfolge zu zunehmenden Problemen in 
 
 Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 ergriffen, um die Wirtschaft zu reformieren?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Über alle Maßnahmen ist erstmal zu sagen: sie waren graduell. Was ja in Osteuropa nicht so gut geklappt hat (sofortiges Öffnen des Marktes, Staatsunternehmen gingen schnell bankrott, dadurch hohe Arbeitslosigkeit und Unzufriedenheit), wurde in China besser gelöst. "Alle" Änderungen wurden graduell vorgenommen, sodass Staatsunternehmen sich an den freien Markt anpassen konnten, Konkurrenz graduell eingeführt wurde, und nicht alle Stützen sofort verschwanden. Stattdessen wurden ein wenig Stützen genommen, die dann durch Profit am freien/privaten Markt ersetzt worden konnten. So hat man sich langsam "vorgearbeitet" und die Planwirtschaft langsam in Richtung freier Marktwirtschaft umgebaut. Bis heute bleibt es allerdings ein "Hybridsystem". (Das galt in dieser Zeit vor allem für Bauern und die Industrie)
+
+- Motivierung der Bauern
+    1. Einführung des "Haushaltsverantwortungssytems"
+        - Familienbewirtschaftung wurde wieder eingeführt
+        - Verträge zwischen Bauern und Kommunen/Kreisen
+        - Bauern mussten gewisse Quoten an Abgaben an diese erfüllen
+        - Rest durfte privat auf dem Markt für Profit verkauft werden (oder behalten)
+        - Führte zu höherer Produktivität
+    2. Rapide Entwicklung ländlicher Unternehmen
+    - Ab 1985: Nur noch finanzielle Abgaben (Mittel dazu wurden auf privaten Märkten durch Verkauf der Produktion erworben)
+    - 1985: Gesamte Planwirtschaft abgeschafft, gradueller Prozess dauerte etwa 7-8 Jahre
+    - Dadurch immenses Wachstum der Landwirtschaft erzielt
+    - Durch diese "frühen" Erfolge, wurde Reformpolitik Dengs beliebt im Volk
+- Gemeinde- und Dorfunternehmen
+    - in 50ern gingen diese durch Regularien zurück
+    - Jetzt setzt sich die Regierung für Abbaue der Hindernisse ein
+    - Diese Gemeinde- und Dorfunternehmen:
+        - Produzieren Produkte für alltäglichen Gebrauch: Kleidung, Schuhe, Koffer, Werkzeuge, ...
+        - Entwickelten sich sehr schnell hinsichtlich Anzahl, Angestelle, Produktionspalette, Ausmaß
+        - Früh dynamischte Kraft in chinesischer Wirtschaft
+    - Funktionierten als sehr erfolgreiches Modell als Konkurrenz für alte, klassische, große Staatsunternehmen
+        - Staat hat dies bewusst zugelassen
+- Öffnung zur Weltwirtschaft
+    - Sonderwirtschaftszonen (SWZ) bekommen günstigere Bedingungen für ausländische Investitionen, dadurch:
+        - Ausländisches Kapital
+        - Innovativere Technologien
+        - Ausländische Expertise
+    - 
 
 Vorlesung 7.2: Öfentliche Debatten über die chinesische Kultur in den 1980er Jahren
 -----------------------------------------------------------------------------------

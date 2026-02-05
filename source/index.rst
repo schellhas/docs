@@ -3,6 +3,8 @@ Docs
 
 These documents serve for everything I've had to lookup twice, everything I still want to learn, and some stuff for the sake of completeness.
 
+Everything is written by hand, sometimes AI-corrected in terms of typos, grammar and readability.
+
 .. toctree::
 	:maxdepth: 1
 	:caption: Languages
