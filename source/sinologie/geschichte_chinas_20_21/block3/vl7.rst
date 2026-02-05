@@ -102,6 +102,60 @@ Das bedeutet, in den SWZ erhalten ausländische Investoren besonderen Rechtsschu
 
 1979-1984 -> über 900 Abkommen mit ausländischen Investoren über insgesamt ca. 6 Mrd. US-Dollar.
 
+Das ist nicht nur wichtiges kpaitla für investitionen, es kommt uach know how und zugang zu internationalen märkten, technologische innovation ins land, in diesen swz und chinesische arbeiter aber auch manager können dort ausgebildet werden und die expertise erlangen. Abbildung: zahl der SWZ die im laufe der zeit immer weiter zuminnt. letzte große: **Pudong-Gebiet* in Shanghai** das 1990 eröffnet wurde. insgeasmt ist die zahl der SWZ bis 1990 auf über 20 gewachsen. wirschaftliche produktion in diesen SWZ ist ebenfalls kontinuierlich angewachsen. abbidung: zahl der ausländischen direktinvestitionen die stark zugenommen hat. sehr seltenes ausmaß an ausländischen investitionen.
+
+Diese Investitionen stärken die Wirtschaft sehr erheblich in China, vor allem auch die Wirtschaft außerhalb des Staatsplans/Planwirtschaft.
+
+- Ende 1990: Knapp 30.000 Vereinbarungen über die Investition ausländischen Kapitals in SWZ (Volumen von insgesamt 68,1 Mrd. US-Dollar)
+
+Reformen in der Industrie
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Regierung verfolgt einen zweigleisigen Ansatz:
+
+1. Unternehmen im Staatsbesitz erhalten Rohstoffe und Produktionsmaterialien vom Staat
+    - Müssen festgesetzte Quoten produzieren, die der Staat verkauft
+    - Über die Quote hinaus dürfen Produkte an Märkte verkauft werden zu Preisen, die der Markt bestimmt
+    - Entsteht eine Art Gemisch-System: Staatsunternehmen arbeiten in bestimmten Bereichen wie Staatsunternehmen in der Planwirtschaft, was sie über die Quote hinaus produzieren, können sie privat an Konsumenten oder Vertriebe/Märkte verkaufen
+    - Auch hier folgt man demselben Modell wie in der Landwirtschaft erprobt
+2. Private Unternehmen mussten Produktionsmaterialien auf dem Markt kaufen
+    - Konnten diese wieder an den Markt verkaufen
+- Entstehung eines dualen Preissystems
+    - Eine Seite: Preis innerhalb des noch geplanten Bereichs der Wirtschaft
+    - Aber auch marktbestimmte Preise, die dadurch entstehen, dass die Staatsbetriebe die Produkte, die sie über die Quote hinaus produziert haben, frei verkaufen können
+
+Abbildung: China erreicht sehr positive wirtschaftliche Entwicklung.
+
+Folgen des dualen Preissystems
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Entstehung eines dynamischen Bereichs, der allein auf dem Spiel des Marktes basiert
+- Kann man vergleichen mit der Situation in Osteuropa nach 1989, wo die komplette Öffnung des Marktes dazu führte, dass die Staatsstrukturen und Staatsunternehmen fast alle in kurzer Zeit bankrott gingen. Wir wissen heute, dass das immense Auswirkungen hatte, insbesondere in Bezug auf Arbeitslosigkeit, aber auch auf die Zufriedenheit mit den Veränderungen.
+- Eine solche „Schocktherapie“ ist in China vermieden worden
+- Durch das duale System: gradueller Übergang und Staatssektor wird nicht in den Ruin getrieben, sondern erhält die Möglichkeit, über 10-15 Jahre langsam anzupassen
+
+Nachteil:
+
+- Man kann als Staatsunternehmen, das mit zwei Preisstandards arbeitet, „heimlich“ oder illegal Produkte, die eigentlich im Rahmen der Planwirtschaft produziert wurden, auf dem Markt verkaufen - zu den dann höheren Preisen.
+- Also eine Verbreitung von Korruption und Vetternwirtschaft
+- Kader in den Staatsunternehmen nutzen ihren Zugang und liefern an den staatlichen Instanzen vorbei zu günstigen Bedingungen hergestellte, subventionierte Produkte an den Markt und verkaufen sie zu den jeweiligen höheren Preisen.
+- Abbildung: Antikorruptionspropagandaposter
+
+Soziale Konsequenzen der Reformen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Es entstehen neue soziale Gruppen, z.B.:
+
+- Unternehmer
+- Unternehmensgründer
+- das wars? ...
+
+Die Kommunistische Partei reagiert auf diese neuen Schichten, indem sie versucht, diese in die Partei aufzunehmen, vor allem auf lokaler Ebene: „Kooptation in die Kommunistische Partei“ der Manager- und Unternehmerschicht.
+
+Interessantes Phänomen: enge Symbiose zwischen Parteikadern und lokalen Unternehmern. Lokale Unternehmer wissen, dass sie Schutz und Unterstützung der Partei benötigen; die Partei weiß, dass sie Zugang zu den von den Unternehmen geschaffenen Steuergeldern, Reichtümern hat, aber auch, weil die Unternehmen eine wichtige soziale Rolle spielen in den Dörfern als Arbeitgeber und Investoren.
+
+Viele Beobachter und Wissenschaftler nennen dieses System „staatskorporatistisches System“, eine Symbiose von Wirtschaft und Regierung. Andere: „Staatskapitalismus“ - der Staat spielt weiter eine Rolle, z.B. durch die Partei, auf der anderen Seite wird die Entwicklung nicht mehr primär durch Planwirtschaft getrieben, sondern durch das freie Spiel der Marktkräfte. Bis heute ist im Grund feststellbar, dass die Trennung vom regulatorischen Staat und Marktsystem kaum möglich ist - diese Verbindungen sind viel zu eng zwischen Markt und Staat in China.
+
 
 Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 ergriffen, um die Wirtschaft zu reformieren?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
