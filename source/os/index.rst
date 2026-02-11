@@ -2,7 +2,9 @@ Operating Systems
 =================
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Contents
+	:maxdepth: 2
+	:caption: Contents
 
-    lecture/index
+	lecture/index
+	exam
+	assignments
