@@ -1,11 +1,11 @@
 Lecture
 =======
 
-From my OS lecture at uni.
+From my OS lecture at uni
 
 .. toctree::
 	:maxdepth: 1
-	:caption: Leture
+	:caption: Lecture
 
 	1
 	2
