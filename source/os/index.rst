@@ -7,4 +7,4 @@ Idea of these lecture notes are not to copy the slides, but to use them in addit
     :maxdepth: 1
     :caption: Lecture
 
-    lecture/1
+    lecture/index
