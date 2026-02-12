@@ -4,11 +4,38 @@ Exam
 Aufgabe 1 (Architektur, 8 Punkte)
 ---------------------------------
 
+Task
+~~~~
+
 Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.
 
 .. image:: exam2.jpeg
 
+Answer
+~~~~~~
 
+- **Process Area**
+	- **7 Management of logical resources**
+		- Verwaltung logischer Ressourcen auf Systemebene
+		- Dateisystemhierarchie oder Zugriffskontrolle für Dateien
+	- **6 Operation of logical resources**
+		- Zugriff auf virtuelle Ressourcen (auf virtuelle Version einer Ressource)
+		- z.B. Lesen/Schreiben einer Datei
+	- **5 Management of real resources**
+		- Sitzt zwischen Anfrage und Operation
+		- Entscheidet wer wann zugreifen darf
+	- **4 Operation of real resources**
+		- Steuert Hardware, schreibt, liest, interrupted, etc.
+- **Kernel Area**
+	- **3 Kernel operations**
+		- Nimmt Anfragen an Kernel an und verarbeitet sie
+		- z.B. Erstellen von Prozessen
+	- **2 Process state change operations**
+		- Ändern von Status von Prozessen
+	- **1 Data structure operations**
+		- Verwaltet und speichert z.B. Prozesse
+	- **0 Kernel memory management**
+		- Manipulieren von Speichereinträgen
 
 Aufgabe 2 (Gerätebetrieb, 4 Punkte)
 -----------------------------------
