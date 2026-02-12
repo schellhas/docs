@@ -6,7 +6,7 @@ Aufgabe 1 (Architektur, 8 Punkte)
 
 Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.
 
-.. image:: exam1.img
+.. image:: exam1.jpeg
 
 
 
@@ -34,7 +34,7 @@ Aufgabe 4 (Prozesse, 10 Punkte)
 
 For the given state diagram of a microkernel operating system name the state transitions by specifying from which state to which other state the transition is performed. Briefly describe the state transition considering the data structures and the appropriate operations.
 
-.. image:: exam2.img
+.. image:: exam2.jpeg
 
 Please use the following abbreviations to describe the states:
 
