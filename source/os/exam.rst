@@ -58,6 +58,9 @@ Answer
 Aufgabe 3 (Prozessumschaltstrategien, 12 Punkte)
 ------------------------------------------------
 
+Task
+~~~~
+
 Which of the introduced scheduling approaches would you use in the following scenarios? Give reasons for your answer based on the properties of the chosen scheduling approach.
 
 a. A fixed number of compute jobs with given service times have to be scheduled in order to get the minimum of the average response time
@@ -65,10 +68,16 @@ b. The compute power of the processor as resource of a multi-user operating syst
 c. In an operating system for batch-job execution priorities are used to sort the execution sequence of the threads. The execution should be strictly bound to the priority.
 d. Arbitrary compute jobs with known service time are created at different times. The jobs have to be executed in order to minimize the average response time and without starvation of a job.
 
+Answer
+~~~~~~
 
+.. warning:: TODO: Learn sheduling algorithms
 
 Aufgabe 4 (Prozesse, 10 Punkte)
 -------------------------------
+
+Task
+~~~~
 
 For the given state diagram of a microkernel operating system name the state transitions by specifying from which state to which other state the transition is performed. Briefly describe the state transition considering the data structures and the appropriate operations.
 
@@ -82,59 +91,122 @@ Please use the following abbreviations to describe the states:
 - D - Running
 - E - Waiting (Blocked)
 
+Answer
+~~~~~~
 
+.. warning:: TODO: Description
+
+**Hinrichtung**
+
+.. 
+	not existent		--create-->		not active
+	not active		--activate-->		ready
+	ready			--assign-->		running
+	running			--block-->		waiting (blocked)
+	waiting (blocked)	--deblock-->		ready
+
+**Rückrichtung**
+
+..
+	running			--relinquish-->		ready
+	ready			--deactivate-->		not active
+	not active		--delete-->		not existent
 
 Aufgabe 5 (Prozesswechsel, 10 Punkte)
 -------------------------------------
 
+Task
+~~~~
+
 Name at least four occasions that may lead to a process switch.
 Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.
 
+Answer
+~~~~~~
 
+.. warning:: TODO: Discuss
+
+- Preemptive scheduling
+- I/O-Warten (blockieren) Prozess gibt ab
+- Prozess wird beendet/beendet sich
+- Erhöhung der Priorität eines wartenden Threads
 
 Aufgabe 6 (Kommunikation, 10 Punkte)
 ------------------------------------
 
+Task
+~~~~
+
 How can channel objects be connected (bound) to threads? Name pro and con for every method.
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 7 (Thread-Interaktionsmechanismen, 4 Punkte)
 ----------------------------------------------------
+
+Task
+~~~~
 
 Which parts of a monitor as a mechanism for protecting a critical section of a parallel
 program must be provided by the operating system? Are there parts that cannot be
 provided by the operating system? Give reasons for you answer.
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 8 (Virtueller Speicher, 6 Punkte)
 -----------------------------------------
 
+Task
+~~~~
+
 a. In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.
 b. In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 9 (Hauptspeicherverwaltung, 10 Punkte)
 ----------------------------------------------
 
+Task
+~~~~
+
 Name and describe one strategy for thrashing prevention. The description has to cover the data necessary for the strategy, how the data is collected and the detection of the thrashing situation.
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 10 (Verklemmungen, 8 Punkte)
 ------------------------------------
+
+Task
+~~~~
 
 a. Name all of the four requirements for a deadlock!
 b. What’s the difference between deadlock prevention and deadlock avoidance?
 c. Name a strategy for deadlock prevention and give reasons which requirement named under a) will not occur!
 d. A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 11 (Gerätebetrieb, 6 Punkte)
 ------------------------------------
+
+Task
+~~~~
 
 The queue of a hard disc system contains the following requests. Use the given strategies to process the requests. Explain the plan of request processing according to the specified strategies.
 
@@ -151,25 +223,48 @@ The queue contains:
 
 The current position of the head (read/write) is 52 and the head is moving upwards.
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 12 (Dateisysteme, 9 Punkte)
 -----------------------------------
+
+Task
+~~~~
 
 A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.
 
 Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Aufgabe 13 (Leistungsmodellierung, 3 Punkte)
 --------------------------------------------
 
+Task
+~~~~
+
 What is Littles Law?
 
+Answer
+~~~~~~
 
+.. warning:: TODO
 
 Zusatzaufgabe (Betriebssystemfunktionen, 2 Zusatzpunkte)
 --------------------------------------------------------
 
+Task
+~~~~
+
 The exercises gave you the opportunity to implement an operating system providing the following properties: device management without and with interrupts, interrupt and exception handling, thread management and thread switching including a simple scheduling, separation of the kernel and introduction of a kernel interface, separated process address spaces using the MMU. What task would you go on next? Give reasons for you answer.
+
+Answer
+~~~~~~
+
+.. warning:: TODO
