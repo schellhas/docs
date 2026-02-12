@@ -40,9 +40,20 @@ Answer
 Aufgabe 2 (Gerätebetrieb, 4 Punkte)
 -----------------------------------
 
+Task
+~~~~
+
 Explain briefly the terms **Programmed I/O** and **DMA**.
 
+Answer
+~~~~~~
 
+- **Programmed I/O**
+	- Datenübertragung erfolgt direkt zwischen CPU und I/O-Gerät. CPU steuert Übertragung vollständig und prüft das Gerät aktiv. (Ständiges Polling, CPU blockiert, hohe Last.) Leicht implementiert, keine extra Hardware. CPU checkt ständig das Statusregister des I/O-Gerätes. Nicht sehr effizient.
+- **DMA (Direct Memory Access)**
+	- I/O-Geräte können direkt ohne Umweg über die CPU auf Hauptspeicher zugriefen, ohne CPU Beteiligung. CPU dadurch entlastet. Nach fertiger Operation wird ein Interrupt an CPU geschickt.
+- **Memory mapped I/O**
+	- Prozessor kontrolliert I/O-Geräte durch Arbeitsspeicher. Speicherzellen des I/O-Gerätes werden auf Hauptspeicher gemapped, damit kann die CPU diese indirekt manipulieren.
 
 Aufgabe 3 (Prozessumschaltstrategien, 12 Punkte)
 ------------------------------------------------
