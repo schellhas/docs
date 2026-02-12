@@ -193,14 +193,53 @@ Task
 ~~~~
 
 a. Name all of the four requirements for a deadlock!
-b. What’s the difference between deadlock prevention and deadlock avoidance?
+b. What's the difference between deadlock prevention and deadlock avoidance?
 c. Name a strategy for deadlock prevention and give reasons which requirement named under a) will not occur!
 d. A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.
 
 Answer
 ~~~~~~
 
-.. warning:: TODO
+a. All requirements for a deadlock
+	1. Mutual exclusion
+		- Eine Ressource kann nur von einem Prozess zur gleichen Zeit genutzt werden. Resources are used exclusively
+	2. Hold and wait
+		- Prozesse die schon Ressourcen besitzen fordern eine weitere an, während sie die die sie schon haben halten. Threads or processes hold allocation of a resource, and try to alocate another
+	3. No preemption
+		- Eine Ressource kann nur vom Prozess freigegeben werden, nicht von einem verwaltenden System. There is no preemption (resources cannot be taken away forcibly)
+	4. Circular wait
+		- Eine Kette von Prozessen existiert, bei der jeder Prozess eine Ressource hält, die vom nächsten Prozess in der Kette benötigt wird. A cycle in the wait-for graph
+b. Difference between deadlock prevention and deadlock avoidance
+	- Prevention
+		- Pre-claiming
+			- All resources needed by a thread are requested (and allocated) at starting time
+			- Hold and wait can't occur
+			- Difficult in dynamic systems
+			- Uneconomical approach as resources are occupied longer than needed
+		- Overall release at request
+			- Hold and wait can't occur
+		- Allocation by (given) order
+			- Resource allocation is performed in order only
+			- Circular wait can't occur
+			- Cycles in wait-for graph are prevented
+	- Avoidance
+		- Bankiersalgorithmus
+		- Wenn es eine Reihenfolge gibt wie alle satisfied werden können -> safe, sonst -> unsafe
+		- In case a request would lead to an unsafe situation -> postpone request
+	- Detection
+		- In case avoidance can't be performed (weil wir nicht genug über das System wissen (remaining requests unknown))
+		- Occurence has to be detected at least
+		- Bankiersalgorithmus auf CURRENT requests, können dann dort deadlock detecten
+	- Resolution/Recovery
+		- Cut cycle in wait-for graph
+		- In case we can't withdraw a resource -> kill thread -> which one?
+	- So the difference between prevention and avoidance:
+		- **Prevention:** Maßnahmen ergreifen, dass es in einem System nie zu einem Deadlock kommen kann
+		- **Avoidance:** Im momentanen Zustand des Systems Maßnahmen ergreifen, dass es nicht zu einem Deadlock kommen *wird*, auch wenn es theroetisch möglich ist (z.B. durch falsch Reihenfolge von Requests annehmen -> Bankiersalgorithmus gibt den richtigen an)
+c. Name a strategy for deadlock prevention and give reasons which requirement named under a) will not occur!
+	- **Overall release at request:** Eine Resource freigeben wenn sie angefordert wird, so wird es nicht zu einem Kreis im wait-for Graphen kommen
+d. A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.
+	- Wenn dieses Betriebsmittel nicht nur von einem Thread at a time genutzt werden kann. Deadlocks treten nur auf, wenn mehrere Threads auf eine Resource zugreifen, auf die nur ein Thread gleichzeitig zugreifen darf. Also: Wenn keine mutual exclusion für diese Resource gebraucht wird.
 
 Aufgabe 11 (Gerätebetrieb, 6 Punkte)
 ------------------------------------
