@@ -1,0 +1,101 @@
+Lecture 3 - Scheduling
+======================
+
+Standard strategies
+-------------------
+
+- **FCFS**      First Come First Served
+- **LCFS**      Last Come First Served
+- **LCFS-PR**   Last Come First Served-Preemptive Resume
+- **RR**        Round Robin
+- **PRIO-NP**   Priorities (non-preemptive)
+- **Prio-P**    Priorities (preemptive)
+- **SPN**       Shortest Process Next
+- **SRTN**      Shortest Remaining Time Next
+- **HRRN**      Highest Resposne Ratio Next
+- **FB**        Multilevel Feedback
+
+**FCFS** - First Come First Served
+------------------------------
+
+Execution of threads in the order of arrival at the ready list, occupation of processor until end of process or voluntary yield.
+
+.. image:: fcfs.jpeg
+
+**LCFS** - Last Come First Served
+-----------------------------
+
+Execution of threads in reversed order of arrival at the ready list. Occupation of processor until end or voluntary yield.
+
+.. image:: lcfs.jpeg
+
+**LCFS-PR** - Last Come First Served - Preemptive Resume
+--------------------------------------------------------
+
+Newly arriving thread at ready list preempts the currently running thread. Preempted thread is appended to ready list. In case of no further arrivals, the ready list is processed without preemption.
+
+Goal is to prefer short threads, these have a good chance to finish before another thread arrives. A long thread is likely to be preempted several times.
+
+.. imgage:: lcfs-pr.jpeg
+
+**RR** - Round Robin (time slicing)
+-----------------------------------
+
+Processing of thread in order of arrival. After some prespecified time (time slice τ) preemption takes place and we switch to the next thread.
+
+Goal is the even distribution of processor capacity and waiting time to the competing threads. Selection of τ is an optimization problem, because:
+
+- For larger τ, RR approaches FCFS
+- For small τ, the overhead of frequent switching is a performance penalty
+
+Usual are time slices in the order of some tens of milliseconds.
+
+.. image:: rr.jpeg
+
+**PRIO-NP** - Priorities - nonpreemptive
+----------------------------------------
+
+Newly arriving threads are inserted in the ready list according to their priority. Once assigned, they stay running on the processor until they finish or voluntarily relinquish the processor.
+
+.. image:: prio-np.jpeg
+
+**PRIO-P** - Priorities - preemptive
+------------------------------------
+
+Like PRIO-NP except that we check for preemption, i.e. the running thread is being preempted if it has a lower priority than the new thread.
+
+.. image:: prio-p.jpeg
+
+**SPN** - Shortest Process Next
+-------------------------------
+
+Thread with shortest service time is executed next until it finishes. Like PRIO-NP, if we consider service time as priority criterion.
+
+Favors short threads and thus leads to shorter mean response time than FCFS. Also known as Shortest Job Next (SJN).
+
+.. image:: spn.jpeg
+
+**SRTN** - Shortest Remaining Time Next
+---------------------------------------
+
+Thead with shortest remaining service time is executed next. Currently running thread may be preempted.
+
+Both strategies have disadvantage that they need a-priori knowledge of service times that may be available only as users estimates. Long threads may starve when always shorter threads are available.
+
+.. image:: srtn.jpeg
+
+**HRRN** - Highest Response Ratio Next
+--------------------------------------
+
+The response ratio *rr* is defined as:
+
+.. math::
+
+        \frac{waiting time + service time}{service time}
+
+*rr* is calculated dynamically and used as priority: The thread with the highest *rr*-value is selected. The strategy is non-preemptive.
+
+As with SPN short threads are favoured. However, long threads do not need to wait forever but score some points by waiting.
+
+.. image:: hrrn.jpeg
+
