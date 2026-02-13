@@ -20,14 +20,14 @@ Standard strategies
 
 Execution of threads in the order of arrival at the ready list, occupation of processor until end of process or voluntary yield.
 
-.. image:: fcfs.jpeg
+.. image:: fcfs.png
 
 **LCFS** - Last Come First Served
 -----------------------------
 
 Execution of threads in reversed order of arrival at the ready list. Occupation of processor until end or voluntary yield.
 
-.. image:: lcfs.jpeg
+.. image:: lcfs.png
 
 **LCFS-PR** - Last Come First Served - Preemptive Resume
 --------------------------------------------------------
@@ -36,7 +36,7 @@ Newly arriving thread at ready list preempts the currently running thread. Preem
 
 Goal is to prefer short threads, these have a good chance to finish before another thread arrives. A long thread is likely to be preempted several times.
 
-.. imgage:: lcfs-pr.jpeg
+.. imgage:: lcfs-pr.png
 
 **RR** - Round Robin (time slicing)
 -----------------------------------
@@ -50,21 +50,21 @@ Goal is the even distribution of processor capacity and waiting time to the comp
 
 Usual are time slices in the order of some tens of milliseconds.
 
-.. image:: rr.jpeg
+.. image:: rr.png
 
 **PRIO-NP** - Priorities - nonpreemptive
 ----------------------------------------
 
 Newly arriving threads are inserted in the ready list according to their priority. Once assigned, they stay running on the processor until they finish or voluntarily relinquish the processor.
 
-.. image:: prio-np.jpeg
+.. image:: prio-np.png
 
 **PRIO-P** - Priorities - preemptive
 ------------------------------------
 
 Like PRIO-NP except that we check for preemption, i.e. the running thread is being preempted if it has a lower priority than the new thread.
 
-.. image:: prio-p.jpeg
+.. image:: prio-p.png
 
 **SPN** - Shortest Process Next
 -------------------------------
@@ -73,7 +73,7 @@ Thread with shortest service time is executed next until it finishes. Like PRIO-
 
 Favors short threads and thus leads to shorter mean response time than FCFS. Also known as Shortest Job Next (SJN).
 
-.. image:: spn.jpeg
+.. image:: spn.png
 
 **SRTN** - Shortest Remaining Time Next
 ---------------------------------------
@@ -82,7 +82,7 @@ Thead with shortest remaining service time is executed next. Currently running t
 
 Both strategies have disadvantage that they need a-priori knowledge of service times that may be available only as users estimates. Long threads may starve when always shorter threads are available.
 
-.. image:: srtn.jpeg
+.. image:: srtn.png
 
 **HRRN** - Highest Response Ratio Next
 --------------------------------------
@@ -97,14 +97,16 @@ The response ratio *rr* is defined as:
 
 As with SPN short threads are favoured. However, long threads do not need to wait forever but score some points by waiting.
 
-.. image:: hrrn.jpeg
+.. image:: hrrn.png
 
 **FB** - (Multilevel) Feedback
 ------------------------------
 
 If we do not know the service time a priori, but want to favor short threads we can reduce its "priority" stepwise at each CPU-usage. The individual waiting queues can be managed according to "round robin". Different  values of time slices τ for the individual queues are possible.
 
-.. image:: fb.jpeg
+.. image:: fb1.png
+
+.. image:: fb2.png
 
 Standard strategies (summary)
 -----------------------------
