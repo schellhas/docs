@@ -91,7 +91,7 @@ The response ratio *rr* is defined as:
 
 .. math::
 
-        \frac{\text{waiting time + service time}}{\text{service time}}
+	\frac{\text{waiting time + service time}}{\text{service time}}
 
 *rr* is calculated dynamically and used as priority: The thread with the highest *rr*-value is selected. The strategy is non-preemptive.
 
@@ -99,3 +99,42 @@ As with SPN short threads are favoured. However, long threads do not need to wai
 
 .. image:: hrrn.jpeg
 
+**FB** - (Multilevel) Feedback
+------------------------------
+
+If we do not know the service time a priori, but want to favor short threads we can reduce its "priority" stepwise at each CPU-usage. The individual waiting queues can be managed according to "round robin". Different  values of time slices τ for the individual queues are possible.
+
+.. image:: fb.jpeg
+
+Standard strategies (summary)
+-----------------------------
+
+.. raw:: html
+
+	<table border="1">
+		<tr>
+			<th rowspan="2"></th>
+			<th colspan="2">without preemption</th>
+			<th colspan="2">with preemption</th>
+		</tr>
+		<tr>
+			<th>without priorities</th>
+			<th>with priorities</th>
+			<th>without priorities</th>
+			<th>with priorities</th>
+		</tr>
+		<tr>
+			<td>Service time independent</td>
+			<td><b>FCFS, LCFS</b></td>
+			<td><b>PRIO-NP</b></td>
+			<td><b>LCFS-PR, RR, FB</b></td>
+			<td><b>PRIO-P</b></td>
+		</tr>
+		<tr>
+			<td>Service time dependent</td>
+			<td><b>SPN, HRRN</b></td>
+			<td></td>
+			<td><b>SRTN</b></td>
+			<td></td>
+		</tr>
+	</table>
