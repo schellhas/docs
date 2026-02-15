@@ -7,12 +7,12 @@ This directory contains docs about AArch64 assembly.
 	:header-rows: 1
 
 	* - Architecture
-	  - Execution state
-	  - Assembler
-	  - Syntax
-	* - ARMv8-A
+	  - ARMv8-A
+	* - Execution state
 	  - AArch64
+	* - Assembler
 	  - GNU Assembler (GAS)
+	* - Syntax
 	  - AArch64 GAS syntax
 
 Useful links:
