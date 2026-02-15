@@ -7,10 +7,10 @@ This directory contains docs about x86-64 assembly.
 	:header-rows: 1
 
 	* - Architecture
-	  - x86-64 (AMD64)
-	* - Assembler
+	  - Assembler
+	  - Syntax
+	* - x86-64 (AMD64)
 	  - GNU Assembler (GAS)
-	* - Syntax
 	  - AT&T Syntax
 
 Useful links:
