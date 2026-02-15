@@ -7,7 +7,7 @@ Aufgabe 1 (Architektur, 8 Punkte)
 Task
 ~~~~
 
-Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.
+Nennen Sie für das Mikrokern-Betriebssystem die vier Dienste-Schichten und die vier Schichten des Kernbereiches (Infrastrukturbereich). Geben Sie für jede der Schichten mindestens einen Dienst an, den diese für die darüber liegende Schicht bereitstellt.
 
 .. image:: exam2.jpeg
 
@@ -61,12 +61,12 @@ Aufgabe 3 (Prozessumschaltstrategien, 12 Punkte)
 Task
 ~~~~
 
-Which of the introduced scheduling approaches would you use in the following scenarios? Give reasons for your answer based on the properties of the chosen scheduling approach.
+Welche der Umschaltstrategien (Scheduling-Verfahren), die in der Vorlesung vorgestellt wurden, sind den nachfolgenden Aufgabenstellungen (Szenarien) sinnvoll zuzuordnen? Begründen Sie Ihre Entscheidung auf Grund der Eigenschaften der jeweiligen Umschaltstrategien.
 
-a. A fixed number of compute jobs with given service times have to be scheduled in order to get the minimum of the average response time
-b. The compute power of the processor as resource of a multi-user operating system should be distributed fairly between all of the threads. A fair distribution is reached when the response time of a thread is proportional to the service time of the thread
-c. In an operating system for batch-job execution priorities are used to sort the execution sequence of the threads. The execution should be strictly bound to the priority.
-d. Arbitrary compute jobs with known service time are created at different times. The jobs have to be executed in order to minimize the average response time and without starvation of a job.
+a. Eine feste Anzahl von Rechenaufträgen, deren Bedienzeiten bekannt sind, sollen so bearbeitet werden, dass die mittlere Antwortzeit minimal ist.
+b. Die CPU soll fair unter den Prozessen in einem Mehrbenutzer-Betriebssystem aufgeteilt werden, wobei fair hier bedeutet, dass sich die Antwortzeit proportional zur Bedienzeit verhält.
+c. Den Prozessen in einem Betriebssystem für Stapelverarbeitung (Batch-Betrieb) werden Prioritäten der Bearbeitung zugewiesen. Die Abarbeitung der Prozesse soll immer streng nach der zugewiesenen Priorität erfolgen.
+d. Beliebige Rechenaufträge, deren Bedienzeiten aber bekannt sind, werden zu unterschiedlichen Zeitpunkten im System erzeugt. Sie sollen so abgearbeitet werden, dass die mittlere Antwortzeit möglichst minimal wird und es zu keinem Verhungern eines Prozesses kommt.
 
 Answer
 ~~~~~~
@@ -79,11 +79,11 @@ Aufgabe 4 (Prozesse, 10 Punkte)
 Task
 ~~~~
 
-For the given state diagram of a microkernel operating system name the state transitions by specifying from which state to which other state the transition is performed. Briefly describe the state transition considering the data structures and the appropriate operations.
+Benennen Sie für das gegebene Prozesszustandsdiagramm eines Mikrokern-Betriebssystems die Zustandsübergänge indem Sie angeben von welchem Zustand in welchen anderen übergegangen wird. Beschreiben Sie die Übergänge kurz und gehen Sie hierbei auf die Datenstrukturen und die Datenstrukturoperationen ein, die sinnvoll eingesetzt werden können.
 
 .. image:: exam1.jpeg
 
-Please use the following abbreviations to describe the states:
+Nutzen Sie zur Beschreibung gern folgende Abkürzungen für die Beschreibung der Zustände:
 
 - A - Not existent
 - B - Not active
@@ -118,8 +118,8 @@ Aufgabe 5 (Prozesswechsel, 10 Punkte)
 Task
 ~~~~
 
-Name at least four occasions that may lead to a process switch.
-Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.
+Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.
+Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
 Answer
 ~~~~~~
@@ -137,7 +137,7 @@ Aufgabe 6 (Kommunikation, 10 Punkte)
 Task
 ~~~~
 
-How can channel objects be connected (bound) to threads? Name pro and con for every method.
+Wie können Kanal-Objekte den kommunizierenden Threads zugeordnet (an sie gebunden) werden? Nennen Sie für jede Variante einen Vor- und einen Nachteil.
 
 Answer
 ~~~~~~
@@ -150,9 +150,9 @@ Aufgabe 7 (Thread-Interaktionsmechanismen, 4 Punkte)
 Task
 ~~~~
 
-Which parts of a monitor as a mechanism for protecting a critical section of a parallel
-program must be provided by the operating system? Are there parts that cannot be
-provided by the operating system? Give reasons for you answer.
+Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnitts eines parallelen Programms müssen vom Betriebssystem bereitgestellt werden? Gibt es auch Teile, die nicht vom Betriebssystem bereitgestellt werden können? Begründen Sie Ihre Antwort.
+
+Which parts of a monitor as a mechanism for protecting a critical section of a parallel program must be provided by the operating system? Are there parts that cannot be provided by the operating system? Give reasons for you answer.
 
 Answer
 ~~~~~~
@@ -165,8 +165,12 @@ Aufgabe 8 (Virtueller Speicher, 6 Punkte)
 Task
 ~~~~
 
-a. In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.
-b. In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?
+a. In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
+
+In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.
+b. Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virtuellen Adressen. Welche Vorteile hat es, Seitentabellen statt an physikalischen Adressen im Hauptspeicher an virtuellen Adressen zu verwalten?
+
+In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?
 
 Answer
 ~~~~~~
@@ -178,6 +182,8 @@ Aufgabe 9 (Hauptspeicherverwaltung, 10 Punkte)
 
 Task
 ~~~~
+
+Nennen und erläutern Sie eine Strategie zur Verhinderung des Thrashing-Effekts. Gehen Sie insbesondere auf die notwendigen Daten, deren Erfassung und die Bestimmung des Momentes, in dem der Effekt auftritt, ein.
 
 Name and describe one strategy for thrashing prevention. The description has to cover the data necessary for the strategy, how the data is collected and the detection of the thrashing situation.
 
