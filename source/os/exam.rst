@@ -70,12 +70,16 @@ Welche der Umschaltstrategien (Scheduling-Verfahren), die in der Vorlesung vorge
 *Which of the introduced scheduling approaches would you use in the following scenarios? Give reasons for your answer based on the properties of the chosen scheduling approach.*
 
 a.	Eine feste Anzahl von Rechenaufträgen, deren Bedienzeiten bekannt sind, sollen so bearbeitet werden, dass die mittlere Antwortzeit minimal ist.
+
 	*A fixed number of compute jobs with given service times have to be scheduled in order to get the minimum of the average response time.*
 b.	Die CPU soll fair unter den Prozessen in einem Mehrbenutzer-Betriebssystem aufgeteilt werden, wobei fair hier bedeutet, dass sich die Antwortzeit proportional zur Bedienzeit verhält.
+
 	*The compute power of the processor as resource of a multi-user operating system should be distributed fairly between all of the threads. A fair distribution is reached when the response time of a thread is proportional to the service time of the thread.*
 c.	Den Prozessen in einem Betriebssystem für Stapelverarbeitung (Batch-Betrieb) werden Prioritäten der Bearbeitung zugewiesen. Die Abarbeitung der Prozesse soll immer streng nach der zugewiesenen Priorität erfolgen.
+
 	*In an operating system for batch-job execution priorities are used to sort the execution sequence of the threads. The execution should be strictly bound to the priority.*
 d.	Beliebige Rechenaufträge, deren Bedienzeiten aber bekannt sind, werden zu unterschiedlichen Zeitpunkten im System erzeugt. Sie sollen so abgearbeitet werden, dass die mittlere Antwortzeit möglichst minimal wird und es zu keinem Verhungern eines Prozesses kommt.
+
 	*Arbitrary compute jobs with known service time are created at different times. The jobs have to be executed in order to minimize the average response time and without starvation of a job.*
 
 Answer
@@ -132,10 +136,10 @@ Aufgabe 5 (Prozesswechsel, 10 Punkte)
 Task
 ~~~~
 
-Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.
+Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann. \
 Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
-*Name at least four occasions that may lead to a process switch.
+*Name at least four occasions that may lead to a process switch. \
 Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
 
 Answer
