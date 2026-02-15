@@ -1,58 +1,6 @@
 Exam
 ====
 
-Aufgabe 1 (Architektur, 8 Punkte)
----------------------------------
-
-Nennen Sie für das Mikrokern-Betriebssystem die vier Dienste-Schichten und die vier Schichten des Kernbereiches (Infrastrukturbereich). Geben Sie für jede der Schichten mindestens einen Dienst an, den diese für die darüber liegende Schicht bereitstellt.
-
-*Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.*
-
-.. image:: exam2.jpeg
-
-Answer
-~~~~~~
-
-- **Process Area**
-	- **7 Management of logical resources**
-		- Verwaltung logischer Ressourcen auf Systemebene
-		- Dateisystemhierarchie oder Zugriffskontrolle für Dateien
-	- **6 Operation of logical resources**
-		- Zugriff auf virtuelle Ressourcen (auf virtuelle Version einer Ressource)
-		- z.B. Lesen/Schreiben einer Datei
-	- **5 Management of real resources**
-		- Sitzt zwischen Anfrage und Operation
-		- Entscheidet wer wann zugreifen darf
-	- **4 Operation of real resources**
-		- Steuert Hardware, schreibt, liest, interrupted, etc.
-- **Kernel Area**
-	- **3 Kernel operations**
-		- Nimmt Anfragen an Kernel an und verarbeitet sie
-		- z.B. Erstellen von Prozessen
-	- **2 Process state change operations**
-		- Ändern von Status von Prozessen
-	- **1 Data structure operations**
-		- Verwaltet und speichert z.B. Prozesse
-	- **0 Kernel memory management**
-		- Manipulieren von Speichereinträgen
-
-Aufgabe 2 (Gerätebetrieb, 4 Punkte)
------------------------------------
-
-Erläutern Sie kurz die Begriffe **Programmed I/O** und **DMA**.
-
-*Explain briefly the terms* **Programmed I/O** *and* **DMA**.
-
-Answer
-~~~~~~
-
-- **Programmed I/O**
-	- Datenübertragung erfolgt direkt zwischen CPU und I/O-Gerät. CPU steuert Übertragung vollständig und prüft das Gerät aktiv. (Ständiges Polling, CPU blockiert, hohe Last.) Leicht implementiert, keine extra Hardware. CPU checkt ständig das Statusregister des I/O-Gerätes. Nicht sehr effizient.
-- **DMA (Direct Memory Access)**
-	- I/O-Geräte können direkt ohne Umweg über die CPU auf Hauptspeicher zugriefen, ohne CPU Beteiligung. CPU dadurch entlastet. Nach fertiger Operation wird ein Interrupt an CPU geschickt.
-- **Memory mapped I/O**
-	- Prozessor kontrolliert I/O-Geräte durch Arbeitsspeicher. Speicherzellen des I/O-Gerätes werden auf Hauptspeicher gemapped, damit kann die CPU diese indirekt manipulieren.
-
 Aufgabe 3 (Prozessumschaltstrategien, 12 Punkte)
 ------------------------------------------------
 
@@ -77,6 +25,7 @@ Answer
 ~~~~~~
 
 .. warning:: TODO: Learn sheduling algorithms
+
 
 Aufgabe 4 (Prozesse, 10 Punkte)
 -------------------------------
@@ -151,33 +100,6 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 7 (Thread-Interaktionsmechanismen, 4 Punkte)
-----------------------------------------------------
-
-Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnitts eines parallelen Programms müssen vom Betriebssystem bereitgestellt werden? Gibt es auch Teile, die nicht vom Betriebssystem bereitgestellt werden können? Begründen Sie Ihre Antwort.
-
-*Which parts of a monitor as a mechanism for protecting a critical section of a parallel program must be provided by the operating system? Are there parts that cannot be provided by the operating system? Give reasons for you answer.*
-
-Answer
-~~~~~~
-
-.. warning:: TODO
-
-Aufgabe 8 (Virtueller Speicher, 6 Punkte)
------------------------------------------
-
-a.	In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
-	
-	*In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.*
-b.	Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virtuellen Adressen. Welche Vorteile hat es, Seitentabellen statt an physikalischen Adressen im Hauptspeicher an virtuellen Adressen zu verwalten?
-	
-	*In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?*
-
-Answer
-~~~~~~
-
-.. warning:: TODO
-
 Aufgabe 9 (Hauptspeicherverwaltung, 10 Punkte)
 ----------------------------------------------
 
@@ -189,6 +111,55 @@ Answer
 ~~~~~~
 
 .. warning:: TODO
+
+Aufgabe 12 (Dateisysteme, 9 Punkte)
+-----------------------------------
+
+Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.<br>
+Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
+
+*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.*<br>
+*Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
+
+Answer
+~~~~~~
+
+.. warning:: TODO
+
+Aufgabe 1 (Architektur, 8 Punkte)
+---------------------------------
+
+Nennen Sie für das Mikrokern-Betriebssystem die vier Dienste-Schichten und die vier Schichten des Kernbereiches (Infrastrukturbereich). Geben Sie für jede der Schichten mindestens einen Dienst an, den diese für die darüber liegende Schicht bereitstellt.
+
+*Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.*
+
+.. image:: exam2.jpeg
+
+Answer
+~~~~~~
+
+- **Process Area**
+	- **7 Management of logical resources**
+		- Verwaltung logischer Ressourcen auf Systemebene
+		- Dateisystemhierarchie oder Zugriffskontrolle für Dateien
+	- **6 Operation of logical resources**
+		- Zugriff auf virtuelle Ressourcen (auf virtuelle Version einer Ressource)
+		- z.B. Lesen/Schreiben einer Datei
+	- **5 Management of real resources**
+		- Sitzt zwischen Anfrage und Operation
+		- Entscheidet wer wann zugreifen darf
+	- **4 Operation of real resources**
+		- Steuert Hardware, schreibt, liest, interrupted, etc.
+- **Kernel Area**
+	- **3 Kernel operations**
+		- Nimmt Anfragen an Kernel an und verarbeitet sie
+		- z.B. Erstellen von Prozessen
+	- **2 Process state change operations**
+		- Ändern von Status von Prozessen
+	- **1 Data structure operations**
+		- Verwaltet und speichert z.B. Prozesse
+	- **0 Kernel memory management**
+		- Manipulieren von Speichereinträgen
 
 Aufgabe 10 (Verklemmungen, 8 Punkte)
 ------------------------------------
@@ -250,6 +221,21 @@ c. Name a strategy for deadlock prevention and give reasons which requirement na
 d. A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.
 	- Wenn dieses Betriebsmittel nicht nur von einem Thread at a time genutzt werden kann. Deadlocks treten nur auf, wenn mehrere Threads auf eine Resource zugreifen, auf die nur ein Thread gleichzeitig zugreifen darf. Also: Wenn keine mutual exclusion für diese Resource gebraucht wird.
 
+Aufgabe 8 (Virtueller Speicher, 6 Punkte)
+-----------------------------------------
+
+a.	In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
+	
+	*In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.*
+b.	Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virtuellen Adressen. Welche Vorteile hat es, Seitentabellen statt an physikalischen Adressen im Hauptspeicher an virtuellen Adressen zu verwalten?
+	
+	*In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?*
+
+Answer
+~~~~~~
+
+.. warning:: TODO
+
 Aufgabe 11 (Gerätebetrieb, 6 Punkte)
 ------------------------------------
 
@@ -281,14 +267,29 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 12 (Dateisysteme, 9 Punkte)
+Aufgabe 2 (Gerätebetrieb, 4 Punkte)
 -----------------------------------
 
-Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.<br>
-Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
+Erläutern Sie kurz die Begriffe **Programmed I/O** und **DMA**.
 
-*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.*<br>
-*Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
+*Explain briefly the terms* **Programmed I/O** *and* **DMA**.
+
+Answer
+~~~~~~
+
+- **Programmed I/O**
+	- Datenübertragung erfolgt direkt zwischen CPU und I/O-Gerät. CPU steuert Übertragung vollständig und prüft das Gerät aktiv. (Ständiges Polling, CPU blockiert, hohe Last.) Leicht implementiert, keine extra Hardware. CPU checkt ständig das Statusregister des I/O-Gerätes. Nicht sehr effizient.
+- **DMA (Direct Memory Access)**
+	- I/O-Geräte können direkt ohne Umweg über die CPU auf Hauptspeicher zugriefen, ohne CPU Beteiligung. CPU dadurch entlastet. Nach fertiger Operation wird ein Interrupt an CPU geschickt.
+- **Memory mapped I/O**
+	- Prozessor kontrolliert I/O-Geräte durch Arbeitsspeicher. Speicherzellen des I/O-Gerätes werden auf Hauptspeicher gemapped, damit kann die CPU diese indirekt manipulieren.
+
+Aufgabe 7 (Thread-Interaktionsmechanismen, 4 Punkte)
+----------------------------------------------------
+
+Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnitts eines parallelen Programms müssen vom Betriebssystem bereitgestellt werden? Gibt es auch Teile, die nicht vom Betriebssystem bereitgestellt werden können? Begründen Sie Ihre Antwort.
+
+*Which parts of a monitor as a mechanism for protecting a critical section of a parallel program must be provided by the operating system? Are there parts that cannot be provided by the operating system? Give reasons for you answer.*
 
 Answer
 ~~~~~~
