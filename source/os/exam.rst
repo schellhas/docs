@@ -9,6 +9,8 @@ Task
 
 Nennen Sie für das Mikrokern-Betriebssystem die vier Dienste-Schichten und die vier Schichten des Kernbereiches (Infrastrukturbereich). Geben Sie für jede der Schichten mindestens einen Dienst an, den diese für die darüber liegende Schicht bereitstellt.
 
+*Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.*
+
 .. image:: exam2.jpeg
 
 Answer
@@ -43,7 +45,9 @@ Aufgabe 2 (Gerätebetrieb, 4 Punkte)
 Task
 ~~~~
 
-Explain briefly the terms **Programmed I/O** and **DMA**.
+Erläutern Sie kurz die Begriffe **Programmed I/O** und **DMA**.
+
+*Explain briefly the terms **Programmed I/O** and **DMA**.*
 
 Answer
 ~~~~~~
@@ -63,10 +67,16 @@ Task
 
 Welche der Umschaltstrategien (Scheduling-Verfahren), die in der Vorlesung vorgestellt wurden, sind den nachfolgenden Aufgabenstellungen (Szenarien) sinnvoll zuzuordnen? Begründen Sie Ihre Entscheidung auf Grund der Eigenschaften der jeweiligen Umschaltstrategien.
 
-a. Eine feste Anzahl von Rechenaufträgen, deren Bedienzeiten bekannt sind, sollen so bearbeitet werden, dass die mittlere Antwortzeit minimal ist.
-b. Die CPU soll fair unter den Prozessen in einem Mehrbenutzer-Betriebssystem aufgeteilt werden, wobei fair hier bedeutet, dass sich die Antwortzeit proportional zur Bedienzeit verhält.
-c. Den Prozessen in einem Betriebssystem für Stapelverarbeitung (Batch-Betrieb) werden Prioritäten der Bearbeitung zugewiesen. Die Abarbeitung der Prozesse soll immer streng nach der zugewiesenen Priorität erfolgen.
-d. Beliebige Rechenaufträge, deren Bedienzeiten aber bekannt sind, werden zu unterschiedlichen Zeitpunkten im System erzeugt. Sie sollen so abgearbeitet werden, dass die mittlere Antwortzeit möglichst minimal wird und es zu keinem Verhungern eines Prozesses kommt.
+*Which of the introduced scheduling approaches would you use in the following scenarios? Give reasons for your answer based on the properties of the chosen scheduling approach.*
+
+a.	Eine feste Anzahl von Rechenaufträgen, deren Bedienzeiten bekannt sind, sollen so bearbeitet werden, dass die mittlere Antwortzeit minimal ist.
+	*A fixed number of compute jobs with given service times have to be scheduled in order to get the minimum of the average response time.*
+b.	Die CPU soll fair unter den Prozessen in einem Mehrbenutzer-Betriebssystem aufgeteilt werden, wobei fair hier bedeutet, dass sich die Antwortzeit proportional zur Bedienzeit verhält.
+	*The compute power of the processor as resource of a multi-user operating system should be distributed fairly between all of the threads. A fair distribution is reached when the response time of a thread is proportional to the service time of the thread.*
+c.	Den Prozessen in einem Betriebssystem für Stapelverarbeitung (Batch-Betrieb) werden Prioritäten der Bearbeitung zugewiesen. Die Abarbeitung der Prozesse soll immer streng nach der zugewiesenen Priorität erfolgen.
+	*In an operating system for batch-job execution priorities are used to sort the execution sequence of the threads. The execution should be strictly bound to the priority.*
+d.	Beliebige Rechenaufträge, deren Bedienzeiten aber bekannt sind, werden zu unterschiedlichen Zeitpunkten im System erzeugt. Sie sollen so abgearbeitet werden, dass die mittlere Antwortzeit möglichst minimal wird und es zu keinem Verhungern eines Prozesses kommt.
+	*Arbitrary compute jobs with known service time are created at different times. The jobs have to be executed in order to minimize the average response time and without starvation of a job.*
 
 Answer
 ~~~~~~
@@ -81,15 +91,19 @@ Task
 
 Benennen Sie für das gegebene Prozesszustandsdiagramm eines Mikrokern-Betriebssystems die Zustandsübergänge indem Sie angeben von welchem Zustand in welchen anderen übergegangen wird. Beschreiben Sie die Übergänge kurz und gehen Sie hierbei auf die Datenstrukturen und die Datenstrukturoperationen ein, die sinnvoll eingesetzt werden können.
 
+*For the given state diagram of a microkernel operating system name the state transitions by specifying from which state to which other state the transition is performed. Briefly describe the state transition considering the data structures and the appropriate operations.*
+
 .. image:: exam1.jpeg
 
 Nutzen Sie zur Beschreibung gern folgende Abkürzungen für die Beschreibung der Zustände:
 
-- A - Not existent
-- B - Not active
-- C - Ready
-- D - Running
-- E - Waiting (Blocked)
+*Please use the following abbreviations to describe the states:*
+
+- A - Nicht existent/*Not existent*
+- B - Nicht aktiv/*Not active*
+- C - Bereit/*Ready*
+- D - Rechnend/*Running*
+- E - Wartend/*Waiting (Blocked)*
 
 Answer
 ~~~~~~
@@ -121,6 +135,9 @@ Task
 Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.
 Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
+*Name at least four occasions that may lead to a process switch.
+Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
+
 Answer
 ~~~~~~
 
@@ -139,6 +156,8 @@ Task
 
 Wie können Kanal-Objekte den kommunizierenden Threads zugeordnet (an sie gebunden) werden? Nennen Sie für jede Variante einen Vor- und einen Nachteil.
 
+*How can channel objects be connected (bound) to threads? Name pro and con for every method.*
+
 Answer
 ~~~~~~
 
@@ -152,7 +171,7 @@ Task
 
 Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnitts eines parallelen Programms müssen vom Betriebssystem bereitgestellt werden? Gibt es auch Teile, die nicht vom Betriebssystem bereitgestellt werden können? Begründen Sie Ihre Antwort.
 
-Which parts of a monitor as a mechanism for protecting a critical section of a parallel program must be provided by the operating system? Are there parts that cannot be provided by the operating system? Give reasons for you answer.
+*Which parts of a monitor as a mechanism for protecting a critical section of a parallel program must be provided by the operating system? Are there parts that cannot be provided by the operating system? Give reasons for you answer.*
 
 Answer
 ~~~~~~
@@ -165,12 +184,10 @@ Aufgabe 8 (Virtueller Speicher, 6 Punkte)
 Task
 ~~~~
 
-a. In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
-
-In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.
-b. Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virtuellen Adressen. Welche Vorteile hat es, Seitentabellen statt an physikalischen Adressen im Hauptspeicher an virtuellen Adressen zu verwalten?
-
-In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?
+a.	In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
+	*In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.*
+b.	Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virtuellen Adressen. Welche Vorteile hat es, Seitentabellen statt an physikalischen Adressen im Hauptspeicher an virtuellen Adressen zu verwalten?
+	*In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?*
 
 Answer
 ~~~~~~
@@ -185,7 +202,7 @@ Task
 
 Nennen und erläutern Sie eine Strategie zur Verhinderung des Thrashing-Effekts. Gehen Sie insbesondere auf die notwendigen Daten, deren Erfassung und die Bestimmung des Momentes, in dem der Effekt auftritt, ein.
 
-Name and describe one strategy for thrashing prevention. The description has to cover the data necessary for the strategy, how the data is collected and the detection of the thrashing situation.
+*Name and describe one strategy for thrashing prevention. The description has to cover the data necessary for the strategy, how the data is collected and the detection of the thrashing situation.*
 
 Answer
 ~~~~~~
@@ -198,10 +215,14 @@ Aufgabe 10 (Verklemmungen, 8 Punkte)
 Task
 ~~~~
 
-a. Name all of the four requirements for a deadlock!
-b. What's the difference between deadlock prevention and deadlock avoidance?
-c. Name a strategy for deadlock prevention and give reasons which requirement named under a) will not occur!
-d. A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.
+a.	Nennen Sie die vier Bedingungen für eine Verklemmung!
+	*Name all of the four requirements for a deadlock!*
+b.	Was ist der Unterschied zwischen der Vorbeugung (prevention) und Vermeidung (avoidance) von Verklemmungen?
+	*What's the difference between deadlock prevention and deadlock avoidance?*
+c.	Nennen Sie eine Strategie zur Vorbeugung von Verklemmungen und begründen Sie welche der unter a) genannten vier Bedingungen für eine Verklemmung dadurch nicht eintreten kann!
+	*Name a strategy for deadlock prevention and give reasons which requirement named under a) will not occur!*
+d.	Wenn wir Speicherstelle im physikalischen Adressraum als Betriebsmittel auffassen, unter welchen Umständen kann dieses Betriebsmittel bei Verklemmungen unberücksichtigt bleiben? Begründen Sie Ihre Antwort!
+	*A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.*
 
 Answer
 ~~~~~~
@@ -253,20 +274,27 @@ Aufgabe 11 (Gerätebetrieb, 6 Punkte)
 Task
 ~~~~
 
-The queue of a hard disc system contains the following requests. Use the given strategies to process the requests. Explain the plan of request processing according to the specified strategies.
+Die Warteschlange eines Festplattenspeichergeräts enthält die unten aufgeführten Aufträge. Wenden Sie auf diese Auftragssituation die folgenden Festplattenstrategien an. Stellen Sie den Plan dar, nach dem die Aufträge auf Grund der speziellen Festplattenstrategie abgearbeitet werden.
 
-The strategies are:
+*The queue of a hard disc system contains the following requests. Use the given strategies to process the requests. Explain the plan of request processing according to the specified strategies.*
+
+Die Festplattenstrategien sind:
+*The strategies are:*
 
 a. FCFS (First-Come-First-Served),
 b. SSTF (Shortest-Seek-Time-First),
-c. SCAN (Fahrstuhlstrategie/Elevator strategy),
-d. SCAN-C (Zyklische Fahrstuhlstrategie/Cyclic Elevator strategy).
+c. SCAN (Fahrstuhlstrategie/*Elevator strategy*),
+d. SCAN-C (Zyklische Fahrstuhlstrategie/*Cyclic Elevator strategy*).
 
-The queue contains:
+Die Auftragswarteschlange enthält:
+
+*The queue contains:*
 
 61, 23, 45, 10, 97, 53, 22, 49, 83, 24
 
-The current position of the head (read/write) is 52 and the head is moving upwards.
+Die aktuelle Position des Schreib-/Lesekopfes ist 52 und der Schreib-/Lesekopf bewegt sich aufwärts.
+
+*The current position of the head (read/write) is 52 and the head is moving upwards.*
 
 Answer
 ~~~~~~
@@ -279,9 +307,13 @@ Aufgabe 12 (Dateisysteme, 9 Punkte)
 Task
 ~~~~
 
-A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.
+Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.
 
-Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.
+Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
+
+*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.
+
+Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
 
 Answer
 ~~~~~~
@@ -294,7 +326,9 @@ Aufgabe 13 (Leistungsmodellierung, 3 Punkte)
 Task
 ~~~~
 
-What is Littles Law?
+Was sagt das Littlesche Gesetz aus?
+
+*What is Littles Law?*
 
 Answer
 ~~~~~~
@@ -307,7 +341,9 @@ Zusatzaufgabe (Betriebssystemfunktionen, 2 Zusatzpunkte)
 Task
 ~~~~
 
-The exercises gave you the opportunity to implement an operating system providing the following properties: device management without and with interrupts, interrupt and exception handling, thread management and thread switching including a simple scheduling, separation of the kernel and introduction of a kernel interface, separated process address spaces using the MMU. What task would you go on next? Give reasons for you answer.
+Im Rahmen der Übungsaufgaben haben Sie ein Betriebssystem entwickelt, welches folgende Eigenschaften aufweist: Gerätesteuerung direkt und über Interrupts, Interrupt- und Ausnahmenbehandlung, Prozessverwaltung und Prozesswechsel einschließlich einfachem Scheduling, Separierung des Kerns und Einführung einer Kernschnittstelle, Speicherschutz auch zwischen den Prozessen mittels MMU. Welche Aufgabe würden Sie als nächstes angehen? Begründen Sie Ihre Antwort.
+
+*The exercises gave you the opportunity to implement an operating system providing the following properties: device management without and with interrupts, interrupt and exception handling, thread management and thread switching including a simple scheduling, separation of the kernel and introduction of a kernel interface, separated process address spaces using the MMU. What task would you go on next? Give reasons for you answer.*
 
 Answer
 ~~~~~~
