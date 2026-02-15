@@ -17,6 +17,6 @@ This directory contains docs about AArch64 assembly.
 
 Useful links:
 
-https://en.wikipedia.org/wiki/AArch64
-https://developer.arm.com/documentation/ddi0487/latest
-https://developer.arm.com/documentation/102374/latest/
+- https://en.wikipedia.org/wiki/AArch64
+- https://developer.arm.com/documentation/ddi0487/latest
+- https://developer.arm.com/documentation/102374/latest/
