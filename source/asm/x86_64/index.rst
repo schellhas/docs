@@ -1,5 +1,5 @@
-x86 Assembly
-============
+x86-64 Assembly
+===============
 
 This directory contains docs about x86-64 assembly.
 

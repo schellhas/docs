@@ -6,4 +6,4 @@ Assembly
 	:caption: Contents
 
     aarch64/index
-	x86-64/index
+	x86_64/index
