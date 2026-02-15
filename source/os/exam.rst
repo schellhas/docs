@@ -98,7 +98,7 @@ Answer
 
 **Hinrichtung**
 
-.. 
+::
 	not existent		--create-->		not active
 	not active		--activate-->		ready
 	ready			--assign-->		running
@@ -107,7 +107,7 @@ Answer
 
 **Rückrichtung**
 
-..
+::
 	running			--relinquish-->		ready
 	ready			--deactivate-->		not active
 	not active		--delete-->		not existent
