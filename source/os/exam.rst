@@ -141,8 +141,8 @@ Task
 Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann. \
 Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
-*Name at least four occasions that may lead to a process switch. \
-Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
+*Name at least four occasions that may lead to a process switch.* \
+*Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
 
 Answer
 ~~~~~~
