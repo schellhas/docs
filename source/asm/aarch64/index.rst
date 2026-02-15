@@ -1,7 +1,7 @@
 AArch64 Assembly
 ================
 
-This directory contains docs about about AArch64 assembly.
+This directory contains docs about AArch64 assembly.
 
 .. list-table::
 	* - Architecture
