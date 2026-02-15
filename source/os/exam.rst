@@ -138,10 +138,10 @@ Aufgabe 5 (Prozesswechsel, 10 Punkte)
 Task
 ~~~~
 
-Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann. \
+Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.<br>
 Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
-*Name at least four occasions that may lead to a process switch.* \
+*Name at least four occasions that may lead to a process switch.*<br>
 *Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
 
 Answer
@@ -320,11 +320,11 @@ Aufgabe 12 (Dateisysteme, 9 Punkte)
 Task
 ~~~~
 
-Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen. \
+Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.<br>
 Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
 
-*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed. \
-Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
+*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.*<br>
+*Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
 
 Answer
 ~~~~~~
