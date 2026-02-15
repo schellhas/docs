@@ -189,8 +189,10 @@ Task
 ~~~~
 
 a.	In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
+	
 	*In classic variants of virtual memory management, a distinction is made between segments and pages. When does this distinction make sense? Give reasons for you answer.*
 b.	Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virtuellen Adressen. Welche Vorteile hat es, Seitentabellen statt an physikalischen Adressen im Hauptspeicher an virtuellen Adressen zu verwalten?
+	
 	*In the ARM architecture, the processes' page tables are located at virtual addresses. What are the advantages of managing page tables at virtual addresses instead of physical addresses in main memory?*
 
 Answer
@@ -220,12 +222,16 @@ Task
 ~~~~
 
 a.	Nennen Sie die vier Bedingungen für eine Verklemmung!
+
 	*Name all of the four requirements for a deadlock!*
 b.	Was ist der Unterschied zwischen der Vorbeugung (prevention) und Vermeidung (avoidance) von Verklemmungen?
+
 	*What's the difference between deadlock prevention and deadlock avoidance?*
 c.	Nennen Sie eine Strategie zur Vorbeugung von Verklemmungen und begründen Sie welche der unter a) genannten vier Bedingungen für eine Verklemmung dadurch nicht eintreten kann!
+
 	*Name a strategy for deadlock prevention and give reasons which requirement named under a) will not occur!*
 d.	Wenn wir Speicherstelle im physikalischen Adressraum als Betriebsmittel auffassen, unter welchen Umständen kann dieses Betriebsmittel bei Verklemmungen unberücksichtigt bleiben? Begründen Sie Ihre Antwort!
+
 	*A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.*
 
 Answer
@@ -283,6 +289,7 @@ Die Warteschlange eines Festplattenspeichergeräts enthält die unten aufgeführ
 *The queue of a hard disc system contains the following requests. Use the given strategies to process the requests. Explain the plan of request processing according to the specified strategies.*
 
 Die Festplattenstrategien sind:
+
 *The strategies are:*
 
 a. FCFS (First-Come-First-Served),
@@ -311,12 +318,10 @@ Aufgabe 12 (Dateisysteme, 9 Punkte)
 Task
 ~~~~
 
-Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.
-
+Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen. \
 Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
 
-*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.
-
+*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed. \
 Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
 
 Answer
