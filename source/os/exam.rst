@@ -1,8 +1,8 @@
 Exam
 ====
 
-Aufgabe 3 (Prozessumschaltstrategien, 12 Punkte)
-------------------------------------------------
+Aufgabe 3, **12 Punkte** (Prozessumschaltstrategien)
+----------------------------------------------------
 
 Welche der Umschaltstrategien (Scheduling-Verfahren), die in der Vorlesung vorgestellt wurden, sind den nachfolgenden Aufgabenstellungen (Szenarien) sinnvoll zuzuordnen? Begründen Sie Ihre Entscheidung auf Grund der Eigenschaften der jeweiligen Umschaltstrategien.
 
@@ -27,8 +27,8 @@ Answer
 .. warning:: TODO: Learn sheduling algorithms
 
 
-Aufgabe 4 (Prozesse, 10 Punkte)
--------------------------------
+Aufgabe 4, **10 Punkte** (Prozesse)
+-----------------------------------
 
 Benennen Sie für das gegebene Prozesszustandsdiagramm eines Mikrokern-Betriebssystems die Zustandsübergänge indem Sie angeben von welchem Zustand in welchen anderen übergegangen wird. Beschreiben Sie die Übergänge kurz und gehen Sie hierbei auf die Datenstrukturen und die Datenstrukturoperationen ein, die sinnvoll eingesetzt werden können.
 
@@ -69,8 +69,8 @@ Answer
 	ready			--deactivate-->		not active
 	not active		--delete-->		not existent
 
-Aufgabe 5 (Prozesswechsel, 10 Punkte)
--------------------------------------
+Aufgabe 5, **10 Punkte** (Prozesswechsel)
+-----------------------------------------
 
 Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.<br>
 Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
@@ -88,8 +88,8 @@ Answer
 - Prozess wird beendet/beendet sich
 - Erhöhung der Priorität eines wartenden Threads
 
-Aufgabe 6 (Kommunikation, 10 Punkte)
-------------------------------------
+Aufgabe 6, **10 Punkte** (Kommunikation)
+----------------------------------------
 
 Wie können Kanal-Objekte den kommunizierenden Threads zugeordnet (an sie gebunden) werden? Nennen Sie für jede Variante einen Vor- und einen Nachteil.
 
@@ -100,8 +100,8 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 9 (Hauptspeicherverwaltung, 10 Punkte)
-----------------------------------------------
+Aufgabe 9, **10 Punkte** (Hauptspeicherverwaltung)
+--------------------------------------------------
 
 Nennen und erläutern Sie eine Strategie zur Verhinderung des Thrashing-Effekts. Gehen Sie insbesondere auf die notwendigen Daten, deren Erfassung und die Bestimmung des Momentes, in dem der Effekt auftritt, ein.
 
@@ -112,8 +112,8 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 12 (Dateisysteme, 9 Punkte)
------------------------------------
+Aufgabe 12, **9 Punkte** (Dateisysteme)
+---------------------------------------
 
 Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.<br>
 Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
@@ -126,8 +126,8 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 1 (Architektur, 8 Punkte)
----------------------------------
+Aufgabe 1, **8 Punkte** (Architektur)
+-------------------------------------
 
 Nennen Sie für das Mikrokern-Betriebssystem die vier Dienste-Schichten und die vier Schichten des Kernbereiches (Infrastrukturbereich). Geben Sie für jede der Schichten mindestens einen Dienst an, den diese für die darüber liegende Schicht bereitstellt.
 
@@ -161,8 +161,8 @@ Answer
 	- **0 Kernel memory management**
 		- Manipulieren von Speichereinträgen
 
-Aufgabe 10 (Verklemmungen, 8 Punkte)
-------------------------------------
+Aufgabe 10, **8 Punkte** (Verklemmungen)
+----------------------------------------
 
 a.	Nennen Sie die vier Bedingungen für eine Verklemmung!
 
@@ -221,8 +221,8 @@ c. Name a strategy for deadlock prevention and give reasons which requirement na
 d. A memory location in the physical address space can be considered to be a resource. What are the circumstances that prevent a deadlock? Give reasons for your answer.
 	- Wenn dieses Betriebsmittel nicht nur von einem Thread at a time genutzt werden kann. Deadlocks treten nur auf, wenn mehrere Threads auf eine Resource zugreifen, auf die nur ein Thread gleichzeitig zugreifen darf. Also: Wenn keine mutual exclusion für diese Resource gebraucht wird.
 
-Aufgabe 8 (Virtueller Speicher, 6 Punkte)
------------------------------------------
+Aufgabe 8, **6 Punkte** (Virtueller Speicher)
+---------------------------------------------
 
 a.	In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
 	
@@ -236,8 +236,8 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 11 (Gerätebetrieb, 6 Punkte)
-------------------------------------
+Aufgabe 11, **6 Punkte** (Gerätebetrieb)
+----------------------------------------
 
 Die Warteschlange eines Festplattenspeichergeräts enthält die unten aufgeführten Aufträge. Wenden Sie auf diese Auftragssituation die folgenden Festplattenstrategien an. Stellen Sie den Plan dar, nach dem die Aufträge auf Grund der speziellen Festplattenstrategie abgearbeitet werden.
 
@@ -267,8 +267,8 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 2 (Gerätebetrieb, 4 Punkte)
------------------------------------
+Aufgabe 2, **4 Punkte** (Gerätebetrieb)
+---------------------------------------
 
 Erläutern Sie kurz die Begriffe **Programmed I/O** und **DMA**.
 
@@ -284,8 +284,8 @@ Answer
 - **Memory mapped I/O**
 	- Prozessor kontrolliert I/O-Geräte durch Arbeitsspeicher. Speicherzellen des I/O-Gerätes werden auf Hauptspeicher gemapped, damit kann die CPU diese indirekt manipulieren.
 
-Aufgabe 7 (Thread-Interaktionsmechanismen, 4 Punkte)
-----------------------------------------------------
+Aufgabe 7, **4 Punkte** (Thread-Interaktionsmechanismen)
+--------------------------------------------------------
 
 Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnitts eines parallelen Programms müssen vom Betriebssystem bereitgestellt werden? Gibt es auch Teile, die nicht vom Betriebssystem bereitgestellt werden können? Begründen Sie Ihre Antwort.
 
@@ -296,8 +296,8 @@ Answer
 
 .. warning:: TODO
 
-Aufgabe 13 (Leistungsmodellierung, 3 Punkte)
---------------------------------------------
+Aufgabe 13, **3 Punkte** (Leistungsmodellierung)
+------------------------------------------------
 
 Was sagt das Littlesche Gesetz aus?
 
@@ -308,8 +308,8 @@ Answer
 
 .. warning:: TODO
 
-Zusatzaufgabe (Betriebssystemfunktionen, 2 Zusatzpunkte)
---------------------------------------------------------
+Zusatzaufgabe **2 Zusatzpunkte** (Betriebssystemfunktionen)
+-----------------------------------------------------------
 
 Im Rahmen der Übungsaufgaben haben Sie ein Betriebssystem entwickelt, welches folgende Eigenschaften aufweist: Gerätesteuerung direkt und über Interrupts, Interrupt- und Ausnahmenbehandlung, Prozessverwaltung und Prozesswechsel einschließlich einfachem Scheduling, Separierung des Kerns und Einführung einer Kernschnittstelle, Speicherschutz auch zwischen den Prozessen mittels MMU. Welche Aufgabe würden Sie als nächstes angehen? Begründen Sie Ihre Antwort.
 
