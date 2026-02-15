@@ -4,6 +4,7 @@ AArch64 Assembly
 This directory contains docs about AArch64 assembly.
 
 .. list-table::
+	:header-rows: 1
 
 	* - Architecture
 	  - Execution state

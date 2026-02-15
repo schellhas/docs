@@ -4,6 +4,7 @@ x86-64 Assembly
 This directory contains docs about x86-64 assembly.
 
 .. list-table::
+	:header-rows: 1
 
 	* - Architecture
 	  - Assembler
