@@ -5,5 +5,5 @@ Assembly
 	:maxdepth: 1
 	:caption: Contents
 
-    aarch64/index
+	aarch64/index
 	x86_64/index
