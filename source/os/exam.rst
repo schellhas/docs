@@ -24,8 +24,12 @@ d.	Beliebige Rechenaufträge, deren Bedienzeiten aber bekannt sind, werden zu un
 Answer
 ~~~~~~
 
-.. warning:: TODO: Learn sheduling algorithms
+a. **SPN (Shortest Process Next)**: SPN executes the shortest process next. Since service times are known, SPN gurantees a minimal **average response time.** Preemption is not necessary here because all jobs are known in advance.
+b. **RR (Round Robin)**: RR *time-slices* the CPU time equally amongst all processes. This means the response time will be in ratio to the service time.
+c. **PRIO-NP (non-preemptive priority)** or **PRIO-P (preemptive priority)**: Depending on wether we allow preemption or not, PRIO scheduling will finish the processes with the highest priority first.
+d. **HRRN (Highest Response Ratio Next)**: HRRN is non-preemptive. It computes a dynamic priority based on (waiting time + service time)/service time. It favors short processes but avoids starvation by dividing by the service time. 
 
+.. warning:: TODO: Learn **all** scheduling algorithms
 
 Aufgabe 4, **10 Punkte** (Prozesse)
 -----------------------------------
