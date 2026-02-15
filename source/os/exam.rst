@@ -4,9 +4,6 @@ Exam
 Aufgabe 1 (Architektur, 8 Punkte)
 ---------------------------------
 
-Task
-~~~~
-
 Nennen Sie für das Mikrokern-Betriebssystem die vier Dienste-Schichten und die vier Schichten des Kernbereiches (Infrastrukturbereich). Geben Sie für jede der Schichten mindestens einen Dienst an, den diese für die darüber liegende Schicht bereitstellt.
 
 *Name all of the four service layers of the process area and all of the four service layers of the kernel area for the microkernel operating system. For each of the layers, specify at least one service that it provides for the layer above.*
@@ -42,9 +39,6 @@ Answer
 Aufgabe 2 (Gerätebetrieb, 4 Punkte)
 -----------------------------------
 
-Task
-~~~~
-
 Erläutern Sie kurz die Begriffe **Programmed I/O** und **DMA**.
 
 *Explain briefly the terms* **Programmed I/O** *and* **DMA**.
@@ -61,9 +55,6 @@ Answer
 
 Aufgabe 3 (Prozessumschaltstrategien, 12 Punkte)
 ------------------------------------------------
-
-Task
-~~~~
 
 Welche der Umschaltstrategien (Scheduling-Verfahren), die in der Vorlesung vorgestellt wurden, sind den nachfolgenden Aufgabenstellungen (Szenarien) sinnvoll zuzuordnen? Begründen Sie Ihre Entscheidung auf Grund der Eigenschaften der jeweiligen Umschaltstrategien.
 
@@ -89,9 +80,6 @@ Answer
 
 Aufgabe 4 (Prozesse, 10 Punkte)
 -------------------------------
-
-Task
-~~~~
 
 Benennen Sie für das gegebene Prozesszustandsdiagramm eines Mikrokern-Betriebssystems die Zustandsübergänge indem Sie angeben von welchem Zustand in welchen anderen übergegangen wird. Beschreiben Sie die Übergänge kurz und gehen Sie hierbei auf die Datenstrukturen und die Datenstrukturoperationen ein, die sinnvoll eingesetzt werden können.
 
@@ -135,9 +123,6 @@ Answer
 Aufgabe 5 (Prozesswechsel, 10 Punkte)
 -------------------------------------
 
-Task
-~~~~
-
 Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.<br>
 Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
@@ -157,9 +142,6 @@ Answer
 Aufgabe 6 (Kommunikation, 10 Punkte)
 ------------------------------------
 
-Task
-~~~~
-
 Wie können Kanal-Objekte den kommunizierenden Threads zugeordnet (an sie gebunden) werden? Nennen Sie für jede Variante einen Vor- und einen Nachteil.
 
 *How can channel objects be connected (bound) to threads? Name pro and con for every method.*
@@ -172,9 +154,6 @@ Answer
 Aufgabe 7 (Thread-Interaktionsmechanismen, 4 Punkte)
 ----------------------------------------------------
 
-Task
-~~~~
-
 Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnitts eines parallelen Programms müssen vom Betriebssystem bereitgestellt werden? Gibt es auch Teile, die nicht vom Betriebssystem bereitgestellt werden können? Begründen Sie Ihre Antwort.
 
 *Which parts of a monitor as a mechanism for protecting a critical section of a parallel program must be provided by the operating system? Are there parts that cannot be provided by the operating system? Give reasons for you answer.*
@@ -186,9 +165,6 @@ Answer
 
 Aufgabe 8 (Virtueller Speicher, 6 Punkte)
 -----------------------------------------
-
-Task
-~~~~
 
 a.	In klassischen Varianten der virtuellen Speicherverwaltung wird zwischen Segmenten und Seiten (Pages) unterschieden. Wann ist diese Unterscheidung sinnvoll? Begründen Sie Ihre Antwort. 
 	
@@ -205,9 +181,6 @@ Answer
 Aufgabe 9 (Hauptspeicherverwaltung, 10 Punkte)
 ----------------------------------------------
 
-Task
-~~~~
-
 Nennen und erläutern Sie eine Strategie zur Verhinderung des Thrashing-Effekts. Gehen Sie insbesondere auf die notwendigen Daten, deren Erfassung und die Bestimmung des Momentes, in dem der Effekt auftritt, ein.
 
 *Name and describe one strategy for thrashing prevention. The description has to cover the data necessary for the strategy, how the data is collected and the detection of the thrashing situation.*
@@ -219,9 +192,6 @@ Answer
 
 Aufgabe 10 (Verklemmungen, 8 Punkte)
 ------------------------------------
-
-Task
-~~~~
 
 a.	Nennen Sie die vier Bedingungen für eine Verklemmung!
 
@@ -283,9 +253,6 @@ d. A memory location in the physical address space can be considered to be a res
 Aufgabe 11 (Gerätebetrieb, 6 Punkte)
 ------------------------------------
 
-Task
-~~~~
-
 Die Warteschlange eines Festplattenspeichergeräts enthält die unten aufgeführten Aufträge. Wenden Sie auf diese Auftragssituation die folgenden Festplattenstrategien an. Stellen Sie den Plan dar, nach dem die Aufträge auf Grund der speziellen Festplattenstrategie abgearbeitet werden.
 
 *The queue of a hard disc system contains the following requests. Use the given strategies to process the requests. Explain the plan of request processing according to the specified strategies.*
@@ -317,9 +284,6 @@ Answer
 Aufgabe 12 (Dateisysteme, 9 Punkte)
 -----------------------------------
 
-Task
-~~~~
-
 Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.<br>
 Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
 
@@ -334,9 +298,6 @@ Answer
 Aufgabe 13 (Leistungsmodellierung, 3 Punkte)
 --------------------------------------------
 
-Task
-~~~~
-
 Was sagt das Littlesche Gesetz aus?
 
 *What is Littles Law?*
@@ -348,9 +309,6 @@ Answer
 
 Zusatzaufgabe (Betriebssystemfunktionen, 2 Zusatzpunkte)
 --------------------------------------------------------
-
-Task
-~~~~
 
 Im Rahmen der Übungsaufgaben haben Sie ein Betriebssystem entwickelt, welches folgende Eigenschaften aufweist: Gerätesteuerung direkt und über Interrupts, Interrupt- und Ausnahmenbehandlung, Prozessverwaltung und Prozesswechsel einschließlich einfachem Scheduling, Separierung des Kerns und Einführung einer Kernschnittstelle, Speicherschutz auch zwischen den Prozessen mittels MMU. Welche Aufgabe würden Sie als nächstes angehen? Begründen Sie Ihre Antwort.
 
