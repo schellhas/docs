@@ -47,7 +47,7 @@ Task
 
 Erläutern Sie kurz die Begriffe **Programmed I/O** und **DMA**.
 
-*Explain briefly the terms **Programmed I/O** and **DMA**.*
+*Explain briefly the terms* **Programmed I/O** *and* **DMA**.
 
 Answer
 ~~~~~~
