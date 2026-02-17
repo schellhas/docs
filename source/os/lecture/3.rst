@@ -97,6 +97,10 @@ The response ratio *rr* is defined as:
 
 As with SPN short threads are favoured. However, long threads do not need to wait forever but score some points by waiting.
 
+.. note::
+
+	What about the "beginning"? When all threads have a waiting time of 0? Then all the *rr*s should be exactly 1. So we just do FCFS?
+
 .. image:: hrrn.png
 
 **FB** - (Multilevel) Feedback
