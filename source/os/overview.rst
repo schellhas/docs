@@ -7,6 +7,11 @@ Overview
 
 	-- Antoine de Saint-Exupéry
 
+The one main task of an OS
+--------------------------
+
+Function as a bridge between user and hardware
+
 The two main tasks of an OS
 ---------------------------
 
