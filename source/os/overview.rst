@@ -12,6 +12,8 @@ The one main task of an OS
 
 Function as a bridge between user and hardware
 
+User -> Application -> Operating System -> Hardware
+
 The two main tasks of an OS
 ---------------------------
 
@@ -33,3 +35,6 @@ Other services (could or could not be in the kernel):
 - networking
 - security
 - and many more: users, time, terminals, ...
+
+There is no one definition!
+
