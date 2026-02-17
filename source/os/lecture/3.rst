@@ -91,7 +91,7 @@ The response ratio *rr* is defined as:
 
 .. math::
 
-	\frac{\text{waiting time + service time}}{\text{service time}}
+	\text{rr} := \frac{\text{waiting time + service time}}{\text{service time}}
 
 *rr* is calculated dynamically and used as priority: The thread with the highest *rr*-value is selected. The strategy is non-preemptive.
 
