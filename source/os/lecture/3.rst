@@ -36,7 +36,7 @@ Newly arriving thread at ready list preempts the currently running thread. Preem
 
 Goal is to prefer short threads, these have a good chance to finish before another thread arrives. A long thread is likely to be preempted several times.
 
-.. imgage:: lcfs-pr.png
+.. image:: lcfs-pr.png
 
 **RR** - Round Robin (time slicing)
 -----------------------------------
