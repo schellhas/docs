@@ -1,5 +1,5 @@
-Lecture
-=======
+Lecture Notes
+=============
 
 From my OS lecture at uni
 
@@ -10,3 +10,5 @@ From my OS lecture at uni
 	1
 	2
 	3
+	exam
+	assignments
