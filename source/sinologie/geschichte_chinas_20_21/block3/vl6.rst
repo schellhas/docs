@@ -201,7 +201,6 @@ Chinas Situation zeigte, dass wirtschaftliche und soziale Entwicklung davor unte
    - Ein Vorschlag war: Planwirtschaft der Sowjets mal wirklich ausprobieren
    - Auch gesehen: sowjetisches Vorbild nicht mehr attraktiv
    - Daher kleine Minderheit, die das forderte
-
 2. Aufgeben der Planwirtschaft zugunsten einer Marktwirtschaft
    - Diese Gruppe konnte auf Länder Südostasiens verweisen, wo Armut und Unterentwicklung überwunden wurde
 
@@ -210,53 +209,53 @@ Reform der Planwirtschaft
 
 Deng Xiaoping war keiner bestimmten Richtung verpflichtet. Es ist nicht klar, ob er von vornherein jemand war, der Marktwirtschaft propagiert hatte. Er wollte Planwirtschaft reformieren, aber auch lockerer und pragmatischer gestalten.
 
-Hatte Zustimmung Chen Yuns, bedeutendster Wirtschaftspolitiker der KP in dieser Phase,aber diese Versuche die Planwirtschaft zu Reformieren und efizienter zu gestalten wurden dadurch erschwert dass die Planwirtshcaft gar nicht wirklich existierte, weil die reste diesers systems von der kluturrevolution weitgehend zerstärt wurden.
+Hatte Zustimmung Chen Yuns, bedeutendster Wirtschaftspolitiker der KP in dieser Phase, aber diese Versuche, die Planwirtschaft zu reformieren und effizienter zu gestalten, wurden dadurch erschwert, dass die Planwirtschaft gar nicht wirklich existierte, weil die Reste dieses Systems von der Kulturrevolution weitgehend zerstört wurden.
 
-erster verush die planwirtschaft also zu revitalisieren endet erfolglos weil es zu wenig gibt um darauf aufzubauen.
+Erster Versuch, die Planwirtschaft also zu revitalisieren, endet erfolglos, weil es zu wenig gibt, um darauf aufzubauen.
 
 Der "Große Sprung nach Außen"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Hua Guofeng: Investitionen in die Schwerindustrie
     - sehr viel Geld, bewirkte sehr wenig
-- nach Hua Guofengs absetzung:
-- pragmatisches, writschaftliches stabilisierungsprogramm begonnen
-    - dieses lies schwerindustrie aus
-- konzentrierte sich auf leichtindustrie
-- übergang von plan- zu marktwirtschaft nicht getriebe nvo ngroßer vision oder einem beschluss
-- es entstand aus zwängen und praktischen notwendigkeiten heraus
-- die planwirtschaft kan nnciht wiederbelebt werden, fokus auf schwerindustrie zu teuer
-- china bleibt nichts übrig als leichtindustrie und flexibilisierung und liberalisierung der wirtschaftspolitik
+- nach Hua Guofengs Absetzung:
+- pragmatisches, wirtschaftliches Stabilisierungsprogramm begonnen
+    - dieses ließ Schwerindustrie aus
+- konzentrierte sich auf Leichtindustrie
+- Übergang von Plan- zu Marktwirtschaft nicht getrieben von großer Vision oder einem Beschluss
+- es entstand aus Zwängen und praktischen Notwendigkeiten heraus
+- die Planwirtschaft kann nicht wiederbelebt werden, Fokus auf Schwerindustrie zu teuer
+- China bleibt nichts übrig als Leichtindustrie und Flexibilisierung und Liberalisierung der Wirtschaftspolitik
 
-- Öffnung nach Außen notwendig
-- politik der öffnung und etablierrung und guter beziehungen zu allen wichtigen ländern, insbesondere die die wirtschaftlich flourireren udn weiterentwickelt sind
-- schlagwort der zeit *jiegui*: "Gleise verbinden"
-- überzeugung dengs: maos poilitik china zu isolieren war schwerer fehler
-- deng will abbaue internationer spannungen voranzubringen, damit chinas wirtschaftliche entwccklung gefördert werden kann.
-- 1975: anerkennung chinas durch die europäische kommission
+- Öffnung nach außen notwendig
+- Politik der Öffnung und Etablierung und guter Beziehungen zu allen wichtigen Ländern, insbesondere denen, die wirtschaftlich florieren und weiterentwickelt sind
+- Schlagwort der Zeit *jiegui*: "Gleise verbinden"
+- Überzeugung Dengs: Maos Politik, China zu isolieren, war schwerer Fehler
+- Deng will Abbau internationaler Spannungen voranbringen, damit Chinas wirtschaftliche Entwicklung gefördert werden kann
+- 1975: Anerkennung Chinas durch die Europäische Kommission
 
 Die Beziehung zu den USA
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- zentrale rolle für chinas internationale strategie
-- china wollte schnelle normalisierung der beziehungen
-- harte und zähe verhandlung insbesondere hinsichtlich taiwan
-- diese verhandlungen werden zum positiven abschluss geführt
-- 15.12.1978: jimmy carter verkündigt aufnahme diplomatischer beziehungen USA und Chinas
-- dise sind 1949 unterbrochen worden und sether gab es keine offiziellen beziehungen zwischen den usa und china
-- nach fast 30 jahren fehlendem kontakts in diplomatie und wirtschaft jetzt wieder aufnahme von beziehungen
-- 1979 erster besuch von hochrangigem chinesen in die usa. deng xiuaoping auf mehrwöchiger reise in die staaten
-- signale: zieht texashut undso auf. cowboyhut. millionen von menschen in china als signal und aufbruch verstanden. "es ist ok sich der westlichen kultur und dem westlichen und amerikanischen lebensstil zuwenden.
-- deng war beeindruckt vom besuch
-- sieht dort forschritt in technologie, produktivität und lebensstandards
-- als er von reise zurückkam, angeblich tagelang und nächte nich schlafen da er überlegt hat wie china an diesen stand jemals kommen kann. (source? lol)
+- zentrale Rolle für Chinas internationale Strategie
+- China wollte schnelle Normalisierung der Beziehungen
+- harte und zähe Verhandlungen, insbesondere hinsichtlich Taiwan
+- diese Verhandlungen werden zum positiven Abschluss geführt
+- 15.12.1978: Jimmy Carter verkündigt Aufnahme diplomatischer Beziehungen zwischen USA und China
+- diese sind 1949 unterbrochen worden und seither gab es keine offiziellen Beziehungen zwischen den USA und China
+- nach fast 30 Jahren fehlenden Kontakts in Diplomatie und Wirtschaft jetzt wieder Aufnahme von Beziehungen
+- 1979 erster Besuch von hochrangigem Chinesen in die USA. Deng Xiaoping auf mehrwöchiger Reise in die Staaten
+- Signale: zieht Texashut und so auf. Cowboyhut. Millionen von Menschen in China als Signal und Aufbruch verstanden. "es ist ok, sich der westlichen Kultur und dem westlichen und amerikanischen Lebensstil zuzuwenden.
+- Deng war beeindruckt vom Besuch
+- sieht dort Fortschritt in Technologie, Produktivität und Lebensstandards
+- als er von Reise zurückkam, angeblich tagelang und Nächte nicht schlafen, da er überlegt hat, wie China an diesen Stand jemals kommen kann. (source? lol)
 
-bedeutet frü doe cinesische bevlkerung sich dem westen zuzuwenden.
+Bedeutet für die chinesische Bevölkerung, sich dem Westen zuzuwenden.
 
 Die Beizhungen zu Japan
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-
+Natürlich die schwierigsten mit WW2 und Verhärtungen und Erbitterungen aus dieser Zeit. auch hier will Deng pragmatisch als erster Führer Chinas in der Geschichte den japanischen Kaiser treffen, 1978. hat es noch nie gegeben. es kommt zur Verhandlung und Unterzeichnung eines Friedens- und Freundschaftsabkommens in Japan. große Geste anhand der Kriegsverbrechen Japans. Deng hat also zu USA als auch zu Japan ein neues Kapitel eröffnet. Zusammenarbeit, pragmatische Kooperation, ungeachtet historischer Belastungen. damit wurden Weichen gestellt für Verbindung zur Weltwirtschaft und für die positive wirtschaftliche Entwicklung in China.
 
 **Leitfragen:**
 ~~~~~~~~~~~~~~~
