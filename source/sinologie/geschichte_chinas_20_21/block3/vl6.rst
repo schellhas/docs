@@ -33,72 +33,72 @@ Weltweit
 Wirtschaftliche Veränderungen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Es gibt eine wirtscahftliche Entsprechung zu diesne Veränderungen. Bewegung wird Neoliberalismus genannt, begonnen in 1970er.
+Es gibt eine wirtschaftliche Entsprechung zu diesen Veränderungen. Diese Bewegung wird Neoliberalismus genannt, begonnen in den 1970er-Jahren.
 
-- Konservative Gruppen fordern Hinbewegung zu deregulierten und freien Märkten
-- Lateinamerika, Westeuropa und Osteuropa
-- Antikommunistische Bewegungen zeigen neue Kritik an sozialistischen Ideen (auch wirtschaftlich)
-- möglichst freies Spiel der Märkte zwecks Förderung des wirtschaftlichen Wachstums
+- Konservative Gruppen fordern eine Hinwendung zu deregulierten und freien Märkten  
+- Lateinamerika, Westeuropa und Osteuropa  
+- Antikommunistische Bewegungen zeigen neue Kritik an sozialistischen Ideen (auch wirtschaftlich)  
+- Möglichst freies Spiel der Märkte zwecks Förderung des wirtschaftlichen Wachstums  
 
-Niedergang der Sowjetunion
+Niedergang der Sowjetunion  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Das swojetische Modell der sozialen Planung und ordnung wird nicht mehr als zukunftsorientiert oder erfolgsversprechend angesehen. kommunismus gilt nicht mehr als vitale transformative kraft. ziel einer egalitären gesellschaft in weiter ferne. argumentation: natürliche verhltnisse sind unterschiede. wichtig: jeder gleiche chancen. unterschiede in gesellschaft unvermeidbar und eigentlich wünschbar, nur durch diese entsteht dynamik. soziale gleichheit behindert jetzt wirtschaftliche dynamik.
+Das sowjetische Modell der sozialen Planung und Ordnung wird nicht mehr als zukunftsorientiert oder erfolgsversprechend angesehen. Der Kommunismus gilt nicht mehr als vitale transformative Kraft. Das Ziel einer egalitären Gesellschaft liegt in weiter Ferne. Argumentation: Natürliche Verhältnisse sind Unterschiede. Wichtig ist, dass jeder die gleichen Chancen hat. Unterschiede in der Gesellschaft sind unvermeidbar und eigentlich wünschenswert, denn nur durch sie entsteht Dynamik. Soziale Gleichheit behindert nun wirtschaftliche Dynamik.
 
-Chernobyl ist "Symbol" für das Versagen des sowjetischen Modells.
+Tschernobyl ist ein „Symbol“ für das Versagen des sowjetischen Modells.
 
-Die Reaktion Chinas
+Die Reaktion Chinas  
 ~~~~~~~~~~~~~~~~~~~
 
-Wenn man in China nachdenkt wie man das eigene System reformieren knan, ist klar, dass sowjetisches modell nicht mehr exemplarisch ist. auch in china wirkt es negativ.
+Wenn man in China darüber nachdenkt, wie man das eigene System reformieren kann, ist klar, dass das sowjetische Modell nicht mehr exemplarisch ist. Auch in China wirkt es negativ.
 
-- Orientierung Chinas an ostasiastischen Nachbarn
-    - Täuschung dass China sich am Westen orientiert
-- Japan, Südkorea, Hong Kong, Taiwan
-    - Aus ähnlicher Lage heraus (unterentwicklung, Armut), Reformen begonnen, die ihnen Zugang zu industrialisierung und beschleunigter modernisierung
-- wenn china also vorbilder sucht, sind diese vorbilder wesentlich relevanter
-- Für China klar: Zusammenarbeit mit entwickelten Staaten des Westen von gorßer Bedeutung
-- Annäherung an die USA
-- Zusammenarbeit bei der Lösung des Vietnamkonflikts
-- keine US-Förderung der Unabhängigkeit Taiwans
+- Orientierung Chinas an ostasiatischen Nachbarn  
+    - Täuschung, dass China sich am Westen orientiert  
+- Japan, Südkorea, Hongkong, Taiwan  
+    - Aus ähnlicher Lage heraus (Unterentwicklung, Armut) Reformen begonnen, die ihnen Zugang zur Industrialisierung und beschleunigten Modernisierung ermöglichten  
+- Wenn China also Vorbilder sucht, sind diese Vorbilder wesentlich relevanter  
+- Für China ist klar: Zusammenarbeit mit entwickelten Staaten des Westens ist von großer Bedeutung  
+- Annäherung an die USA  
+- Zusammenarbeit bei der Lösung des Vietnamkonflikts  
+- Keine US-Förderung der Unabhängigkeit Taiwans  
 
-Abbildung: Nixon Besuch 1972 mit Mao
+Abbildung: Nixon-Besuch 1972 mit Mao  
 
-Die Reaktion der USA
+Die Reaktion der USA  
 ~~~~~~~~~~~~~~~~~~~~
 
-- China galt als weniger ideologisch geprägt als die Sowjetunion
-- Keine Bedrohung
-- Flexible und pragmatische Variante des Sozialismus
+- China galt als weniger ideologisch geprägt als die Sowjetunion  
+- Keine Bedrohung  
+- Flexible und pragmatische Variante des Sozialismus  
 
-Zusammenarbeit zw. China und USA bietet auch Potential gegenüber der Sowjetunion die +berhand zu bekommen.
+Die Zusammenarbeit zwischen China und den USA bietet auch das Potenzial, gegenüber der Sowjetunion die Oberhand zu bekommen.
 
-Das "strategische Dreieck"
+Das „strategische Dreieck“  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ein "strategisches Dreieck" entsteht. China und die USA arbeiten zusammen auf Kosten der Sowjetischen Machtstellung. Dieses Dreieck erlaubt China, zum drittwichtigsten strateigschen Akteur der Weltpolitik zu werden. Obwohl China arm und militärisch schwach. China kann trotzdem Einfluss haben der nicht im Verhältnis zur inneren Situation steht.
+Ein „strategisches Dreieck“ entsteht. China und die USA arbeiten zusammen auf Kosten der sowjetischen Machtstellung. Dieses Dreieck erlaubt China, zum drittwichtigsten strategischen Akteur der Weltpolitik zu werden, obwohl China arm und militärisch schwach ist. China kann trotzdem Einfluss haben, der nicht im Verhältnis zur inneren Situation steht.
 
 Vorteile für China:
 
-- keinerlei Furcht vor Angriffen seitens der USA oder der Sowjetunion
-- Zugang zu den wirtschaftlichen Märkten des Westens
+- Keinerlei Furcht vor Angriffen seitens der USA oder der Sowjetunion  
+- Zugang zu den wirtschaftlichen Märkten des Westens  
 
-Insgesamt ist strategisches Dreieck wichtige Voraussetzung für Einleitung als auch Erfolg der Reformära.
+Insgesamt ist das strategische Dreieck eine wichtige Voraussetzung für die Einleitung als auch für den Erfolg der Reformära.
 
-Weltwirtschaftliche Situation
+Weltwirtschaftliche Situation  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Kommt zu einem sehr günstigen Zeitpunkt. 1970er Jahre sind Wirtschaften des Westens in erstzunehmender Rezession. Durch Ölkrise. 
+Kommt zu einem sehr günstigen Zeitpunkt. In den 1970er-Jahren befinden sich die Wirtschaften des Westens in einer ernstzunehmenden Rezession - bedingt durch die Ölkrise.
 
 - Verlangsamung des Wirtschaftswachstums auch in Japan und den kleinen Tigerstaaten
-- Investitionen in Westen als auch in Ostasien werden damit immer unprofitabler
-- Im Gegensatz dazu hat China unentschlossenen und unentwickelten aber äußerst attraktiven Markt für internationale Investoren und Unternehmer
-- Vorteil China: über Hongkong ist Zugang gut und sicher möglich
+- Investitionen im Westen als auch in Ostasien werden damit immer unprofitabler
+- Im Gegensatz dazu hat China einen unerschlossenen und unentwickelten, aber äußerst attraktiven Markt für internationale Investoren und Unternehmer
+- Vorteil Chinas: Über Hongkong ist der Zugang gut und sicher möglich
 - Vorsichtige und begrenzte Öffnung Chinas
 
-Ohne Veränderungen in der Welt wäre Öffnung Chinas nur schwer mäglich gewesen und weniger erfolgreich gewesen.
+Ohne Veränderungen in der Welt wäre die Öffnung Chinas nur schwer möglich gewesen und weniger erfolgreich gewesen.
 
-Abbildung: Wachstumskurve Chinas, wäre nicht nöglich gewesen ohne günstige globale Umstände
+Abbildung: Wachstumskurve Chinas, wäre nicht möglich gewesen ohne günstige globale Umstände
 
 Leitfragen:
 ~~~~~~~~~~~
