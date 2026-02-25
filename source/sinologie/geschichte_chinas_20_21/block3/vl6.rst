@@ -263,6 +263,8 @@ Natürlich die schwierigsten mit WW2 und Verhärtungen und Erbitterungen aus die
 **Was waren die Kernelemente der Reform- und Öffnungspolitik?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+
 **Wie lässt sich der Ansatz am besten charakterisieren?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
