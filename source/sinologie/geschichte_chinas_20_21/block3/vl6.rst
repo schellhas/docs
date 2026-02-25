@@ -116,12 +116,156 @@ Abbildung: Wachstumskurve Chinas, wäre nicht möglich gewesen ohne günstige gl
 **Welche Rolle spielte das "strategische Dreieck"?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die sowjetische Machtstellung wird durch die chinesisch-amerikanische Zusammenarbeit geschwächt, wodurch China zum drittwichtigsten Akteur der Weltpolitik wird, obwohl China arm und militärisch schwach ist. China hat mehr Einfluss als die innere Situation eigentlich "hergibt". Dadurch muss China auch keine Angriffe der USA oder Sowjetunion fürchten und hat mehr Zugang zu wirtschaftlichen Märkten des Westens.
+Die sowjetische Machtstellung wird durch die chinesisch-amerikanische Zusammenarbeit geschwächt, wodurch China zum drittwichtigsten Akteur der Weltpolitik wird, obwohl China arm und militärisch schwach ist. China hat mehr Einfluss, als die innere Situation eigentlich "hergibt". Dadurch muss China auch keine Angriffe der USA oder Sowjetunion fürchten und hat mehr Zugang zu den wirtschaftlichen Märkten des Westens.
 
 Vorlesung 6.2: China nach Maos Tod
 ----------------------------------
 
+Die Zeit zwischen Ende der Kulturrevolution und dem Beginn der Reform- und Öffnungspolitik ist gekennzeichnet durch eine wachsende Legitimitätskrise. Der Tod Maos 1976 bedeutet das Ende einer Ära. Mao als Persönlichkeit und Führer hatte über Jahrzehnte hinweg die Entwicklung der Volksrepublik bestimmt. Sein Tod hinterließ ein riesiges Vakuum. Ein Sinn- und Orientierungsriss breitete sich aus. Die drängende Frage war, wohin es jetzt weitergeht und wohin sich das Land entwickelt.
 
+Legitimitätskrise
+~~~~~~~~~~~~~~~~~
+
+- Mao starb am 9. September 1976  
+- Hinterließ schwierige Situation  
+- Keine wesentlichen Verbesserungen des Lebensstandards seit mindestens 10 Jahren  
+- Neuer Vorsitzender: Hua Guofeng, "unbeschriebenes Blatt"  
+- Bis 1976 fast keine Rolle gespielt  
+- Neuer Vorsitzender, weil Zettel auf dem Mao angeblich beschrieben hatte: "Wenn du die Führung übernimmst, werde ich beruhigt sein", angeblich auf dem Todesbett geschrieben  
+- Huas offizielle Bestätigung
+
+Verhaftung der Viererbande
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Verhaftung Maos Frau und Witwe und den anderen  
+- Nach Verhaftung wurden sie im TV übertragen und verurteilt  
+- Vorgang von öffentlichem Prozess hat keine Parallele in China  
+- Erstes Mal, dass das gemacht wird  
+- Hielt Nation Monate in Atem  
+- Übertragung im TV: Straßen in China waren leer  
+
+Die Leute folgten den Verhandlungen vom Richter, den Aussagen über Ungerechtigkeiten von Opfern, als auch den Reaktionen der Viererbande und auch von Maos Frau.
+
+Situation Hua Guofengs
+~~~~~~~~~~~~~~~~~~~~~~
+
+Wird nicht sehr lange an der Macht sein. Nach kurzer Zeit sieht er sich Kritik ausgesetzt von neuen pragmatischen Personen, die in der Partei an die Macht streben. Hua beginnt in seiner Zeit eine Kampagne, die unter dem Namen "Zwei Alles"-Kampagne bekannt wird.  
+
+1. Alle politischen Entscheidungen Maos sind zu verteidigen  
+2. Allen Direktiven von Mao soll gefolgt werden  
+
+Politik Maos soll also weiter verfolgt werden, ohne Veränderung und Modifikationen. Ist eine Ablehnung aller Maßnahmen der politischen Normalisierung und wirtschaftlichen Neuordnungen, die von pragmatischen Kräften in der Partei gebracht werden.
+
+Reaktion Deng Xiaopings
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Gehört zu pragmatischem Part. Antwortet mit Gegenkampagne: "Befreit die Gedanken" und "Zerschlagt die geistigen Fesseln".  
+
+Bedeutet: Wir denken nicht entsprechend der Direktiven und Entscheidungen Maos, sondern wir befreien unser Denken und können die Tabus der Vergangenheit überwinden. -> reformorientierter und pragmatischer Ansatz  
+
+Deng Xiaoping will das Erbe Maos hinter sich lassen und eine neue Ära einleiten, in der Tabus und Fesseln der Vergangenheit hinter sich gelassen werden.
+
+Die Reaktion des Volkes
+~~~~~~~~~~~~~~~~~~~~~~~
+
+- Deng Xiaopings Politik fand die Zustimmung der Bevölkerung  
+- Nach dem Chaos der Kulturrevolution, wo viele Mitglieder der Partei und Bevölkerung in Mitleidenschaft gezogen wurden, viele Verluste zu beklagen waren, materiell als auch Menschenleben, eine Zeit, in der viele Intellektuelle litten, hofften nach Ende dieser viele in der Bevölkerung auf einen Wandel  
+- Hoffnung auf Wandel, Wunsch nach Stabilität und Wohlstand  
+- Kampagne der Zwei Alles hatte wenig Widerhall  
+    - Sagt ja, wir machen einfach weiter
+
+Wirtschaftliche Situation
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- In Mao-Ära war zwar große industrielle Basis geschaffen worden, aber diese war ineffizient.  
+- Große Zahl ausgebildeter Arbeiter, aber geringe Produktivität (?)  
+- Infolge dessen: Staat und Staatsunternehmen schreiben laufend hohe Verluste  
+- Daher stagnierende Versorgung  
+- Niedrige Löhne  
+- Schlechte Wohn- und Arbeitsbedingungen  
+- Arbeitslosigkeit  
+
+Arbeitslosigkeit im real existierenden Sozialismus ist Unterbeschäftigung: alle hatten Arbeit, aber nichts zu tun, kurze Arbeitszeit, viele Tage ohne Produktion  
+
+Typische Zeichen für Wirtschaft im real existierenden Sozialismus
+
+Wechsel der Wirtschaftspolitik
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Chinas Situation zeigte, dass wirtschaftliche und soziale Entwicklung davor unter Mao keine Erfolge vorzuweisen hatte. Gesamtes Entwicklungsmodell war diskreditiert. Gab aber keine klaren Alternativen. Es gab einen großen Konsens darüber, dass das bisherige Modell nicht weitergeführt werden konnte, aber welches sollte man annehmen? Zwei Möglichkeiten:
+
+1. Rückkehr zur Planwirtschaft
+   - Gibt Gründe, wieso man das tun sollte
+   - Planwirtschaft war in China nie wirklich ausprobiert
+   - Klassische Planwirtschaft wurde früh durch Great Leap Forward aufgegeben
+   - Ein Vorschlag war: Planwirtschaft der Sowjets mal wirklich ausprobieren
+   - Auch gesehen: sowjetisches Vorbild nicht mehr attraktiv
+   - Daher kleine Minderheit, die das forderte
+
+2. Aufgeben der Planwirtschaft zugunsten einer Marktwirtschaft
+   - Diese Gruppe konnte auf Länder Südostasiens verweisen, wo Armut und Unterentwicklung überwunden wurde
+
+Reform der Planwirtschaft
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Deng Xiaoping war keiner bestimmten Richtung verpflichtet. Es ist nicht klar, ob er von vornherein jemand war, der Marktwirtschaft propagiert hatte. Er wollte Planwirtschaft reformieren, aber auch lockerer und pragmatischer gestalten.
+
+Hatte Zustimmung Chen Yuns, bedeutendster Wirtschaftspolitiker der KP in dieser Phase,aber diese Versuche die Planwirtschaft zu Reformieren und efizienter zu gestalten wurden dadurch erschwert dass die Planwirtshcaft gar nicht wirklich existierte, weil die reste diesers systems von der kluturrevolution weitgehend zerstärt wurden.
+
+erster verush die planwirtschaft also zu revitalisieren endet erfolglos weil es zu wenig gibt um darauf aufzubauen.
+
+Der "Große Sprung nach Außen"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Hua Guofeng: Investitionen in die Schwerindustrie
+    - sehr viel Geld, bewirkte sehr wenig
+- nach Hua Guofengs absetzung:
+- pragmatisches, writschaftliches stabilisierungsprogramm begonnen
+    - dieses lies schwerindustrie aus
+- konzentrierte sich auf leichtindustrie
+- übergang von plan- zu marktwirtschaft nicht getriebe nvo ngroßer vision oder einem beschluss
+- es entstand aus zwängen und praktischen notwendigkeiten heraus
+- die planwirtschaft kan nnciht wiederbelebt werden, fokus auf schwerindustrie zu teuer
+- china bleibt nichts übrig als leichtindustrie und flexibilisierung und liberalisierung der wirtschaftspolitik
+
+- Öffnung nach Außen notwendig
+- politik der öffnung und etablierrung und guter beziehungen zu allen wichtigen ländern, insbesondere die die wirtschaftlich flourireren udn weiterentwickelt sind
+- schlagwort der zeit *jiegui*: "Gleise verbinden"
+- überzeugung dengs: maos poilitik china zu isolieren war schwerer fehler
+- deng will abbaue internationer spannungen voranzubringen, damit chinas wirtschaftliche entwccklung gefördert werden kann.
+- 1975: anerkennung chinas durch die europäische kommission
+
+Die Beziehung zu den USA
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- zentrale rolle für chinas internationale strategie
+- china wollte schnelle normalisierung der beziehungen
+- harte und zähe verhandlung insbesondere hinsichtlich taiwan
+- diese verhandlungen werden zum positiven abschluss geführt
+- 15.12.1978: jimmy carter verkündigt aufnahme diplomatischer beziehungen USA und Chinas
+- dise sind 1949 unterbrochen worden und sether gab es keine offiziellen beziehungen zwischen den usa und china
+- nach fast 30 jahren fehlendem kontakts in diplomatie und wirtschaft jetzt wieder aufnahme von beziehungen
+- 1979 erster besuch von hochrangigem chinesen in die usa. deng xiuaoping auf mehrwöchiger reise in die staaten
+- signale: zieht texashut undso auf. cowboyhut. millionen von menschen in china als signal und aufbruch verstanden. "es ist ok sich der westlichen kultur und dem westlichen und amerikanischen lebensstil zuwenden.
+- deng war beeindruckt vom besuch
+- sieht dort forschritt in technologie, produktivität und lebensstandards
+- als er von reise zurückkam, angeblich tagelang und nächte nich schlafen da er überlegt hat wie china an diesen stand jemals kommen kann. (source? lol)
+
+bedeutet frü doe cinesische bevlkerung sich dem westen zuzuwenden.
+
+Die Beizhungen zu Japan
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+**Leitfragen:**
+~~~~~~~~~~~~~~~
+
+**Was waren die Kernelemente der Reform- und Öffnungspolitik?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Wie lässt sich der Ansatz am besten charakterisieren?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Vorlesung 6.3: Der Beginn der Ära Deng Xiaoping
 -----------------------------------------------
