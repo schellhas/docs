@@ -100,19 +100,28 @@ Ohne Veränderungen in der Welt wäre die Öffnung Chinas nur schwer möglich ge
 
 Abbildung: Wachstumskurve Chinas, wäre nicht möglich gewesen ohne günstige globale Umstände
 
-Leitfragen:
-~~~~~~~~~~~
+**Leitfragen:**
+~~~~~~~~~~~~~~~
 
-Inwieweit begünstigten die globalen Veränderungen die Einleitung der Reformpolitik?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Inwieweit begünstigten die globalen Veränderungen die Einleitung der Reformpolitik?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- Durch Wirtschafskrise in 70ern waren Investitionen in Westen und Ostasien unprofitabler
+- China im Gegensatz unerschlossen und unterentwickelt -> sehr attraktiv
+    - Außerdem Zugang über "verwestlichtes" Hongkong
+- Durch sowjetische Versagen war ein "Konkurrent" weniger
+- Durch neoliberalismus mehr Hinwendung zu deregulierten und freien Märkten
+- sozialistische Ideen werden vor allem auch wirtschaftlich kritisiert
 
+**Welche Rolle spielte das "strategische Dreieck"?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Welche Rolle spielte das "strategische Dreieck"?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Die sowjetische Machtstellung wird durch die chinesisch-amerikanische Zusammenarbeit geschwächt, wodurch China zum drittwichtigsten Akteur der Weltpolitik wird, obwohl China arm und militärisch schwach ist. China hat mehr Einfluss als die innere Situation eigentlich "hergibt". Dadurch muss China auch keine Angriffe der USA oder Sowjetunion fürchten und hat mehr Zugang zu wirtschaftlichen Märkten des Westens.
 
 Vorlesung 6.2: China nach Maos Tod
 ----------------------------------
+
+
 
 Vorlesung 6.3: Der Beginn der Ära Deng Xiaoping
 -----------------------------------------------
