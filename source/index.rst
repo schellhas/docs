@@ -32,6 +32,8 @@ Everything is written by hand, sometimes AI-corrected in terms of typos, grammar
 	os/index
 	computer_networks/index
 	information_security/index
+	distributed_systems/index
+	computer_architecture/index
 
 .. toctree::
 	:maxdepth: 1
