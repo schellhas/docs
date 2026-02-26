@@ -33,4 +33,3 @@ The root directory and internet communication in general can be decomposed in ei
 +-----------------------+ Host-to-network	|
 | 1: Physical		|			|
 +-----------------------+-----------------------+
-
