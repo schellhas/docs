@@ -13,7 +13,7 @@ The root directory and internet communication in general can be decomposed in ei
 | 7: Application	| Application		|
 +-----------------------+-----------------------+
 | 6: Presentation	|			|
-+-----------------------| Not present in model	|
++-----------------------+ Not present in model	|
 | 5: Session		|			|
 +-----------------------+-----------------------+
 | 4: Transport		| Transport		|
@@ -21,7 +21,7 @@ The root directory and internet communication in general can be decomposed in ei
 | 3: Network		| Internet		|
 +-----------------------+-----------------------+
 | 2: Data link		|			|
-+-----------------------| Host-to-network	|
++-----------------------+ Host-to-network	|
 | 1: Physical		|			|
 +-----------------------+-----------------------+
 
