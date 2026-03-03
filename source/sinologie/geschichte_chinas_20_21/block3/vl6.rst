@@ -292,3 +292,12 @@ Kernelemente:
 Vorlesung 6.3: Der Beginn der Ära Deng Xiaoping
 -----------------------------------------------
 
+Nachdem international und intern die Weichen gestellt wurden, kommt es zum Beginn der Ära Dengxiaoping. Diese ist durch Persönlichkeit und Stil Dengs geprägt, weshalb der Name zutreffend ist. Ähnlich wie Mao hat er eine Stellung die ihm eine große Macht und Einfluss verleiht. Von jetzt bis etwa Ende der 90er Jahre die Politik in China bestimmen, und dazu beitragen, dass neue Phase in der Entwicklung Chinas beginnt. Sein Einfluss auf China ist mindestens genau so groß wie der Maos und in gewisser Weise kann man sagen größer, denn die Veränderung der Lebensverhältnisse sind in keiner Weise zu vergleichen mit denen unter Mao.
+
+Deng Xiaopings Vormachtstellung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+**Leitfrage: Welche Leitideen standen hinter der Reform- und Öffnungspolitik Deng Xiaopings?*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
