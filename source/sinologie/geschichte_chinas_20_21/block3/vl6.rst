@@ -263,10 +263,32 @@ Natürlich die schwierigsten mit WW2 und Verhärtungen und Erbitterungen aus die
 **Was waren die Kernelemente der Reform- und Öffnungspolitik?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Anfang/Möglichkeit der Reform lag bei:
 
+1. Dengs *Gegenkampagne* zu Hua Guofengs "Zwei Alles"-Kampagne, welche besagte, allen Direktiven Maos weiter zu folgen. Deng antwortete mit "Befreit die Gedanken" und "Zerschlagt die Fesseln". Tabus der Vergangenheit sollten überwunden werden, reformierter und pragmatischerer.
+2. Auch im Volk wollten viele einen Umschwung da durch die Kulturrevolution alle mitgenommen wurden. Hoffnung auf Wandel, Wunsch nach Stabilität und Wohlstand.
+
+Kernelemente:
+
+1. Marktwirtschaft -> Deng war keinem System verschrieben, aber Planwirtschaft war kaum umsetzbar da Reste des Systems durch Kulturrevolution vernichtet waren
+2. Konzentration auf Leichtindustrie
+3. Flexibilisierung und Liberalisierung der Wirtschaftspolitik
+4. Öffnung nach Außen
+5. Schlagwort jiegui: "Gleise verbinden"
+6. Abbau internationaler Spannungen zugunste wirtschaftlicher Entwicklung
+7. Dengs Reise in die USA
+8. Beziehungen zu Japan
 
 **Wie lässt sich der Ansatz am besten charakterisieren?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- Pragmatisch
+- Reformiert
+- Mao-Fern
+- Marktorientiert
+- Liberaler
+- Globaler
+
 Vorlesung 6.3: Der Beginn der Ära Deng Xiaoping
 -----------------------------------------------
+
