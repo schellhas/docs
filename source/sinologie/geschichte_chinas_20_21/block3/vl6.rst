@@ -297,7 +297,101 @@ Nachdem international und intern die Weichen gestellt wurden, kommt es zum Begin
 Deng Xiaopings Vormachtstellung
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- 1978: Vormachtstellung Deng Xiaopings über das Militär und die radikalen Maoisten
+- Woher Vormachtstellung????????????ß
+- Deng hat viel Unterstützung in der Partei, da sie gelitten haben unter Mao und dem Militär und den radikalen Maoisten
+- Also unterstützen sie den Wandel
+- Wollen neuen Anfang
+- Offen für grundlegende Reform des Systems
+- Politisch wollen sie Wiederbelebung von Diskussions- und Entscheidungsprozessen
+- Offenere Diskussionen
+- Deng Xiaoping hat also breiten Konsens:
+	- Deeskalation
+	- politischen Pragmatismus
+	- Betonung der innerparteilichen Demokratie
 
+Trotz Betonung auf innerparteilicher Demokratie sollte der sozialistische Weg unter allen Umständen beibehalten werden. Grundlegendes Merkmal chinesischer Entwicklung. Bei gleichzeitigen Experimenten in Wirtschaft und innerparteilicher Diskussionskultur.
+
+Neues theoretisches Modell
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Neues Modell finden, was erlaubt und erklärt 2 Dinge zusammenzubringen, die laut marxistischer Theorie nicht zusammenpassen: Marktwirtschaft und Sozialismus. Sozialismus dient ja eigentlich dem Einführen der Planwirtschaft. China experimentiert, den sozialistischen Weg beizubehalten, aber wirtschaftlich zu liberalisieren. Diskussionen das umzusetzen beginnen 1977, laufen bis 1979. Hu Yaobang sticht hervor, will neues Denken. Artikel "theoretische Trends", wird in Medien verbreitet. Artikel hat Titel "Praxis ist das einzige Kriterium, um die Wahrheit zu prüfen". Damals ist es eine intellektuelle und geistige Revolution. Dieses Statement besagt, dass nicht Theorie (Marxismus) wichtig ist, sondern lediglich die Praxis. *Wenn etwas nicht funktioniert, kann es auch nicht theoretisch gerechtfertigt werden.* Wenn das wirtschaftliche System nicht funktioniert, kann es auch nicht den theoretischen Vorgaben entsprechen.
+
+Neues Modell:
+
+- Aufforderung, alles in der Praxis zu testen. Was dort nicht funktioniert, kann nicht für Sozialismus gut sein. Kann nicht im Sozialismus gerechtfertigt werden.
+
+Vier Modernisierungen
+~~~~~~~~~~~~~~~~~~~~~
+
+Diese Art von Denken erlaubt Aufnahme der vier Modernisierungen. Sind von Zhou Enlai bereits Anfang der 60er ins Spiel gebracht worden, von Mao schnell beendet.
+
+Vier Modernisierungen
+
+1. Landwirtschaft
+2. Industrie
+3. Wirtschaft/Technologie
+4. Landesverteidigung
+
+Entwicklung und Modernisierung in diesen Gebieten sollte zu Macht und Wohlstand führen.
+
+Dazu intensive Propaganda, Abbildung auf Slides. Wissenschaftler sind "Helden".
+
+Suche nach konkreten Lösungen verlangt neue Führung. Es wird neue Führungsriege installiert, die diese neue Politik vorantreiben kann.
+
+Bildung einer neuen Regierung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1978: 3. Plenum des 11. Zentralkomitees
+
+- Deng Xiaoping eröffnet es mit langer Rede, die einen großen Enthusiasmus in China hervorruft. In Rede fordert er dazu auf:
+	- Befreit die Gedanken
+	- Sucht die Wahrheit in den Tatsachen
+	- Vereinigt euch, um nach vorne zu schauen
+- "Wir lassen alle Schranken fallen"
+- Aufnahme von Reformen ins Politbüro
+	- Zhao Ziyang und Li Xiannian, beide sind glaubhaft reformpolitiker
+- Setzt Akzent auf Praxis, neues Denken
+- Wendepunkt, weg vom Mao, hin zu Wirtschaftsentwicklung
+- Deng wird klarer Leiter und Führer der Führung, eigentlich kein Rang
+- Kann jetzt offiziell Reform- und Öffnungspolitik beginnen
+
+Einführung neuer Regeln
+~~~~~~~~~~~~~~~~~~~~~~~
+
+super krank bedeutende Regeln:
+
+in Einparteiensystemen sehr selten: System etabliert, das zu regelmäßigem Austausch der Führung führt und Amtszeiten beschränkt. Sehr selten in 1-Partei-Systemen. Funktionäre können höchstens 15 Jahre in einem bestimmten Amt bleiben. Spitzenpositionen maximal 2x5 Jahre beschränkt. Präsident und Sekretär z. B. außerdem Spitzenpositionen: 55-72 Jahre. Dadurch regelmäßiger Austausch der Führung nach ca. 10 Jahren.
+
+Neues theoretisches Modell
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bis dahin nur begründet, wieso pragmatisch nach neuen Kriterien suchen und wieso marxistische Vorgaben abzulehenen sind, und nicht, wie das neue Modell aussehen soll.
+
+- Sommer 1984: "Sozialismus mit chinesischen Eigenschaften" *zhongguo tese shehui zhuyi*
+
+	china versteht sich jetzt als Land des Sozialismus mit chinesischen Eigenschaften
+
+- Integration der Marktwirtschaft + Beibehaltung des Sozialismus
+- Einerseits: Durchführung umfassender Reformen in Industrie, Handel, Wissenschaft und Bildung
+- Andererseits: Erhaltung von Parteiherrschaft und Loyalität zu den sozialistischen Werten.
+
+das bedeutet das.
+
+Mit chinesischen Eigenschaften: entspricht spezifischen Bedingungen Chinas.
+
+Sozialismus musste angepasst werden, um diesen Bedingungen/Bedürfnissen eines Entwicklungslandes gerecht zu werden.
+
+"Frühphase des Sozialismus"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- "Frühphase des Sozialismus" ist im Wesentlichen eine Theorie, die auf Zhao Ziyang zurückzuführen ist: "Planen sollte nicht mehr grundlegend sein", sondern Hinwendung zur Marktwirtschaft im Grunde soll grundlegend und dauerhaft sein
+- Vier grundlegende Prinzipien (*si xiang jiben yuanze*)
+	a. der sozialistische Weg
+	b. die Führung der Kommunistischen Partei
+	c. die Grundlage von Marxismus-Leninismus-Maoismus
+	d. die Grundlage der Diktatur des Proletariats
+- diese vier Prinzipien definieren jetzt, was der Sozialismus ist. Darüber hinaus in Wirtschaft, Gesellschaft oder Kultur kann Veränderung zugelassen werden. Liberalisierung ist hier möglich. Sozialismus mit chinesischen Eigenschaften bedeutet also: Beibehaltung der Führung der KPCh, aber unter Voraussetzung, dass diese Führung garantiert wird, ist eine weitgehende Liberalisierung in anderen gesellschaftlichen Nebereichen wie z. B. Wirtschaft und gesellschaftlicher Aufbau und Kultur, möglich. Dieses Konzept des Sozialismus mit chinesischen Eigenheiten das bis heute die theoretische Basis der Entwicklung Chinas darstellt.
 
 **Leitfrage: Welche Leitideen standen hinter der Reform- und Öffnungspolitik Deng Xiaopings?*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
