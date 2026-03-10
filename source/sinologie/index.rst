@@ -8,10 +8,16 @@ Geschichte Chinas im 20. und 21. Jahrhundert
 	:maxdepth: 3
 	:caption: Vorlesung
 
-	geschichte_chinas_20_21/vorlesung/index
+	geschichte_chinas_20_21/vorlesung/block1
+	geschichte_chinas_20_21/vorlesung/block2
+	geschichte_chinas_20_21/vorlesung/block3
+	geschichte_chinas_20_21/vorlesung/block4
 
 .. toctree::
 	:maxdepth: 3
 	:caption: Klausur
 
-	geschichte_chinas_20_21/klausur/index
+	geschichte_chinas_20_21/klausur/block1
+	geschichte_chinas_20_21/klausur/block2
+	geschichte_chinas_20_21/klausur/block3
+	geschichte_chinas_20_21/klausur/block4
