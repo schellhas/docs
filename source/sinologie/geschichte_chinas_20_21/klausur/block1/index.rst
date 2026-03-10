@@ -21,3 +21,6 @@ Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Masse
 
 Leitfragen
 ----------
+
+1.1: Welchen Regierungsansatz verfolgte die Kommunistische Partei nach 1949?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
