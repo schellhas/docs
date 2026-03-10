@@ -28,7 +28,21 @@ Durch diese Initiativen und Reformen sollte grundlegende Neuorganisation des tä
 Vorgeschichte
 ~~~~~~~~~~~~~
 
-die KP China ist 1921 gegründet worden. nach ihrer gründung in 3 jahrzehnte währenden kampf gegen nationalistische partei chinas. diese geführt von Chiang Kai-shek. regierte china von etwas 1928 bis 1949. vor 1928 war das land ineinem lämgerem bürgerkrieg - "warlords". 
+Die KP China ist 1921 gegründet worden. Nach ihrer Gründung in 3 Jahrzehnte währenden Kampf gegen nationalistische Partei Chinas. Diese geführt von Chiang Kai-shek. Regierte China von etwa 1928 bis 1949. Vor 1928 war das Land in einem längerem Bürgerkrieg - "Warlords". Kommunistische Partei also 3 Jahrzehnte Kampf gegen Guomindang. Während dieses Kriegs hat KPCh ihre Posiitonen und Haltungen geändert. Am Anfang sehr radikal, im Laufe der 40er zu einer Mäßigung, Moderation und Pragmatismus übergegangen. Pragmatismus wichtig für Politik der KPCh.  
+
+Anstatt radikaler politischer Initiativen (politische Diktatur, sofortige Abschaffung von Privateigentum, Kollektivierung), versprach die KPCh eine "Neue Demokratie". War ein Programm/Theorie.
+
+Das hieß, man sucht Zusammenarbeit mit politischen Gruppierungen, die es in China zu dieser Zeit gab. (Viele zw. Extremen der Kommunisten und Nationalisten).
+
+Laut Mao ist Neue Demokratie:
+
+.. epigraph::
+        
+        Die Basis der demokratischen Diktatur des Volkes ist das Bündnis der Arbeiterklasse, der Bauernschaft und des städtischen Kleinbürgertums, in erster Linie aber das Bündnis zwischen der Arbeiterklasse und der Bauernschaft (...). Der Übergang von der Neuen Demokratie zum Sozialismus hängt vor allem vom Bündnis dieser beiden Klassen ab.
+
+        -- **Mao Zedong** über die demokratische Diktatur des Volkes, 1949
+
+ 
 
 **Leitfrage: Welchen Regierungsansatz verfolgte die Kommunistische Partei nach 1949?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
