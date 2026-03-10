@@ -1,5 +1,5 @@
-Klausur
-=======
+Vorlesung
+=========
 
 .. toctree::
 	:maxdepth: 2
