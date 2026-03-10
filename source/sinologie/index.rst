@@ -9,3 +9,4 @@ Sinologie
 	geschichte_chinas_20_21/block2/index
 	geschichte_chinas_20_21/block3/index
 	geschichte_chinas_20_21/block4/index
+	geschichte_chinas_20_21/klausur/index
