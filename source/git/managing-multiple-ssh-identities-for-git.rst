@@ -1,8 +1,8 @@
 Managing multiple SSH identities for Git
 ========================================
 
-.. note::
-	Whole site is written by AI (but checked by me)
+.. warning::
+	Using this method requires you to clone repos in a different way. See :ref:`cloning`.
 
 Step 1: Generate ed25519 SSH keys for each account
 --------------------------------------------------
@@ -108,8 +108,10 @@ Expected output:
 
 	Hi username! You've successfully authenticated, but GitHub/GitLab does not provide shell access.
 
+.. _cloning:
+
 Step 6: Clone repositories using the SSH host aliases
-------------------------------------------------------
+-----------------------------------------------------
 
 Use the `Host` alias you defined in `~/.ssh/config` instead of the raw domain.
 
