@@ -206,3 +206,175 @@ Konsolidierung der Städte als Regierungsansatz
 
 Vorlesung 1.3: China und der Kalte Krieg
 ----------------------------------------
+
+Der Kalte Krieg spielt für Chinsa entwicklung in den 50ern eine große rolle. china nimmt seit ende des 19. jh. schon wichtige position in internationalen angelegenheiten ein. reihe internationaler staaten die in china auch große rolle spielen. naütrlihc usa, uk, frankreich, deutschland und russland. während des kalten krieges spitzt sich situatiuon zu. in dieser phase ist innere und äußere entwicklung/konflikte eng miteinander verwoben. 2 poster: internaitonale beziehungen und kooperation in dieser phase für die entwicklung in china spielen. china sucht engen schulterschluss, vor allem mit sovjetunion.
+
+Gründe für diese Wahl
+~~~~~~~~~~~~~~~~~~~~~
+
+- Mao (1949): festen überzeugung, dass china sich entscheiden muss, china muss klares bündnis mit staaten und organisationen finden die chinas ggüber freundlich sind. ostblock also.
+        - offizielle allianz mit sowjetunion
+- wahl auch, weil in westen viel antikommunismus ist
+- poster: 1951 anti kommunismsu psoter
+- eindämmung von kommunismus in westen immer wichtiger
+- für china wahl klar: sovjetunion.
+
+sozialistische waffenbrüder
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- unterzeochnung offiziellen bündnispakts 14. februat 1950
+- sovjetunion sichert militärische und zivile unterstützung chinas
+- unterzeichnung (3-4 monate nach gründung chinas), erheblich für entwicklung in china
+- führt dazu, dass vile institutionen und entiwcklungsmuster aus sowjetunion und osteuropa nach china erfolgt
+- china muss preis zahleN: stimmt unanbhängigkeit der äußeren mongolei zu. war eig teil von china kaiserreich.
+- zustimmung chinas ist bedeutsam, denn einziger territoriale verlust den china im 20. jh. dauerhaft erleidet.
+- auch vergabe eines 300 millionen kredits für wirtschaft chinas
+- fünfjähriger kredit
+- verwendung: 50 industrie. und infrastrukturprojekte, vor allem schwerindustrie, verteidigungsindustrie und energieerzeugung (schlüsselindustrien)
+
+kooperationsbeziehungen
+~~~~~~~~~~~~~~~~~~~~~~~
+
+- damit ist china teil eines gorßen internationalen netzwerks von kooperationsbeziehungen mit sozialistischem teil der welt
+- weltkarte: kommunistische länder
+- osten und westen konkurrieren
+- osten: planwirtschaft, einparteiensysteme, kommunismus
+- westen: marktwirtschaft, demokratie oder militärdiktaturen
+- china sichert dadurch erhebliche unterstüztung
+
+das sowjetische modell
+~~~~~~~~~~~~~~~~~~~~~~
+
+sehr umfassen und weit..
+
+- stadtplanung
+- bodenreformen (ladnreformen)
+- universitäten
+- wirtschaftsmodelle
+- propaganda
+- geheimdienstarbeit
+- propagandaposter: lerne von sowjetunion und von ihrer industrialisierung
+- bei genauerer betrachtung: gibt nicht DAS sowjet modell.
+- es gibt mindestens 3 phasen/modelle
+        1. lenins neue ökonomische politik, 1921-1927
+                - relativ liberal in wirtschaft gesellschaft und kultur
+                - längere übergangsphase hin zum kommunismus
+                - also pragmatisch pluralismus zulassen
+        2. revolutionärer stalinismus, 1929-1934
+                - schneller wandel von wirtscahft und gesellschaft
+        3. bürokratischer stalinismus, ab 1940
+                - rigide zentrale planung
+                - aber bürokratisch und konsolidiert, regelhaft
+- china orientiert sich an sowjets, abern icht klar an welchem model
+- china wählt pragmatisch vershciedene aspekte aller modelle
+- umfangreicher transfer von wisssen und technologie
+
+sowjetische berater in china
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- rund 10k von 1953-1957
+- tätig in:
+        - ministerien
+        - provinz- und regionalregierungen
+        - industrieunternehmen
+        - gerichtne
+        - militär
+- systematischer transfer von ausländischem wissen, technologie, expertise den china je erlebt hat
+- wichtigste merkmale:
+        - landreform
+        - bildung
+        - stadtplanung
+        - unis
+        - industrie
+- propagandaposter: ingenieurwesen hat sowjets einfluss. auch architektur und kunst. städte im grunde nach sowjetvorbild
+
+militärische auseinandersetzungen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+mit bündnis mit sowjets, wurde china auch in militräische auseinandersetzung zw westen und osten
+
+- erbitterter kampf gegen imperialismus und kapitalismus, laut chinesischem bild
+- galt also auch der gegenseitigen verteidigung
+- unterstützung nordkoreas im koreakrieg 1950-1953
+- unter westlichen historikern umstritten was chinas motivation war in krieg einzutreten
+- verschiedene positionen:
+        - china ist mit begeisterung und enthusiasmus
+        - china war eigentlich eher widerstrebend, wollte krieg nicht ,war nicht begeistert
+
+koreakrieg 1950-1953
+~~~~~~~~~~~~~~~~~~~~
+
+- januar 1950:
+        - mao ist in moskau zur unterschreibung von vertrag
+        - mao trifft stalin
+        - beide betonen entschlossen heit nordkorea zu unterstützen
+        - mao hierzu bereit, ist klar
+        - im mao 1950: kim informiert mao über zustimmung der sowjets eine einigung koreas voranzutreiben
+        - hier sehen wir: mao war sehr vorsichtig. er sagt "ok wenns krieg gibt, werden wir supporten", aber rät kim ab selbst aktiv zu werden
+        - warum ist mao zurückhaltend?
+                - china ist in schwerer situation
+                - noch nicht vollständige kontrolle über land
+                - mao will keinen weiteren konflikt militärisch
+- juni 1950:
+        - kim marschiert ein
+        - ziemlich sicher mit stalins billigung, gegen maos rat
+        - nordkorea sticht vor und ist siegreich, südkorea bis fast in süden des landes zurück
+        - vereinte nationen erklären sich zur unterstützung südkoreas bereit
+        - vereinte nationen bitten usa offiziell um unterstützung
+        - mit usa joining, kassiert nordkorea
+        - rücken auf 38. breitengrad vor
+        - beginnen diesen zu überschreiten
+        - starten vormarsch richtung china
+        - dadurch tritt china ein
+        - aber nicht etwa ohne langes zögern
+        - sondern tun sich sehr sehr schwer
+- 2. oktober 1950:
+        - mao informiert stalin dass er nicht genügen truppen für korea hat
+        - stalin: sehr kranke drohungen
+                - sagt mao er soll drüber nachdenken was passiert
+                - wenn usa unmittelbar an grenze stehen
+                - china kann nicht mit sowjethilfe rechnen
+                - wenn china nicht aktiv, wird china von usa angegriffen
+                - dann wird sowjet wenig für sie tun können
+        - chinesiche regierung ist unter drukc, entscheidet "freiwillige" nach korea zu senden
+- 25. oktober 1950:
+        - unter peng dehuai erste kampfhandlungen
+        - reguläre soldaten werden freiwillige genannt
+        - zuänchst siegreich
+        - aber als sie zu vehement auf eine entscheidungsschlacht drängen, schwere niederlagen
+        - kommt zum stellungskrieg bis tod stalins 1953
+        - dann sehr schnell verhandlungen
+- peng dehuai ist führer der chinesischen freiwilligen truppen
+- im wesentlichen für anfängliche siege verantwortlich
+
+preis des koreakriegs
+~~~~~~~~~~~~~~~~~~~~~
+
+- ressourcen, die zum wiederaufbau nötig waren wurden für krieg benutzt
+- 1951: 55% des haushalts auf krieg in nordkorea verwendet
+- getreide, fleisch, baumwolle, an freiwillge armee in korea
+- statt an leidende bevölkerung in china
+
+
+.. list-table:: Koreakrieg Opfer
+        :header-rows: 1
+
+        * - Land
+          - Opfer
+        * - Nordkorea
+          - 2,5 Mio. Tote
+        * - Südkorea
+          - 1 Mio. Tote
+        * - China
+          - 1 Mio. tote Soldaten
+        * - USA
+          - 50k tote & 100k verwundete
+
+**Leitfragen**
+~~~~~~~~~~~~~~
+
+**was waren die Ursachen für den Eintritt Chinas in den Koreakrieg?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Was waren die Folgen des Koreakriegs für China?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
