@@ -3,7 +3,7 @@ Docs
 
 These documents serve for everything I've had to lookup twice, everything I still want to learn, and some stuff for the sake of completeness.
 
-Everything is written by hand, sometimes AI-corrected in terms of typos, grammar and readability.
+Everything is written by hand. Sometimes AI corrected typos, grammar and readability, but never contents.
 
 .. toctree::
 	:maxdepth: 1
