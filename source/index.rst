@@ -15,6 +15,7 @@ Everything is written by hand, sometimes AI-corrected in terms of typos, grammar
 	cpp/index
 	haskell/index
 	rust/index
+	kotlin/index
 
 .. toctree::
 	:maxdepth: 1
