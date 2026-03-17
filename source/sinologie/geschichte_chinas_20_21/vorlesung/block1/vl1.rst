@@ -42,7 +42,131 @@ Laut Mao ist Neue Demokratie:
 
 	-- Mao Zedong über die demokratische Diktatur des Volkes, 1949
 
+Vorgeschichte: Neue Demokratie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Zusammenarbeiten mit versch. polit. Gruppierungen
+- Bündnis der Klassen (insbesondere Arbeiter und Bauern), zusammen mit Unternehmern, Bürgertum etc.
+- Das ist Konzept, das China in 40er Jahren bestimmt
+
+Zweite Einheitsfront (1937-1945)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- KPCh und GMD arbeiteten zusammen im Angesicht der japanischen Bedrohung (nationale Interessen standen im Vordergrund)
+- Bündnis zw. den beiden Gruppierungen war voll Widerwilligkeit
+- Beide politische Gruppierungen misstrauten sich
+- Zusammenarbeit/Allianz war reines Zweckbündnis
+- 1945 bricht die Einheitsfront auseinander
+- Mündet sofort in bitterem Bürgerkrieg mit allen Mitteln
+- Viele Verfolgungen gegenseitig
+
+Beziehung zur Sowjetunion
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Seit den 30er Jahren wichtige Rolle in China
+- Auch Allianz von KPCh zu Sowjets ist eher Misstrauen und widerwillig geprägt
+- Stalin traut KPCh nicht
+- Vermutet, sie sind eher nationalistisch
+- Die internationalistischen Ideal vom Kommunismus eher fern ist
+- Meint auch, die checken nix von Marxismus
+- "Nationalismus zugeneigt" bezeichnet
+- Sowjets leisten trz. Beistand; ist zögerlich, widerwillig, an Bedingungen geknüpft
+- Stalin und Mao treffen sich einmal 1949 zu Stalins 71. Geburtstag
+- Besuch läuft nicht gut
+- Mao verärgert über Besuch, Stalin hat ihn nicht richtig behandelt
+- Keine guten Beziehungen
+- Trotzdem: Support von Sowjets ist von großer Bedeutung für chinesischen Bürgerkrieg
+- KPCh hätte nicht ohne Sowjets Bürgerkrieg ohne wesentliche Unterstützung von Sowjets
+- Also wichtiger Faktor für den Win über GMD
+- Anderer wichtiger Faktor: Zerfall der nationalistischen Partei
+- Innerhalb der Partei (nationalistische): viele Kämpfe zw. Gruppierungen/Fraktionen, viele militärische Führer, die der Partei den Rücken kehren, die zur kommunistischen Partei übergehen
+- GMD Partei ist kriegsmüde, erschöpft, auch hohe Inflation, Soldaten, die oft monatelang keinen Sold bekommen, kaum kampfbereit
+- Durch Zerfall der GMD kommt KPCh auch zum Sieg
+- GMD zieht sich nach Taiwan zurück
+
+Militärischer Sieg der KPCh
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 2 Faktoren: Unterstützung Sowjets, Zerfall der GMD -> into Win
+- KPCh nicht auf Welle der Begeisterung zum Sieg getragen oder Enthusiasmus!
+- Die Begeisterung der Bevölkerung in Bezug auf Kommunismus ist sehr begrenzt
+- Chinesische Bevölkerung kennt KPCh teilweise nicht (Lehren, Theorien, Ziele, Kommunismus, wenig Infos in chinesischer Bevölkerung)
+- Bevölkerung betrachtet KPCh mit Neugier und Interesse
+- Wie komplex Ausgangslage:
+    - Chinas großes Land
+    - Große eines Kontinents
+    - Damals ca. 540 Mio Einwohner
+    - Hochkomplex mit Vielfalt von Sprachen und Kulturen, versch. Ethnien
+    - Außerdem sehr fragmentiert
+        - Teils KPCh beherrscht (eher im Norden), im Süden hat KPCh nie Basis gehabt (später noch wichtig)
+        - Viel von Japan besetzt, ganz spezifische eigene Politik durchgezogen
+        - Großteil von GMD besetzt (Osten, Westen)
+    - Von ganz verschiedenen politischen Kräften regiert, Entwicklung daher in versch. Regionen unterschiedlich
+    - Flucht von GMD nach Taiwan: viele Flüchtlinge
+    - Große Truppen demobilisierter Soldaten, die durch China streifen
+    - Ausgangslage also komplex
+    - Fragmentiert
+    - Zusammenbruch der Kontrolle
+
+Soziale, infrastrukturelle und wirtschaftliche Probleme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Landwirtschaft ist ruiniert von Krieg
+- Märkte nicht mehr beliefert (Infrastruktur gone)
+- Hohe Inflation (großes Problem der Realeinkommen)
+- Viele Gruppen der städtischen Bevölkerung an- oder unter Existenzminimum
+- Auch: Tatsache, dass KPCh relativ klein (4,5 Mio Mitglieder ist 541 Mio Chinesen gegenüber)
+    - Reicht nicht aus, um Lokalregierungen mit Personal auszustatten
+    - Auch in Zentralregierung viele Positionen offen und nicht besetzbar, unmöglich
+- Angesichts dieser großen Herausforderungen: KPCh geht pragmatisch vor
+- Entwickelt Regierungsansatz, der auf schrittweise Veränderung der bestehenden gesell. Strukturen abzielt
+
+Regierungsansätze: Schrittweiser Wandel gesellschaftlicher Strukturen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- KPCh sucht Kooperation mit bestehenden Parteikomitees und bestehenden Strukturen in Dorfgemeinschaften
+    - Etwa geprägt von Kaufleuten, reichen Bauern, Großgrundbesitzern, Gebildeten (lokale Elite)
+    - Diese Gruppen sollten in Därfern bleiben, KPCh sucht Zusammenarbeit mit ihnen
+- Auch Zusammenarbeit mit religiösen Institutionen
+    - Templern
+- In Städten:
+    - Mit vorhandenen Strukturen arbeiten
+    - Transportarbeitern
+    - Kanalschleppern
+    - Dreiradfahrern
+    - Oft in Gilden organisiert: KPCh nutzt diese als Partner, um in Regierung mit einzubeziehen
+- Man fördert also Strukturen und Organisationen und geht langsam in die Veränderungen in der Gesellschaft rein
+
+In ersten Jahren, 1949:
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Regierungsansätze: Experimente und Versuchsreihen
+
+- Stufenweise
+- Unterschiedliche Geschwindigkeiten
+- Einige Regionen erstmal ausgelassen
+- Andere schneller
+- Im Süden: sehr langsam
+- Zielen auf schrittweise Veränderung gesellschft. Strukturen
+- Mit existierenden Institutionen und Strukturen um Massen zu Beteiligung ermutigen -> Propaganda
+- Versuchen Bevölkerung zu mobilisieren und hinter Regierung zu kriegen
+- Für Ziele der Regierung begeistern
+- Propaganda am Anfang also sehr wichtig, um Volk für sich zu gewinnen (viele Propagandaposter aus dieser Zeit)
+
+- Lokale Initiativen
+- Kooperation der Massen
+- Regierung motiviert in Fabriken/Tempeln, um am Aufbau des Landes zu beteiligen
+- "Patriotische Produktion"
+- Pragmatisches Konfliktmanagement
+- Wert lokaler Initiativen wird betont
+
+- Pragmatismus und schrittweise wichtig, weil:
+- Unterschied zu Sowjets und Osteuropa
+- Dort war revolutionärer Bruch
+- Lokale Machthaber und gesell. Gruppen ausgeschaltet/verhaftet und komplett neu ersetzt
+- Das in China nicht gemacht
+- Nach 1949 für erste Jahre (!) erstmal so wie es ist und arbeiten langsam und behutsam mit lokalen Strukturen
+- Veränderungen graduell und langsam
 
 **Leitfrage: Welchen Regierungsansatz verfolgte die Kommunistische Partei nach 1949?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
