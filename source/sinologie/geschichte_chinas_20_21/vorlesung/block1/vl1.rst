@@ -37,10 +37,10 @@ Das hieß, man sucht Zusammenarbeit mit politischen Gruppierungen, die es in Chi
 Laut Mao ist Neue Demokratie:
 
 .. epigraph::
-        
-        Die Basis der demokratischen Diktatur des Volkes ist das Bündnis der Arbeiterklasse, der Bauernschaft und des städtischen Kleinbürgertums, in erster Linie aber das Bündnis zwischen der Arbeiterklasse und der Bauernschaft (...). Der Übergang von der Neuen Demokratie zum Sozialismus hängt vor allem vom Bündnis dieser beiden Klassen ab.
+	
+	Die Basis der demokratischen Diktatur des Volkes ist das Bündnis der Arbeiterklasse, der Bauernschaft und des städtischen Kleinbürgertums, in erster Linie aber das Bündnis zwischen der Arbeiterklasse und der Bauernschaft (...). Der Übergang von der Neuen Demokratie zum Sozialismus hängt vor allem vom Bündnis dieser beiden Klassen ab.
 
-        -- Mao Zedong über die demokratische Diktatur des Volkes, 1949
+	-- Mao Zedong über die demokratische Diktatur des Volkes, 1949
 
 
 
@@ -71,10 +71,10 @@ China folgte einer Doppelstrategie.
 1. Organe der politischen Macht der Guomindang sollten ihrer Macht enthoben werden und von KPCh-Organe ersetzt werden
    z.B. Regierungsstellen, Polizei, Finanzämter, etc.
 2. Wirtschaftseinheiten
-        - Fabriken
-        - Geschäfte
-        - Transportunternehmen
-        - Sollten in ihrer existierenden Form weiterfunktionieren
+	- Fabriken
+	- Geschäfte
+	- Transportunternehmen
+	- Sollten in ihrer existierenden Form weiterfunktionieren
 
 Wirtschaftsaufnahme der Produktion im Vordergrund, sollten so wie sie waren weiterbetrieben werden
 
@@ -118,11 +118,11 @@ Städtische Kriminalität
 
 - uneingeschränkte Macht der Polizei
 - Razzien gegen:
-        - Gelegenheitsdiebe
-        - Prostituierte
-        - Zuhälter
-        - Drogenhändler
-        - Vagabunden und Spekulanten
+	- Gelegenheitsdiebe
+	- Prostituierte
+	- Zuhälter
+	- Drogenhändler
+	- Vagabunden und Spekulanten
 - all diese Gruppen wurden unterdrückt, da Herausforderung und Bedrohung für Wiederherstellung der Ordnung
 - Darstellung: Umerziehungsheim für Prostituierte in ehemaligem Bordell
 - Diebe und Diebesbanden, Zuhälter, Prostitution weitgehend verschwunden
@@ -133,8 +133,8 @@ Soziale Reformen
 ~~~~~~~~~~~~~~~~
 
 - Beseitigung traditioneller Laster
-        - Prostitution, Drogenkonsum, Glücksspiel
-        - Kampf gegen Opium als Symbol der jahrhundertelangen Unterdrückung angeschaltet
+	- Prostitution, Drogenkonsum, Glücksspiel
+	- Kampf gegen Opium als Symbol der jahrhundertelangen Unterdrückung angeschaltet
 - Opiumhändler: Exekution
 - Straßendealer: Umerziehung
 - Abhängige: Umerziehung
@@ -145,17 +145,17 @@ Reorganisation der Gesellschaft
 KPCh war Auffassung, soziale Verhältnisse in Städten neu organisieren und konfigurieren. in dieser Neuorganisation der Gesellschaft eine wesentliche Chance für die Partei lag, weit in die Gesellschaft vorzudringen. nach eigenen Vorstellungen umgestalten.
 
 - Vereinigungen und Institutionen (Schulen, Waisenhäuser, Altenheime, etc.) direkt unter Kontrolle der KPCh gebracht
-        - als nützlich und wichtig empfunden
-        - durch KP-nahe Kontrolle gebracht
+	- als nützlich und wichtig empfunden
+	- durch KP-nahe Kontrolle gebracht
 - religiöse Sekten und Geheimgesellschaften, die in Städten sehr verbreitet waren, von KPCh stark unterdrückt
 - haben ca. 40% der meist männlichen Bevölkerung organisiert, jahrhundertelange Tradition
-        - hatten in Stadt wichtige Strukturen, Solidarität und Netzwerke, die sich gegenseitig halfen
-        - "Bruderschaftsgeist"
-        - wurden als feudal und abergläubisch klassifiziert
-        - Propagandaposter: KPCh hat sie als Bedrohung dargestellt und empfunden
-        - in Städten Chinas keine Gruppe so konsequent und radikal bekämpft worden wie diese
-        - Grund ist klar: KPCh sah diese als Konkurrenz, wollte selbst Solidaritätsorganisation sein für die Armen und wollte keine konkurrierenden Strukturen neben sich
-        - daher der konsequente Kampf gegen die Geheimgesellschaften, eine der Strukturen der städtischen Gesellschaft verschwindet damit
+	- hatten in Stadt wichtige Strukturen, Solidarität und Netzwerke, die sich gegenseitig halfen
+	- "Bruderschaftsgeist"
+	- wurden als feudal und abergläubisch klassifiziert
+	- Propagandaposter: KPCh hat sie als Bedrohung dargestellt und empfunden
+	- in Städten Chinas keine Gruppe so konsequent und radikal bekämpft worden wie diese
+	- Grund ist klar: KPCh sah diese als Konkurrenz, wollte selbst Solidaritätsorganisation sein für die Armen und wollte keine konkurrierenden Strukturen neben sich
+	- daher der konsequente Kampf gegen die Geheimgesellschaften, eine der Strukturen der städtischen Gesellschaft verschwindet damit
 
 Ausländische Organisationen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -200,9 +200,12 @@ Konsolidierung der Städte als Regierungsansatz
 - Partei sehr pragmatisch
 - graduell vorgegangen und Übernahme
 - vorhandene Institutionen und Organisationen
-        - Zusammenarbeit, um essentielle Dienstleistungen zu gewährleisten
-        - Schließung als feindlich eingestufter Institutionen
+	- Zusammenarbeit, um essentielle Dienstleistungen zu gewährleisten
+	- Schließung als feindlich eingestufter Institutionen
 - Mobilisierung und Partizipation und freiwilliges Engagement der Bevölkerung (Erziehung und Propaganda)
+
+**Leitfrage: Welche Maßnahmen ergriff die Regierung nach der Machtübernahme, um die politische Situation zu stabilisieren und konsolidieren?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vorlesung 1.3: China und der Kalte Krieg
 ----------------------------------------
@@ -213,7 +216,7 @@ Gründe für diese Wahl
 ~~~~~~~~~~~~~~~~~~~~~
 
 - Mao (1949): festen überzeugung, dass china sich entscheiden muss, china muss klares bündnis mit staaten und organisationen finden die chinas ggüber freundlich sind. ostblock also.
-        - offizielle allianz mit sowjetunion
+	- offizielle allianz mit sowjetunion
 - wahl auch, weil in westen viel antikommunismus ist
 - poster: 1951 anti kommunismsu psoter
 - eindämmung von kommunismus in westen immer wichtiger
@@ -256,15 +259,15 @@ sehr umfassen und weit..
 - propagandaposter: lerne von sowjetunion und von ihrer industrialisierung
 - bei genauerer betrachtung: gibt nicht DAS sowjet modell.
 - es gibt mindestens 3 phasen/modelle
-        1. lenins neue ökonomische politik, 1921-1927
-                - relativ liberal in wirtschaft gesellschaft und kultur
-                - längere übergangsphase hin zum kommunismus
-                - also pragmatisch pluralismus zulassen
-        2. revolutionärer stalinismus, 1929-1934
-                - schneller wandel von wirtscahft und gesellschaft
-        3. bürokratischer stalinismus, ab 1940
-                - rigide zentrale planung
-                - aber bürokratisch und konsolidiert, regelhaft
+	1. lenins neue ökonomische politik, 1921-1927
+		- relativ liberal in wirtschaft gesellschaft und kultur
+		- längere übergangsphase hin zum kommunismus
+		- also pragmatisch pluralismus zulassen
+	2. revolutionärer stalinismus, 1929-1934
+		- schneller wandel von wirtscahft und gesellschaft
+	3. bürokratischer stalinismus, ab 1940
+		- rigide zentrale planung
+		- aber bürokratisch und konsolidiert, regelhaft
 - china orientiert sich an sowjets, abern icht klar an welchem model
 - china wählt pragmatisch vershciedene aspekte aller modelle
 - umfangreicher transfer von wisssen und technologie
@@ -274,18 +277,18 @@ sowjetische berater in china
 
 - rund 10k von 1953-1957
 - tätig in:
-        - ministerien
-        - provinz- und regionalregierungen
-        - industrieunternehmen
-        - gerichtne
-        - militär
+	- ministerien
+	- provinz- und regionalregierungen
+	- industrieunternehmen
+	- gerichtne
+	- militär
 - systematischer transfer von ausländischem wissen, technologie, expertise den china je erlebt hat
 - wichtigste merkmale:
-        - landreform
-        - bildung
-        - stadtplanung
-        - unis
-        - industrie
+	- landreform
+	- bildung
+	- stadtplanung
+	- unis
+	- industrie
 - propagandaposter: ingenieurwesen hat sowjets einfluss. auch architektur und kunst. städte im grunde nach sowjetvorbild
 
 militärische auseinandersetzungen
@@ -298,52 +301,52 @@ mit bündnis mit sowjets, wurde china auch in militräische auseinandersetzung z
 - unterstützung nordkoreas im koreakrieg 1950-1953
 - unter westlichen historikern umstritten was chinas motivation war in krieg einzutreten
 - verschiedene positionen:
-        - china ist mit begeisterung und enthusiasmus
-        - china war eigentlich eher widerstrebend, wollte krieg nicht ,war nicht begeistert
+	- china ist mit begeisterung und enthusiasmus
+	- china war eigentlich eher widerstrebend, wollte krieg nicht ,war nicht begeistert
 
 koreakrieg 1950-1953
 ~~~~~~~~~~~~~~~~~~~~
 
 - januar 1950:
-        - mao ist in moskau zur unterschreibung von vertrag
-        - mao trifft stalin
-        - beide betonen entschlossen heit nordkorea zu unterstützen
-        - mao hierzu bereit, ist klar
-        - im mao 1950: kim informiert mao über zustimmung der sowjets eine einigung koreas voranzutreiben
-        - hier sehen wir: mao war sehr vorsichtig. er sagt "ok wenns krieg gibt, werden wir supporten", aber rät kim ab selbst aktiv zu werden
-        - warum ist mao zurückhaltend?
-                - china ist in schwerer situation
-                - noch nicht vollständige kontrolle über land
-                - mao will keinen weiteren konflikt militärisch
+	- mao ist in moskau zur unterschreibung von vertrag
+	- mao trifft stalin
+	- beide betonen entschlossen heit nordkorea zu unterstützen
+	- mao hierzu bereit, ist klar
+	- im mao 1950: kim informiert mao über zustimmung der sowjets eine einigung koreas voranzutreiben
+	- hier sehen wir: mao war sehr vorsichtig. er sagt "ok wenns krieg gibt, werden wir supporten", aber rät kim ab selbst aktiv zu werden
+	- warum ist mao zurückhaltend?
+		- china ist in schwerer situation
+		- noch nicht vollständige kontrolle über land
+		- mao will keinen weiteren konflikt militärisch
 - juni 1950:
-        - kim marschiert ein
-        - ziemlich sicher mit stalins billigung, gegen maos rat
-        - nordkorea sticht vor und ist siegreich, südkorea bis fast in süden des landes zurück
-        - vereinte nationen erklären sich zur unterstützung südkoreas bereit
-        - vereinte nationen bitten usa offiziell um unterstützung
-        - mit usa joining, kassiert nordkorea
-        - rücken auf 38. breitengrad vor
-        - beginnen diesen zu überschreiten
-        - starten vormarsch richtung china
-        - dadurch tritt china ein
-        - aber nicht etwa ohne langes zögern
-        - sondern tun sich sehr sehr schwer
+	- kim marschiert ein
+	- ziemlich sicher mit stalins billigung, gegen maos rat
+	- nordkorea sticht vor und ist siegreich, südkorea bis fast in süden des landes zurück
+	- vereinte nationen erklären sich zur unterstützung südkoreas bereit
+	- vereinte nationen bitten usa offiziell um unterstützung
+	- mit usa joining, kassiert nordkorea
+	- rücken auf 38. breitengrad vor
+	- beginnen diesen zu überschreiten
+	- starten vormarsch richtung china
+	- dadurch tritt china ein
+	- aber nicht etwa ohne langes zögern
+	- sondern tun sich sehr sehr schwer
 - 2. oktober 1950:
-        - mao informiert stalin dass er nicht genügen truppen für korea hat
-        - stalin: sehr kranke drohungen
-                - sagt mao er soll drüber nachdenken was passiert
-                - wenn usa unmittelbar an grenze stehen
-                - china kann nicht mit sowjethilfe rechnen
-                - wenn china nicht aktiv, wird china von usa angegriffen
-                - dann wird sowjet wenig für sie tun können
-        - chinesiche regierung ist unter drukc, entscheidet "freiwillige" nach korea zu senden
+	- mao informiert stalin dass er nicht genügen truppen für korea hat
+	- stalin: sehr kranke drohungen
+		- sagt mao er soll drüber nachdenken was passiert
+		- wenn usa unmittelbar an grenze stehen
+		- china kann nicht mit sowjethilfe rechnen
+		- wenn china nicht aktiv, wird china von usa angegriffen
+		- dann wird sowjet wenig für sie tun können
+	- chinesiche regierung ist unter drukc, entscheidet "freiwillige" nach korea zu senden
 - 25. oktober 1950:
-        - unter peng dehuai erste kampfhandlungen
-        - reguläre soldaten werden freiwillige genannt
-        - zuänchst siegreich
-        - aber als sie zu vehement auf eine entscheidungsschlacht drängen, schwere niederlagen
-        - kommt zum stellungskrieg bis tod stalins 1953
-        - dann sehr schnell verhandlungen
+	- unter peng dehuai erste kampfhandlungen
+	- reguläre soldaten werden freiwillige genannt
+	- zuänchst siegreich
+	- aber als sie zu vehement auf eine entscheidungsschlacht drängen, schwere niederlagen
+	- kommt zum stellungskrieg bis tod stalins 1953
+	- dann sehr schnell verhandlungen
 - peng dehuai ist führer der chinesischen freiwilligen truppen
 - im wesentlichen für anfängliche siege verantwortlich
 
@@ -357,18 +360,47 @@ preis des koreakriegs
 
 
 .. list-table:: Koreakrieg Opfer
-        :header-rows: 1
+	:header-rows: 1
 
-        * - Land
-          - Opfer
-        * - Nordkorea
-          - 2,5 Mio. Tote
-        * - Südkorea
-          - 1 Mio. Tote
-        * - China
-          - 1 Mio. tote Soldaten
-        * - USA
-          - 50k tote & 100k verwundete
+	* - Land
+	  - Opfer
+	* - Nordkorea
+	  - 2,5 Mio. Tote
+	* - Südkorea
+	  - 1 Mio. Tote
+	* - China
+	  - 1 Mio. tote Soldaten
+	* - USA
+	  - 50k tote & 100k verwundete
+
+folgen des koreakriegs
+~~~~~~~~~~~~~~~~~~~~~~
+
+china hatte sich ja mit entscheidung einzutreten ja schwer getan, eher auf stalins drohung. folgen des krieges und ergebnisse waren aber eigetnlcih sehr positiv. kurzfristig, schwere und hohe kosten und verluste. aber langfristig?
+
+- china aufsteigende macht etabliert international
+- eins der wenigen länder nach 2. weltkrieg die truppen der usa niederlagen zugefügt hat
+- neben sowjetunion als sowas wie ne führungsmacht etabliert
+- hinsichtlich sicherung eigener grenzung und sicherung kommunistischer länder jetzt wichtig und stark
+- china eingetreten für unterstützung der nordvietnamesischen kommunistischen soldaten
+- stärkung eigener positionen für hcinesische regierung
+- nach innen udn auch nach außen
+- regierung dies geschafft hat mächtige usa in grenzen zu weisen
+
+innenpolitische folgen
+~~~~~~~~~~~~~~~~~~~~~~
+
+mit eintritt in koreakrieg begann:
+
+- gesellschaftsweite radikalisierung
+- konterrevolutionäre sollten unterdrückt werden "schützt unsere guten bedingungen" (propagandaposter)
+- hetzt auf pro-westliche im inland
+- länder die in den krieg ziehen oder mobilisieren, nach innen die sogenannten fiende und spione und konterrevolutionäre suchen und ausschalten
+- landreform beschleunigt durchgeführt
+	- vor allem mit dem ziel die nahrungsmittel für freiwilligenarmee zu kriegen
+- mit eintritt in koreakrieg verschärft sich situation in china
+- anfangs phase gezeichnet von pragmatismus
+- jetzt: mobilisierung, verstaatlichung, kollektivierung, und hetzte gegen konterrevolutionäre
 
 **Leitfragen**
 ~~~~~~~~~~~~~~
