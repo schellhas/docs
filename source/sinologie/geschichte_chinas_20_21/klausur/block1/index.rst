@@ -206,3 +206,48 @@ Das Spiel war ein Ankreuztest.
 	b. ``[ ]`` Etablierung als aufsteigende internationale Macht & Stärkung der Position der chinesischen Regierung nur nach Innen
 	c. ``[x]`` Etablierung als aufsteigende internationale Macht & Stärkung der Position der chinesischen Reigerung nach Innen und Außen
 	d. ``[ ]`` Etablierung als aufsteigende internationale Macht & freundschaftliche Beziehungen zu Südkorea
+
+2.1
+~~~
+
+Das erste Spiel war ein Zuordnungsspiel.
+
+- Mao Zedong war: *Staatspräsident der VRC*, *Vorsitzender der KPCh*
+- Zhou Enlai war: *Leiter des Staatsrates*, *Premierminister*
+- Liu Shaoqi war: *Virstzender des ständigen Ausschusses des NVK*
+
+Im zweiten Spiel musste man 4 Dinge in die richtige Reihenfolge bringen.
+
+"Wie gestaltet sich die Regierungsstruktur in China bis heute? Bringen Sie die Regierungsstruktur Chinas in die richtige Reihenfolge!"
+
+1. Politbüro mit Ständigem Ausschuss
+2. Zentralkomitee (ZK)
+3. Parteikomitees auf Provinzebene mit Ständigem Ausschuss
+4. Fortsetzung auf kommunaler Ebene, Bezirks- und Kreisebene, Stadtbezirksebene ...
+
+2.2
+~~~
+
+Das erste nächste Spiel war Galgenmännchen xD
+
+Für welche Aufgaben waren die ab 1953 gegründeten Einwohnerkomitees zuständig?
+
+*Gesundheitsfürsorge*, *Politikbewusstsein*, *Konfliktbewältigung*, *Mobilisierung*, *
+
+Im zweiten Spiel musste man zuordnen, was zu welcher Kampagne behört
+
+.. list-table:: Kampagnen
+	:header-rows: 1
+
+	* - "Sanfan"
+	  - "Wufan"
+	* - Korruption
+	  - Diebstahl von Staatseigentum
+	* - Bürokratismus
+	  - Betrug
+	* - Verschwendung
+	  - Bestechung
+	* -
+	  - Steuerhinterziehung
+	* -
+	  - Diebstahl staatlicher Wirtschaftsinformationen
