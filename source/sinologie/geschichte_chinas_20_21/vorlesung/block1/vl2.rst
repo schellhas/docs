@@ -416,3 +416,177 @@ Was waren die wichtigsten Massenorganisationen?
 
 Vorlesung 2.3: Die Durchsetzung der Neuen Sozialistischen Kultur
 ----------------------------------------------------------------
+
+Die Durchsetzung der Neuen Sozialistischen Kultur
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- schaffung einer neuen gesellschaft beinhaltet auch durchsetzung neuer kultur
+- china vor 49 wies sehr vielfältige reichhaltige kulturelle landschaft auf
+- begeisterung lesen/theater/film
+- foto: begeisterung und interesse von shanghaiern 1951 für neuen lesestoff
+- bücher und comics oft weiterverliehen -> 200k exemplare erreichten millionen von menschen
+- kontrolle über diese vielfältige klutur wesentliche aufgabe der partei
+
+Schaffung einer neuen sozialistischen Kultur
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- sollte alte überkommene korrupte vorrevolutionöre kultur ersetze
+- aufgabe: kulturschaffende für ziele der KPCh mobilisieren
+	- foto: schriftstellerin/politikerin die sich intensiv für KPCh belange einsetzt
+- aber: durch kultur sollte auch unterstützung der regierung innerhalb der massen erreicht werden
+- kulturbereich von daher für die regierung vonn großer bedeutung
+
+Kultur- und Bildungsmanagementkomitees
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- abteilungen mit genauen aufdgaben
+- hauptaufgabe: übernahme des gesamten kultur- und bildungsbetriebs	
+	- tehater film rundfunk meiden print, unis
+- alle ienrichtungen sollten parteikontrolle unterstellt sein
+- mussten an regierung bericht erstatten
+- partei wollte damit kontrolle haben waws publiziert wird und an unis unterrichtet wird
+
+Übernahme privater Unternehmen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- komplizierter f+r partei
+- unternehmen mussten sich registrieren in militärkommunision
+- angaben zu geschichte, finanzen, betriebsverwaltung, besitzern...
+- nachregistrierung durften manche weiterarbeiten
+- hauptkriterium: politischer hintergrund
+	- wenn z.b. GMD nahe, dann unmäglich weiterzumachen
+	- wenn neutral oder KP nahe, dann temporär weiterer betrieb ermöglicht
+
+Privates Verlagswesen
+~~~~~~~~~~~~~~~~~~~~~
+
+- einzelunternehmen mussten registrieren
+- nach politischer haltung zugelassen oder schließung
+- insg. anfang 50er jahre eine koexistenz versch. organisations- und betriebsformen herausgebildet
+- firmen in staatsbesitz
+- genossenschaftne
+- zeitungsläden/fachgeschäfte
+- vertrags, druck und vertriebsunternehmen
+- staatlich-private unternehmen
+- bis 53 also NOCH vielfältige landschaft
+- reichhaltige publikationslandschaft
+- ab 53/54 verschärfte restriktionen (wie in anderen bereichen)
+- schrittweise verstaatlichung des gemsanten verlangs- und druckwesens
+- 1956 verstaatlichung privater verleger landesweit abgeschlossen
+- umfassende staatliche steuerung und reglementierung von zeitschriften und literarischen periodika
+- nationale literaut- und kulturzeitschriften sollten:
+	- schriftsteller organisieren und überwachen
+	- massen mit nationalen themen ansprechen
+- gab darunter lokale zeitschriften mit lokalen themen
+	- hierarchie: national -> lokal
+
+neue Ministerien und Behörden
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- neues kulturministerium sielte wichtige rolle in der gestaltung der kulturpolitik
+- neue zentrale propagandabehörde, lu dingyi war vorsitzender
+- überwachung und produktion und verbreitung sozialistischer kultur überwachen und organisieren
+- propagandabehörder sollte klarstellen, dass in der neuen kultur, theater, literatur, film, zeitschriften, rundfunk: überall positive sozialistische zukunft dargestellt, massen dazu gebracht sich für diese zulunft einzusetzen, feinde der partei dämonisiert, generell sozialische reigerung geprisen werden.
+- partei hat also alles durchgesehen ob ziele erreicht sind
+	- zensurbehörde konnte nachbesserung fordern
+
+vertriebswesen
+~~~~~~~~~~~~~~
+
+- auch hier war partei aktiv
+- druckerzeugnisse nur noch von staatlichem monopolbetribe "neues china"
+- buchladen "neues china" der überall im land war ersetzte alle anderen buchläden etc.
+- waren alle von regierung genehmigt
+- dadurch auch keine vertriebsstruktur mehr
+- jetzt alles von regierung "reaktionär, pornographisc oder lächerlich" entfernt
+- bücher waren von regierung genehmigt
+- dadurch sichergestellt dass nur noch inhalte verbrietet werden die mit ideologishcer linie der partei einhergehen
+
+Förderung kommunistischer Ideale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- viele neue publikationen behandeln politische situation in china
+- guo moruo schriftsteller hatte wichtige positionen in KPCh aber hat aufgehört zu schreiben
+- 1955 fast hälfte der veröffentlichen lyrik thema: verherrlichung soldaten und arbeiter
+- zeitschriften veräffentlichen fast nur noch werke bekannter kommunistischer führer
+- schriftsteller die sich weigerten neuen linie zu folgen rechneten mit ablehnung
+- beispiel: annerkannter und wichtiger schriftseller zhou zuoren: wurde nicht mehr veröffentlicht
+	- nach 1949 nix mehr von ihm gekommen
+- ba jin änderte in vr china seinen schreibstil
+- partei warf leuten vor sie haben gedankenprobleme und daher konnten ihre werke nicht publiziert werden
+
+Bildungswesen
+~~~~~~~~~~~~~
+
+- schulen und unis
+- unis wurden reorganisiert
+- auch bereich der hochschulen vor 1949 sehr reichweitende umfassende landschaft
+- zahllose institutionen der weitefführenden bildung in städten, staatlich und privat
+- private sehr schnell verschwunden
+- bzw gezwungen sich mit anderen institutionen zusammenzuschließen so dass sehr große unis entstanden sind
+- regierung fordert loyalität von studenten, lehrer, wissenschaftler, schriftstellern
+- sollen klar standpunkte der partei vertreten in arbeit und unterricht
+- neue institution damals: huadong shifan daxue: gründungsfeierlichkeit auf foto
+
+Gedankenform
+~~~~~~~~~~~~
+
+- für sutdenten und wissenschaftler mussten sich gedankenreform unterziehen
+- ab sommer 1951:
+	- kampagne zu diesem zweck
+	- anlass: neuorgnisation des politikunterrichts an pekinguni
+	- neues lehrprogramm für diee 6000 uni lehrkräfte in pekin
+	- daraus umfassende nationale kampagne
+	- zur selbsterizehungu und selbstreform
+	- laut mao wichtige voraussetzung für reform und industrialisiuerung
+	- partei sollte kontrolle über inhalte an unis haben
+- intellektuelle wurdne gezwungen ihren sozialen hintergrund offenzulegen
+	- ausbildung, vorherige berufe, politische zugehörigkeit, klassenhintergrund, familie, freunde
+	- sollte alles in kampagne aoffengelegen werden
+- aufruf zu selbstkritik:
+	- intellektuelle sollten eigene positionen darslegen und prüfen ob sie mit partei in einklang standen
+	- auch kritik an ihrem lebsnsstil (priviligiert verglciehn mit arbietern und bauern)
+	- auch berufliche leistungen kritisieren
+	- in diesem prozess:
+		- sollte wenn dort ernste politische probleme kamen
+		- wurden intellektuelle und studenten zur umerziehung aufs land geschickt
+	
+	- im zuge der kampagne wurden rede und aufsätze von lenin und mao vorgeschrieben
+- propagandaposter: aufforderung zum studium des marixusmus und leninismus sowie mao
+
+Sammlung von Personaldaten
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- kam durch kampagne an daten
+- hintergrund zu personen
+- verbindungen
+- freundeskreise, gruppen, assoziationen
+- partei erlangte wichtige iensichten über leben der intellektuellen, künstler und spezialisten
+- konnte quellen von unterstützung und widerstand erkennen
+- bsp: zhang dongsun
+	- stand unter verdacht partei nicht zu stützen
+	- wollte konfuzianismus
+	- fand ihm noch in gegnewart wichtig
+	- absolut quer zu lenin
+	- er konnte nicht weiterarbeiten
+	- musste verborgen leben
+- partei hatte also umfassende daten wie sie mit prsonen umgehen sollte
+- propagandabehörden überwachten Verbreitung der neuen kultur
+- neue, vom staat entiwckelte kulturlandschaft
+- staat hat sich immer darum bemüht dass künstler und schriftseller sich aktiv beteiligen
+	- nnicht NUR unterdrückung, sondern auch der kreis der kunstschafffenden motiviert sich einzubringen
+	- reigerung hat gefordert dass die aktivne intellektuellen sich einbringen
+	- neue kultur sollte massen beeinflussen und volk mobilisieren
+	- dadurch öffentliche unterstützung
+- partei hatte ja am anfang große zweifel was ihre legitimität angeht
+- und akzeptanz
+- durch neue kultur sollte diese akzeptanz verbrietet wetrden
+- fehlen legitimität kompnsiert werden
+
+**Leitfragen**
+~~~~~~~~~~~~~~
+
+Welche Ziele verfolgte die Partei mit der Durchsetzung einer Neuen Sozialistischen Kultur?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Welche Aufgaben hatten die Propagandabehörden?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
