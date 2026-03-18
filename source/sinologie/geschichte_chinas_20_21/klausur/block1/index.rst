@@ -251,3 +251,36 @@ Im zweiten Spiel musste man zuordnen, was zu welcher Kampagne behört
 	  - Steuerhinterziehung
 	* -
 	  - Diebstahl staatlicher Wirtschaftsinformationen
+
+2.3
+~~~
+
+Test
+
+1. Welche Aufgaben hatte der nationale Volkskongress ab 1954?
+	- Beschluss von Verfassungsänderungen und Ausarbeitung grundlegender Gesetzte
+	- Wahl und Abwahl der Mitglieder wichtiger Staatsorgane
+	- Bestätigung des Staathaushaltes
+2. Woran orientierte sich die vom ersten Volkskongress 1954 verabschiedete erste Verfassung Chinas? Wie wird die VR China definiert und welche Stellung ist der KPCh zugedacht? *Sie orientierte sich an der sowjetischen Verfassung von 1917, die VR China definierte sich als ein kommunistischer Staat unter stalinistischer Verwaltung und die KPCh hatte die Entscheidungsgewalt, die Sitze waren jedoch gleichmäßig aufgeteilt.*
+	- Falsch
+	- Sie orientierte sich an der sowjetischen Verfassung von 1936, die VR China definierte sich als ein sozialistischer Staat unter der Demokratischen Diktatur des Volkes und die KPCh hatte politische Vorrangstellung.
+3. Wie hieß der staatliche Monopolbetrieb, der jegliche Druckerzeugnisse umsetzte? Was bezweckte die Regierung durch Monopolisierung des Buchhandels? *Der Betrieb hieß „Xinhua“ (Neues China) und ein Ziel war es, die Vertriebswege nichtgenehmigter Publikationen zu schließen.*
+	- Richtig
+4. Wer sind im Zusammenhang mit der „Demokratischen Diktatur des Volkes“ die  „Demokratischen Kräfte“?
+	- Kleinbürgertum
+	- Proletariat
+	- Nationale Bourgeoisie
+	- Bauernstand
+5. Wie versuchte die chinesische Regierung, ausgedehnte Kontrolle über die Bevölkerung zu erlangen?
+	- Mithilfe der Einführung des „Hukou“ (System der Haushaltsregistrierung)
+6. Als neue Organisationseinheit seiner Bürger führte die VR China die „danwei“ ein, in der sich die arbeitende Bevölkerung organisierte. Es gab „danweis“ in allen Arbeitsbereichen (Industrie, Regierungsinstitutionen, lokale Verwaltungen, Schulen und Universitäten, Kaufhäuser…).Welche Lebensbereiche tangierten die „danwei“? *Zur Auswahl stehen folgende Wörter (nicht alle Begriffe müssen verteilt werden): Familiengeschichten, Ausbildungsmarkt, sozialen, soziale Umfeld, Gesundheitswesen, Freizeitaktivitäten, täglichen, Renten, Parteimitgliedschaft, Rechtsaufälligkeit*
+   
+   Antwort: Die „danwei“ kontrollierten viele Aspekte des [*täglichen*] Lebens ihrer Mitglieder. Von der Unterbringung, dem Zugang zum [*Gesundheitswesen*], Freizeitaktivitäten bis hin zur Zuteilung von Rationen und Renten wurde alles von der „danwei“ organisiert. Das gesamte Leben eines Arbeiters wurde akribisch dokumentiert.
+   
+   In den von der „danwei“ verwalteten Personalakten wurden folgende persönliche Informationen gesammelt: Schulzeugnisse, Informationen zur [*Parteimitgliedschaft*], Beförderungen und Leistungsbewertungen, Bewertungen von Vorgesetzten, schriftliche Kritik und Abmahnungen. Selbst die [*Familiengeschichten*] wurden in den Akten abgelegt. 
+
+   Ebenfalls organisierte die „danwei“ das [*soziale Umfeld*], indem sie u.a. Sanatorien, Kindergärten, Alten- und Kinderheime unterhielt.
+7. 1950 wurden „Volkstribunale“ eingerichtet, die Prozesse gegen Konterrevolutionäre durchführen sollten. Wie können diese Volkstribunale und ihre Prozesse charakterisiert werden?
+	- Die Volkstribunale waren mit umfassenden Vollmachten ausgestattet (Verhaftungen, Strafen, unabhängig vom formellen Gerichtssystem). Sie führten öffentliche Massenveranstaltungen und Schauprozesse durch.
+8. Was ist unter der „Demokratischen Diktatur des Volkes“ zu verstehen? Wer war an dieser Diktatur beteiligt?
+	- Unter Führung der KPCh bekämpft das Volk (griech. dēmos) die Feinde des Sozialismus
