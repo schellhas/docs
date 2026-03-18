@@ -343,7 +343,7 @@ Massenorganisationen
 
 - frauenverband
 	- organisiert alle frauen
-	. ziel: alle frauen arbeiten
+	- ziel: alle frauen arbeiten
 	- ""emanzipation""
 	- hoher stellenwert in parteiprogramm
 	- "all chinesischer fraunverband"
@@ -382,7 +382,23 @@ Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Beweg
 - rechtsabweichler-kampagne 1957/58: leute die nach rechts wollen
 - vier-plagen-kampagne 1958: richtet sich gegen natur und umwelt, schädlinge: insekten, ratten, fliegen, ... vor allem in der landwirtschaft große verlsute
 - kleiner sprung 1960: mobilisierung in der wirtschaft
-
+- bildung neuer organisationen: einwohnerkomitees: mehr regionale stabilität aber auch kontrolle über gewählte vertretungen: gesundheitsvorsorge, konfliktbewältigung, mobilisierung der einwohner, schaffung von politischem bewusstsein
+- kampagne gegen usa für korea: einwohnerkomitees gingen um um leute nach geld, kleidung, teilnahme, poster, ... zu fragen
+- **danwei**
+        - system der reigerung, bezieht sich auf arbeiter
+        - wer beruf hat, wird arbeitseinheit zugeordnet
+        - industrie, regierung, lokale  verwaltung, schulen, unis, kaufhäuser, ...
+        - jeder gehört zu einer einheit
+        - unterbringung, gesundheitswesen, freizeitaktivitäten, zuteilung von rationen und renten
+        - auch wohlfahrt, kindergärten, altenheime, kinderheime
+        - aufbewahrung von personalakte: schulzeignisse, parteimitgliedschaft, beförderungen, leistungsbewertungen, familiengeschichten, bewertungen von vorgesetzten
+        - seperat: kriminell, disziplinar, politische probleme
+- emanzipation, kampagne gegen prostitution, drogenmissbrauch
+- basismobilisierung der gesellschaft
+        - nachbarschaftskomitees, akten, etc.
+        - staat konnte einzelne gruppen ansprechen, mobilisieren, kontrollieren
+- konsolidierte herrscahft der KPCh erheblich
+- jetzt tieferer einblick in die gesellschaft
 
 Was waren die wichtigsten Massenorganisationen?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
