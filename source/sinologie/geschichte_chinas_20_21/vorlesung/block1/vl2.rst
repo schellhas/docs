@@ -403,7 +403,16 @@ Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Beweg
 Was waren die wichtigsten Massenorganisationen?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+- Einwohnerkomitees
+        - Organisation auf Nachbarschaftsebene (Straßen, Viertel, Dörfer)
+        - Aufgaben: Mobilisierung der Bevölkerung, Gesundheitsvorsorge, Konfliktbewältigung, politische Einflussnahme und Kontrolle
+- Arbeitseinheiten (danwei)
+        - Organisation der arbeitenden Bevölkerung nach Arbeitsplatz
+        - Zuständig für Arbeit, Versorgung (Wohnung, Lebensmittel, Gesundheitswesen), soziale Leistungen und Kontrolle (Personalakten)
+- Massenorganisationen im engeren Sinne
+        - z.B. der "Allchinesische Frauenband"
+        - Ziel: Organisation ebstimmter Bevölkerungsgruppen (hier Frauen), Förderung politischer Ziele wie "Emanzipation", sowie Kampagnen gegen Prostitution und Drogen
+- Insgesamt: Organisationen dienten der Mobilisieurng, Organisation und Kontrolle der Bevölkerung bis in den Alltag.
 
 Vorlesung 2.3: Die Durchsetzung der Neuen Sozialistischen Kultur
 ----------------------------------------------------------------
