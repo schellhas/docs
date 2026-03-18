@@ -585,8 +585,41 @@ Sammlung von Personaldaten
 **Leitfragen**
 ~~~~~~~~~~~~~~
 
-Welche Ziele verfolgte die Partei mit der Durchsetzung einer Neuen Sozialistischen Kultur?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Welche Ziele verfolgte die Partei mit der Durchsetzung einer Neuen Sozialistischen Kultur?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Welche Aufgaben hatten die Propagandabehörden?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- alte überkommene korrupte vorrevolutionäre kultur ersetzen
+- kulturschaffende für ziele der KPCh mobilisieren
+- auch unterstützung der reigerung innerhalb der massen
+- kultur- und bildungsbetriebe übernehmen (theater, film, rundfunk, print, unis, ...)
+- alle einrichtungen der parteikontrolle unterstellen
+- müssen an partei bericht erstatten
+- damit kontrolle was berichtet und pbuliziert wird, und was an unis unterrichtet wird
+- komplette kontrolle über medien
+- kontrolle über schulen und unis
+- wissenschaft, arbeit, unterricht sollen parteistandpunkte klar verteten
+- schaffung einer einheitlichen sozialistischen ideologie in der gesellschaft
+- legitimation der herrschaft der KPCh durch kuturelle beeinflussung
+- mobilisieren der massen durch kultur
+- verdrängung/ausschalten nicht konformer oppositioneller kultur
+- verstaatlichung des kultur- und verlagswesens
+- lenkung öffentliche meinung im sinne der partei
+- umformung der intellektuellen
+- identifikation und kontrolle potentieller gegner durch datensammlung
+- integration von kunst und kultur in den dienst der politik
+
+**Welche Aufgaben hatten die Propagandabehörden?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- neues Kulturministerium wichtige Rolle in Gestaltung der Kulturpolitik
+- neue zentrale Propagandabehörde
+- sollte Produktion und Verbreitung sozialistischer Kultur überwachen und organisieren
+- sicherstellen, dass in neuer Kultur, Theater, Literatur, Film, Zeitschriften, Rundfunk: überall positive sozialistische Zukunft dargestellt, massen dazu bringen sich für diese einzusetzen, Feinde der Partei dämonisieren, generell sozialistische Regierung preisen.
+- Partei hat geprüft, ob Ziele erreicht sind
+        - Zensurbehörde konnte Nachbesserung fordern
+- direkte kontrolle über inhalte in allen medien und bildungseinrichtungen
+- zensur unerwünschter oder "reaktionärer" inhalte
+- überwachung von künstlern, schriftstellern und intellektuellen
+- durchsetzung ideologische linie der partei in allen kulturellen bereichen
+- verbreitung von propaganda
+- sicherstellung nur staatlich genehmigter inhalte
