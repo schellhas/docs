@@ -368,8 +368,19 @@ Resultate
 Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Bewegungen?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- städte des konsums in städte der produktion verwandeln
+- durch *hukou* kontrolle über ausgewählte teile der bevölkerungen -> infos über geburten/todesfälle/schulabschlüsse/berufe/familie -> generell über haushalt
+        - hukou wurde von nationalisten übernommen, jetzt hauptgrundlage für ressourcenverteilung und subventionierung
+        - -> mehr kontrolle
+- viel migration vom land in die städte durch hukou gestoppt: dadurch besser industrialisierung, umstände in stadt gut, in land schlecht, leute zurück ins land geschickt
+- zweck: konterrevolutionäre, politische feinde, bandenführer, drogenschmuggler, religiöse anführer, mutmaßliche nationalistische spione bekämpfen
+- kampagne gegen konterrevolutionäre:   
+        - 
+
 Was waren die wichtigsten Massenorganisationen?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 
 Vorlesung 2.3: Die Durchsetzung der Neuen Sozialistischen Kultur
 ----------------------------------------------------------------
