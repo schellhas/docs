@@ -130,6 +130,109 @@ Was waren die Folgen des Koreakriegs für China?
 	- beschützer des kommunismus, sowohl im innern als auch äußeren
 	- durch krieg mehr mobilisierung und möglichkeit hetze zu machen
 
+2.1: Wie gestaltete sich das Verhältnis zwischen Staat und Partei in Maos China?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Erstmal komisch: Man muss unterscheiden zwischen Staat (100% von KPCh mitlgiedern besetzt) und der Partei als "einfache" partei
+- formell sind beide getrennt, tatsächlich aber vollständig verschmolzen
+- KPCh kontrollierte alle staatlichen Organe und Schlüsselpositionen
+- regierung, verwaltung und armee folgten beschlüsssen der partei
+- KPCh besaß machtmonopol und nutze staat als werkzeug der machtausübung
+- KPCh ist sozusagen der Staat und hat ihn unter Kontrolle
+
+2.2:
+~~~~
+
+Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Bewegungen?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- städte des konsums in städte der produktion verwandeln
+- durch *hukou* kontrolle über ausgewählte teile der bevölkerungen -> infos über geburten/todesfälle/schulabschlüsse/berufe/familie -> generell über haushalt
+        - hukou wurde von nationalisten übernommen, jetzt hauptgrundlage für ressourcenverteilung und subventionierung
+        - -> mehr kontrolle
+- viel migration vom land in die städte durch hukou gestoppt: dadurch besser industrialisierung, umstände in stadt gut, in land schlecht, leute zurück ins land geschickt
+- zweck: konterrevolutionäre, politische feinde, bandenführer, drogenschmuggler, religiöse anführer, mutmaßliche nationalistische spione bekämpfen
+- kampagne gegen konterrevolutionäre:   
+- samfan-kampagne 1951: gegen korruption, verschwendung, bürokratismus
+- wufan-kampagne 1952: gegen bestechung, steuerhinterziehung, betrug, diebstahl von staatseigentum, diebstahl staatswirtschaftlicher wirtschaftsinformationen. ziele: unternehmer, kapitalisten, ...
+- sufan-kampagne 1955: säuberung von konterrevolutionären
+- rechtsabweichler-kampagne 1957/58: leute die nach rechts wollen
+- vier-plagen-kampagne 1958: richtet sich gegen natur und umwelt, schädlinge: insekten, ratten, fliegen, ... vor allem in der landwirtschaft große verlsute
+- kleiner sprung 1960: mobilisierung in der wirtschaft
+- bildung neuer organisationen: einwohnerkomitees: mehr regionale stabilität aber auch kontrolle über gewählte vertretungen: gesundheitsvorsorge, konfliktbewältigung, mobilisierung der einwohner, schaffung von politischem bewusstsein
+- kampagne gegen usa für korea: einwohnerkomitees gingen um um leute nach geld, kleidung, teilnahme, poster, ... zu fragen
+- **danwei**
+        - system der reigerung, bezieht sich auf arbeiter
+        - wer beruf hat, wird arbeitseinheit zugeordnet
+        - industrie, regierung, lokale  verwaltung, schulen, unis, kaufhäuser, ...
+        - jeder gehört zu einer einheit
+        - unterbringung, gesundheitswesen, freizeitaktivitäten, zuteilung von rationen und renten
+        - auch wohlfahrt, kindergärten, altenheime, kinderheime
+        - aufbewahrung von personalakte: schulzeignisse, parteimitgliedschaft, beförderungen, leistungsbewertungen, familiengeschichten, bewertungen von vorgesetzten
+        - seperat: kriminell, disziplinar, politische probleme
+- emanzipation, kampagne gegen prostitution, drogenmissbrauch
+- basismobilisierung der gesellschaft
+        - nachbarschaftskomitees, akten, etc.
+        - staat konnte einzelne gruppen ansprechen, mobilisieren, kontrollieren
+- konsolidierte herrscahft der KPCh erheblich
+- jetzt tieferer einblick in die gesellschaft
+
+Was waren die wichtigsten Massenorganisationen?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Einwohnerkomitees
+        - Organisation auf Nachbarschaftsebene (Straßen, Viertel, Dörfer)
+        - Aufgaben: Mobilisierung der Bevölkerung, Gesundheitsvorsorge, Konfliktbewältigung, politische Einflussnahme und Kontrolle
+- Arbeitseinheiten (danwei)
+        - Organisation der arbeitenden Bevölkerung nach Arbeitsplatz
+        - Zuständig für Arbeit, Versorgung (Wohnung, Lebensmittel, Gesundheitswesen), soziale Leistungen und Kontrolle (Personalakten)
+- Massenorganisationen im engeren Sinne
+        - z.B. der "Allchinesische Frauenband"
+        - Ziel: Organisation ebstimmter Bevölkerungsgruppen (hier Frauen), Förderung politischer Ziele wie "Emanzipation", sowie Kampagnen gegen Prostitution und Drogen
+- Insgesamt: Organisationen dienten der Mobilisieurng, Organisation und Kontrolle der Bevölkerung bis in den Alltag.
+
+2.3
+~~~
+
+Welche Ziele verfolgte die Partei mit der Durchsetzung einer Neuen Sozialistischen Kultur?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- alte überkommene korrupte vorrevolutionäre kultur ersetzen
+- kulturschaffende für ziele der KPCh mobilisieren
+- auch unterstützung der reigerung innerhalb der massen
+- kultur- und bildungsbetriebe übernehmen (theater, film, rundfunk, print, unis, ...)
+- alle einrichtungen der parteikontrolle unterstellen
+- müssen an partei bericht erstatten
+- damit kontrolle was berichtet und pbuliziert wird, und was an unis unterrichtet wird
+- komplette kontrolle über medien
+- kontrolle über schulen und unis
+- wissenschaft, arbeit, unterricht sollen parteistandpunkte klar verteten
+- schaffung einer einheitlichen sozialistischen ideologie in der gesellschaft
+- legitimation der herrschaft der KPCh durch kuturelle beeinflussung
+- mobilisieren der massen durch kultur
+- verdrängung/ausschalten nicht konformer oppositioneller kultur
+- verstaatlichung des kultur- und verlagswesens
+- lenkung öffentliche meinung im sinne der partei
+- umformung der intellektuellen
+- identifikation und kontrolle potentieller gegner durch datensammlung
+- integration von kunst und kultur in den dienst der politik
+
+Welche Aufgaben hatten die Propagandabehörden?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- neues Kulturministerium wichtige Rolle in Gestaltung der Kulturpolitik
+- neue zentrale Propagandabehörde
+- sollte Produktion und Verbreitung sozialistischer Kultur überwachen und organisieren
+- sicherstellen, dass in neuer Kultur, Theater, Literatur, Film, Zeitschriften, Rundfunk: überall positive sozialistische Zukunft dargestellt, massen dazu bringen sich für diese einzusetzen, Feinde der Partei dämonisieren, generell sozialistische Regierung preisen.
+- Partei hat geprüft, ob Ziele erreicht sind
+        - Zensurbehörde konnte Nachbesserung fordern
+- direkte kontrolle über inhalte in allen medien und bildungseinrichtungen
+- zensur unerwünschter oder "reaktionärer" inhalte
+- überwachung von künstlern, schriftstellern und intellektuellen
+- durchsetzung ideologische linie der partei in allen kulturellen bereichen
+- verbreitung von propaganda
+- sicherstellung nur staatlich genehmigter inhalte
+
 Lernspiele
 ----------
 
