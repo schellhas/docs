@@ -361,6 +361,54 @@ Konsolidierung der Städte als Regierungsansatz
 **Leitfrage: Welche Maßnahmen ergriff die Regierung nach der Machtübernahme, um die politische Situation zu stabilisieren und konsolidieren?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+ausgang: durch Bürgerkrieg und 2. Weltkrieg Wirtschaft schwach, soziale Strukturen aufgelöst, viele Flüchtlinge, Chaos
+
+- militärisch
+	- militärische Kontrollkomitees eingerichtet um China zu regieren
+	- im Norden schneller, Süden langsamer
+	- oft bis in die 50er Jahre
+- Städte
+	- GMD Organe wurden durch KPCh Organe ersetzt (Regierungsstellen, Polizei, Finanzämter)
+	- Wirtschaft: Fabriken, Geschäfte, Transportunternehmen, sollten in ihrer Funktion weiterfunktionieren
+	- Wirtschaftsaufnahme der Produktion im Vordergrund, sollte erstmal wie sie waren weiterbetreiben
+	- spontane revolutionäre Aktionen unterbunden
+	- mittellose Flüchtlinge deren spontane Aktionen die Kontrolle und Dominanz der Partei bedrohten waren Gefahr
+	- Kader wurden mobilisiert Bettlern keinen freien Raum zu lassen, sondern Bettlern, Armen, Arbeitern klar machen, dass an neue Regeln halten müssen
+	- Inhaftierung der Bettler in Gefangenenlager (Registrierung, Umerziehung, medizinische Untersuchungen)
+- städtische Kriminalität:
+	- Polizei uneingeschränkte Macht
+	- Razzien gegen:
+		- Gelegenheitsdiebe
+		- Prostituierte
+		- Zuhälter
+		- Drogenhändler
+		- Vagabunden und Spekulanten
+- Opium wurde extrem hart weggemacht, Händler: exekutiert, Straßendealer und Abhängige: umerzogen
+- Vereinigung von Institutionen wie Schulen, Waisenhäuser, Altenheime, direkt unter Kontrolle der KPCh
+- religiöse Sekten und Geheimgesellschaften die in Städten sehr verbreitet waren von KPCh stark unterdrückt
+	- diese hatten bruderschaftsähnliche Art, sehr starke Solidarität und Autonomie und Kontrolle in den Städten
+	- deshalb für KPCh Problem: sie wollten diese Solidarität und Kontrolle bieten
+	- also sehr stark bekämpft worden
+- ausländische Organisationen wurden entfernt, wurden als Imperialismus bezeichnet
+- Medien
+	- China hatte sehr starke Medienlandschaft und lesebegeistertes (städtisches) Volk
+	- GMD-nahe Zeitschriften wurden von KPCh übernommen/eingestellt, unabhängige Zeitschriften existierten weiter
+	- unabhängige -> "Boulevard"-Zeitungen, Unterhaltung
+	- KPCh will weiter betreiben, da gut für Infos verteilen
+	- Parteizeitschriften gegründet die offizielles Organ der Partei waren
+- Arbeiterschaft
+	- Gewerkschaften unter KPCh gegründet
+	- diese waren sehr stark
+	- "Allchinesischer Gewerkschaftsbund" 1950 gegründet -> gemeinsame Kontrollorganisation
+- Art
+	- drastische und plötzliche Intervention vermieden
+	- Partei sehr pragmatisch
+	- graduell vorgegangen bei Übernahme
+	- vorhandene Institutionen und Organisationen
+		- Zusammenarbeit um Dienstleistung zu gewährleisten
+		- Schließung feindlicher Institutionen
+	- Mobilisierung und Partizipation und freiwilliges Engagement der Bevölkerung
+
 Vorlesung 1.3: China und der Kalte Krieg
 ----------------------------------------
 
