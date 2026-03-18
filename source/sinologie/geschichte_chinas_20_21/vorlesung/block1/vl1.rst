@@ -171,6 +171,36 @@ Regierungsansätze: Experimente und Versuchsreihen
 **Leitfrage: Welchen Regierungsansatz verfolgte die Kommunistische Partei nach 1949?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Eigentum (Privat- zu Gemeinschafts- und Kollektiveigentum)
+	- darunter auch Landbesitz
+- Arbeit und Ehe grundlegend verändert. Gleichberechtigung der Geschlechter größere Rolle.
+- da zu wenig Personal, musste pragmatisch vorgegangen werden:
+- mit lokalen Institutionen und Gruppierungen "verbündet", z.B:
+	- Tempel, Fabriken, Arbeiterverbände, Großgrundbesitzer, reiche Bauern, Gelehrte, Führungen von Dörfern, etc.
+	- in Städten mit Transportarbeitern, Kanalschleppern, Dreiradfahrern
+- langsam, graduell und schrittweise vorgegangen, da zu wenig Personal
+- viel Propaganda über gemeinschaftliches Wiederaufbauen des Landes
+- Es war also schrittweise Reform und Kooperation um die Massen zu mobilisieren, auch durch Propaganda
+- Das war eine langsame Transition, im Vergleich zum Sowjet-Stil
+- gerade in den ersten Jahren:
+	- Experimente und Versuche
+	- stufenweise mit unterschiedlichen Geschwindigkeiten
+	- einige Regionen ausgelassen, andere schneller
+	- im Süden sehr langsam
+	- schrittweise Veränderung gesellschaftl. Strukturen
+	- mit existierenden Institutionen und Strukturen um Massen zur Beteiligung zu ermutigen (Propaganda um für Ziele der Regierung zu begeistern)
+	- Propaganda anfangs also sehr wichtig um das Volk zu gewinnen
+	- lokale Initiativen
+	- Kooperation mit Massen; Regierung motiviert Fabriken/Tempel am Aufbau vom Land zu beteiligen
+	- "patriotische Produktion"
+	- pragmatisches Konfliktmanagement, Wert lokaler Initiativen wird betont
+	- Pragmatismus und schrittweises Vorgehen wichtig denn:
+		- Unterschied zu Sowjets und Osteuropa
+		- dort war revolutionärer Bruch
+		- lokale Machthaber und gesell. Gruppen ausgeschaltet/verhaftet und wurden neu eingesetzt; das wurde in China nicht gemacht
+		- nach 1949 erstmal (!) für erste Jahre, langsam und behutsam mit lokalen Strukturen gearbeitet
+		- Veränderungen graduell und langsam
+
 Vorlesung 1.2: Konsolidierung und Wiederherstellung der Ordnung
 ---------------------------------------------------------------
 

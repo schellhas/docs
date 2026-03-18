@@ -25,11 +25,6 @@ Leitfragen
 1.1: Welchen Regierungsansatz verfolgte die Kommunistische Partei nach 1949?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Eigentum (Privat- zu Gemeinschafts- und Kollektiveigentum)
-	- darunter auch Landbesitz
-- Arbeit und Ehe grundlegend verändert. Gleichbereichtigung der Geschlechter größere Rolle.
-- 
-
 1.2: Welche Maßnahmen ergriff die Regierung nach der Machtübernahme, um die politische Situation zu stabilisieren und konsolidieren?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
