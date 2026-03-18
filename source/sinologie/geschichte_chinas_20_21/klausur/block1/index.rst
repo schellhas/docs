@@ -25,8 +25,86 @@ Leitfragen
 1.1: Welchen Regierungsansatz verfolgte die Kommunistische Partei nach 1949?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Eigentum (Privat- zu Gemeinschafts- und Kollektiveigentum)
+	- darunter auch Landbesitz
+- Arbeit und Ehe grundlegend verändert. Gleichberechtigung der Geschlechter größere Rolle.
+- da zu wenig Personal, musste pragmatisch vorgegangen werden:
+- mit lokalen Institutionen und Gruppierungen "verbündet", z.B:
+	- Tempel, Fabriken, Arbeiterverbände, Großgrundbesitzer, reiche Bauern, Gelehrte, Führungen von Dörfern, etc.
+	- in Städten mit Transportarbeitern, Kanalschleppern, Dreiradfahrern
+- langsam, graduell und schrittweise vorgegangen, da zu wenig Personal
+- viel Propaganda über gemeinschaftliches Wiederaufbauen des Landes
+- Es war also schrittweise Reform und Kooperation um die Massen zu mobilisieren, auch durch Propaganda
+- Das war eine langsame Transition, im Vergleich zum Sowjet-Stil
+- gerade in den ersten Jahren:
+	- Experimente und Versuche
+	- stufenweise mit unterschiedlichen Geschwindigkeiten
+	- einige Regionen ausgelassen, andere schneller
+	- im Süden sehr langsam
+	- schrittweise Veränderung gesellschaftl. Strukturen
+	- mit existierenden Institutionen und Strukturen um Massen zur Beteiligung zu ermutigen (Propaganda um für Ziele der Regierung zu begeistern)
+	- Propaganda anfangs also sehr wichtig um das Volk zu gewinnen
+	- lokale Initiativen
+	- Kooperation mit Massen; Regierung motiviert Fabriken/Tempel am Aufbau vom Land zu beteiligen
+	- "patriotische Produktion"
+	- pragmatisches Konfliktmanagement, Wert lokaler Initiativen wird betont
+	- Pragmatismus und schrittweises Vorgehen wichtig denn:
+		- Unterschied zu Sowjets und Osteuropa
+		- dort war revolutionärer Bruch
+		- lokale Machthaber und gesell. Gruppen ausgeschaltet/verhaftet und wurden neu eingesetzt; das wurde in China nicht gemacht
+		- nach 1949 erstmal (!) für erste Jahre, langsam und behutsam mit lokalen Strukturen gearbeitet
+		- Veränderungen graduell und langsam
+
 1.2: Welche Maßnahmen ergriff die Regierung nach der Machtübernahme, um die politische Situation zu stabilisieren und konsolidieren?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ausgang: durch Bürgerkrieg und 2. Weltkrieg Wirtschaft schwach, soziale Strukturen aufgelöst, viele Flüchtlinge, Chaos
+
+- militärisch
+	- militärische Kontrollkomitees eingerichtet um China zu regieren
+	- im Norden schneller, Süden langsamer
+	- oft bis in die 50er Jahre
+- Städte
+	- GMD Organe wurden durch KPCh Organe ersetzt (Regierungsstellen, Polizei, Finanzämter)
+	- Wirtschaft: Fabriken, Geschäfte, Transportunternehmen, sollten in ihrer Funktion weiterfunktionieren
+	- Wirtschaftsaufnahme der Produktion im Vordergrund, sollte erstmal wie sie waren weiterbetreiben
+	- spontane revolutionäre Aktionen unterbunden
+	- mittellose Flüchtlinge deren spontane Aktionen die Kontrolle und Dominanz der Partei bedrohten waren Gefahr
+	- Kader wurden mobilisiert Bettlern keinen freien Raum zu lassen, sondern Bettlern, Armen, Arbeitern klar machen, dass an neue Regeln halten müssen
+	- Inhaftierung der Bettler in Gefangenenlager (Registrierung, Umerziehung, medizinische Untersuchungen)
+- städtische Kriminalität:
+	- Polizei uneingeschränkte Macht
+	- Razzien gegen:
+		- Gelegenheitsdiebe
+		- Prostituierte
+		- Zuhälter
+		- Drogenhändler
+		- Vagabunden und Spekulanten
+- Opium wurde extrem hart weggemacht, Händler: exekutiert, Straßendealer und Abhängige: umerzogen
+- Vereinigung von Institutionen wie Schulen, Waisenhäuser, Altenheime, direkt unter Kontrolle der KPCh
+- religiöse Sekten und Geheimgesellschaften die in Städten sehr verbreitet waren von KPCh stark unterdrückt
+	- diese hatten bruderschaftsähnliche Art, sehr starke Solidarität und Autonomie und Kontrolle in den Städten
+	- deshalb für KPCh Problem: sie wollten diese Solidarität und Kontrolle bieten
+	- also sehr stark bekämpft worden
+- ausländische Organisationen wurden entfernt, wurden als Imperialismus bezeichnet
+- Medien
+	- China hatte sehr starke Medienlandschaft und lesebegeistertes (städtisches) Volk
+	- GMD-nahe Zeitschriften wurden von KPCh übernommen/eingestellt, unabhängige Zeitschriften existierten weiter
+	- unabhängige -> "Boulevard"-Zeitungen, Unterhaltung
+	- KPCh will weiter betreiben, da gut für Infos verteilen
+	- Parteizeitschriften gegründet die offizielles Organ der Partei waren
+- Arbeiterschaft
+	- Gewerkschaften unter KPCh gegründet
+	- diese waren sehr stark
+	- "Allchinesischer Gewerkschaftsbund" 1950 gegründet -> gemeinsame Kontrollorganisation
+- Art
+	- drastische und plötzliche Intervention vermieden
+	- Partei sehr pragmatisch
+	- graduell vorgegangen bei Übernahme
+	- vorhandene Institutionen und Organisationen
+		- Zusammenarbeit um Dienstleistung zu gewährleisten
+		- Schließung feindlicher Institutionen
+	- Mobilisierung und Partizipation und freiwilliges Engagement der Bevölkerung
 
 1.3:
 ~~~~
@@ -34,8 +112,23 @@ Leitfragen
 Was waren die Ursachen für den Eintritt Chinas in den Koreakrieg?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- militärbündnis mit östlicher welt, generelle rivalität der systeme
+- druck von stalin: "stachelt" kim an süden anzugreifen
+	- wahrscheinlich mit dem wissen, dass er china unter druck setzen kann, da diese angst vor einer amerikanischen invasion hätten
+	- stalin also low commitment, aber china kann er unter druck stezen
+
 Was waren die Folgen des Koreakriegs für China?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- kurzfristig:
+	- langsamerer aufbau der wirtschaft
+	- weniger verbesserung der lebensstandards
+	- ca. 55% der ressourcen gingen an die front
+- langfristig:
+	- etablierung als internationale großmacht
+	- usa in die schranken gewiesen
+	- beschützer des kommunismus, sowohl im innern als auch äußeren
+	- durch krieg mehr mobilisierung und möglichkeit hetze zu machen
 
 Lernspiele
 ----------

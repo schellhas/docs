@@ -610,5 +610,20 @@ mit eintritt in koreakrieg begann:
 **was waren die Ursachen für den Eintritt Chinas in den Koreakrieg?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- militärbündnis mit östlicher welt, generelle rivalität der systeme
+- druck von stalin: "stachelt" kim an süden anzugreifen
+	- wahrscheinlich mit dem wissen, dass er china unter druck setzen kann, da diese angst vor einer amerikanischen invasion hätten
+	- stalin also low commitment, aber china kann er unter druck stezen
+
 **Was waren die Folgen des Koreakriegs für China?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- kurzfristig:
+	- langsamerer aufbau der wirtschaft
+	- weniger verbesserung der lebensstandards
+	- ca. 55% der ressourcen gingen an die front
+- langfristig:
+	- etablierung als internationale großmacht
+	- usa in die schranken gewiesen
+	- beschützer des kommunismus, sowohl im innern als auch äußeren
+	- durch krieg mehr mobilisierung und möglichkeit hetze zu machen
