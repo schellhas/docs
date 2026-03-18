@@ -258,6 +258,7 @@ Kampagne gegen konterrevolutionäre
 		- keine juristen oder vorgebildete menschen
 	- volkstribunale führten föfentlcieh massenveranstaltungen durch und währten nur für die dauer der kampagne also ca. 2-3 jahre danach aufgelöst
 	(ad hoc gremium)
+
 	- ca 4 mio festnahmen in folge dessen
 	- rund 1mio davon hingerichtet
 	- dadurch sollte jede form der opposition oder widerstandes ausgelöscht
@@ -293,7 +294,7 @@ Bildung neuer Organisationen
 	- menschen die in bestimmter straße virtel oder dorf leben sollen zsm kommen und vertretung wählen die sie ggüber dem staat reoräsentierten, aber auch staatliche vorgaben in die nachbarschaften brignen
 - bildung von einwohnerkomitees ca 1953 begonnen und schnell durchgeführt
 - selbstverwaltungsorgnisation
-	. gesundheitsvorsorge
+	- gesundheitsvorsorge
 	- konfliktbewätigung
 	- mobilisierung der einwohner
 	- schaffung eines politischen bewusstseins
@@ -375,7 +376,13 @@ Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Beweg
 - viel migration vom land in die städte durch hukou gestoppt: dadurch besser industrialisierung, umstände in stadt gut, in land schlecht, leute zurück ins land geschickt
 - zweck: konterrevolutionäre, politische feinde, bandenführer, drogenschmuggler, religiöse anführer, mutmaßliche nationalistische spione bekämpfen
 - kampagne gegen konterrevolutionäre:   
-        - 
+- samfan-kampagne 1951: gegen korruption, verschwendung, bürokratismus
+- wufan-kampagne 1952: gegen bestechung, steuerhinterziehung, betrug, diebstahl von staatseigentum, diebstahl staatswirtschaftlicher wirtschaftsinformationen. ziele: unternehmer, kapitalisten, ...
+- sufan-kampagne 1955: säuberung von konterrevolutionären
+- rechtsabweichler-kampagne 1957/58: leute die nach rechts wollen
+- vier-plagen-kampagne 1958: richtet sich gegen natur und umwelt, schädlinge: insekten, ratten, fliegen, ... vor allem in der landwirtschaft große verlsute
+- kleiner sprung 1960: mobilisierung in der wirtschaft
+
 
 Was waren die wichtigsten Massenorganisationen?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
