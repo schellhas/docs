@@ -39,3 +39,26 @@ Vorlesung 4.1: Was waren die Ursachen für den Konflikt zwischen der VR China un
 - zusammenfassung:
 	- sowjetunion öffnet, will tauwetter, frieden mit westen
 	- china will konfrontation, eskalation, klassenkampf, stärkung sozialismus
+
+4.3
+~~~
+
+Entsprachen die Reaktionen der Intellektuellen auf die Verkündigung der "Hundert-Blumen-Bewegung" und die Aufforderung zu Offenheit und Kritik den Erwartungen der Parteiführer?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- nein, die partei war sehr überrascht wie viel kritik kam.
+- man kann auch argumentieren dass das von vorn herein maos ziel war (rechtsabweichler finden), aber das ist schwer zu sagen
+
+Was kritisierten die Intellektuellen?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- forderung weitreichender politischen veränderungen
+- forderung nach demokratie
+- nach mehrparteiensystem
+- zu wenig öffentlichkeit, man darf nicht über probleme berichten
+- forderung nach möglichkeit kritischer, offener und freier berichterstattung
+- kritische auseinandersetzung mit sowjetischem modell, technologien, etc.
+- china nicht demokratisch genug
+	- sozialismus auf basis von feudalismus
+- ablehnend gegenüber personenkult von mao
+- keine stimme fordert ende des sozialismus, fordern demokratischen sozialismus
