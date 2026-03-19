@@ -309,3 +309,169 @@ deng xiaoping als leiter der kampagne
 
 Vorlesung 4.4: Der "Große Sprung nach Vorn"
 -------------------------------------------
+
+1958 beginnt china neue radikale politik "der große sprung nach vorn", china sollte damit in den kommunismus springen und innerhalb kürzester zeit den sozialismus einsetzen. das ist vor dem hintergrund der vielen schwierigkeiten de 50er jahre zu sehen. bereich der wirtschaft, politik, gesellschaftliche reformen und umgestaltungen der lebensverhältnisse. in allen bereichen war die regierung ambitioniert, aber die ziele konnten nicht erreicht werden. 
+
+politik der drei roten banner
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"großer sprung nach vorne" nur ein teil der übergeordneten "drei rote banner" politik.
+
+1. sozialistischer Aufbau (Generallinie)
+2. "Großer Sprung nach vorn" (spezifische Maßnahme)
+3. ländliche Volkskommunen (Werkzeug der Umsetzung)
+
+Direktive: "Aufs Ganze gehen, sich hohe Ziele setzen und den Sozialismus mit großeren, schnelleren, besseren und wirtschaftlicheren Ergebnissen errichten"
+
+motivationen und intentionen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+westliche chinaforschung setzt sich lange kontrovers damit außeinander, was zum großen spung nach vorn geführt hat
+
+- innerpolitische machtkämpfe?
+- blinder glaube?
+- mao allein verantwortlich?
+
+- rolle der sowjetunion: mao lehnt sowjetisches modell immer weiter ab
+	- politische konflikte mit der sowjetunion
+- mao: entwicklung china muss sich auf die mobilisierung der bevölkerung stützen
+
+ziele
+~~~~~
+
+- schwierigkeiten lösen die im laufe der 50er aufgebaut haben
+
+1. förderung der industrialisierung (Großbritannien soll übertroffen werden)
+2. steigerung des landwirtschaftlichen output
+
+an sich rationale ziele
+
+volkskommunen
+~~~~~~~~~~~~~
+
+vereinigen industrielle komponenten, landwirtschaft, handel, studium, militär
+
+- soll modernisierung in vernachlässigte gebiete bringen
+- insgesamt sollten 24k geschafft werden
+- pro kommune ca. 5000 bäuerliche haushalte
+- jeder bekam jeden tag 3 mahlzeiten, egal was für job
+- "eiserne reisschüssel"
+- außerdem
+	- kindergärten
+	- altenheime
+	- krankenversorgung
+
+öffentliche arbeitsprojekte
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- vorstellungskraft und motivation der bauern sollte genutzt werden, um produktionsbereitschaft zu steigern
+- dörfer und kleinstädten "hinterhofhochöfen", bauern sollten stahl und eisenprodukte herstellen
+- arbeitskapazität sollte genutzt werden
+- um technologische und finanzielle mängel auszugleichen
+- sollte in moderner produktionsinfrastruktur die von bauern errichtet wurde
+- partei: stahlproduktion sollte in einem jahr verdoppelt werden
+
+folgen und probleme
+~~~~~~~~~~~~~~~~~~~
+
+- auf papier zuerst große erfolge
+- aber konnte nicht durchgehalten werden
+- probleme diesr politik waren groß
+- unabhängige koordination auf lokaler ebene
+- keine abstimmung mit irgendwas
+- naturgebiete wurden zerstört für brennholz
+- bauern wurden zur herstellung minderwertigen metalls erschöpft
+- fast vollständiger zusammenbruch der industriellen produktion und umfassende zerstörung von ressourcen
+- überall unkoordiniert wälder abgeholz, eisenprodukte produziert die nicht genutzt wurden
+- gesamtwirtschaftliches chaos
+
+missernten 1959-1961
+~~~~~~~~~~~~~~~~~~~~
+
+- bemühungen um produktionssteigerung führten zu missernten
+- kommunale speisesäle nahmen den anreiz zur produktivität
+- starker rückgang der landwirtschaftlichen produktion
+- kamen auch naturkatastrophen dazu
+
+hungersnot
+~~~~~~~~~~
+
+- breitete sich ab 1959 aus
+- januar-april 1960 meiste opfer
+- vor allem in nordchina kaum ausreichend nahrungsmittel
+- unreifes getreide wurde gegessen
+- rinde, wurzeln, nutzpflanzen, insekten, schlangen, kröten
+
+bilanz der hungersnot
+~~~~~~~~~~~~~~~~~~~~~
+
+- führungsriege war wahrscheinlich nicht über das volle ausmaß informiert
+- untersuchungsgruppen in regionen geschickt
+- oktober 1960 bericht: "massensterben"
+- zahlen die bis heute als am zuverlässigsten angegeben werden: 27-30 millionen tote
+
+ursache der hungersnot
+~~~~~~~~~~~~~~~~~~~~~~
+
+- missverständnisse und fehlplanungen
+- verzerrungen durch die allumfassende politisierung
+- administrative zurückhaltung
+- stark übertriebene produktionsergebnisse (grundlage für weitere unrealistische pläne)
+- innerparteilicher machtkampf
+
+lushan-konferenz juli/august 1959
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- große debatte in partei über diese politik
+- viele befürworten ausdehnung und verlängerung der nachjustierung (wiederstand gegen die kommunen, erste anzeichen einer lebensmittelknappheit)
+- peng dehuai äußert sich kritisch
+	- sagt mao "einmal wird die geschichte über uns urteilen, dieses urteil wird verheerend ausfallen"
+	- mao bezeichnet ihn als rechtsabweichler und parteiverräter
+	- parteiinterne kritik wurde mundtot gemacht, jegiche opposition und kritik wurde beseitigt
+
+glaube an die modernisierung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- ausbau der schwerindustrie und massive bauvorhaben als mittel zum zweck
+- ungleichgewicht zwischen trasnfer von arbeitskräften und resourcen aus der landwirtschaft in die industrie
+- urbanisierung führte zu hohen druck auf das versorgungssystem
+- zahl der landwirtschaftlichen arbeitskräfte sank um 33 mio menschen
+- zahl der nicht-landwirtschaftlichen arbeiter stieg um ca 70 mio
+	- dazu kamen neue junge leute die arbeitsmarkt zum ersten mal betreten, erklärt differenz
+
+widerstand in der bevälkerung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- viel widerstand gegen diese politik
+- verzögerungstaktiken
+- verstekcen von geerntetem getreide
+- schwarzmarkt
+- heimliche migration von landwirtschaft in städte (die besser versorgt sind)
+- die hungersnot führt zu einem aufschwung der volksreligion
+	- krisen führen oft zu aufschwung von religion
+- besonders den sekten wieder zugewandt
+
+legitimitätskrise
+~~~~~~~~~~~~~~~~~
+
+1960/61 als folgen sich offenbarten:
+
+- fundamentale politische krise
+- betrifft rolle der partei in gesellschaft
+- wesentliches versprechen des kommunismus:
+	- komplett verfehlt
+	- abschaffung der armut und verhinderung von hunger wurde nicht eingehalten
+- rückhalt der partei in der bevölkerung ist gering
+
+china ist in einer schwierigen und konfliktreichen situation.
+
+**Leitfragen**
+~~~~~~~~~~~~~~
+
+**Was waren die Ursachen für das Scheitern der Politik der Drei Roten Banner und des Großen Sprungs nach Vorn?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+**Welche Konsequenzen hatte diese Politik?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
