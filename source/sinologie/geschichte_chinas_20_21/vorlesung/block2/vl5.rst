@@ -521,7 +521,13 @@ weitere initiativen
 **In welche Phasen lässt sich die Kulturrevolution unterteilen?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+sit 1970 leidet mao unter krankheiten und ist davon stark beeinträchtigt. vor diesem hintergrund:
 
+führungskrise
+~~~~~~~~~~~~~
+
+auch durch kulturrevolution erregte aufruhe trägt zu dieser nachfolgekrise bei
+-
 
 Vorlesung 5.4: Führungskämpfe am Ende der Kulturrevolution
 ----------------------------------------------------------
