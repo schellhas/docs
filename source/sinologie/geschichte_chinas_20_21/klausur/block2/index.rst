@@ -21,3 +21,21 @@ Was waren die unmittelbaren und die langfristigen Folgen der Kulturrevolution? W
 
 Leitfragen
 ----------
+
+Vorlesung 4.1: Was waren die Ursachen für den Konflikt zwischen der VR China und der Sowjetunion?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- mao war wütend dass sowjets ihn nicht über neuen kurs informiert haben
+- durch sowjetischen wandel werden auch stimmen in china laut die dies kritisieren
+- das schiebt mao auf sowjetischen wandel
+- mao macht keine mäßigung und liberalisierung ,er will vertiefung des kampfes im innern und international
+- daher differenzen mit sowjets nehmen täglich zu
+- spannugn und kritik gegenseitig
+- nach taiwan krise 1958 treffen von chrustschov und mao in peking
+	- chrutschov kritisiert mao für eskalation in zeiten von atombomben, fordert ihn auf das zu unterlassen
+- 1960 dann bruch mit der sowjetunion
+	- sowjetische brater werden aus china bagezogen
+	- china nennt sowjets "revisionisten", sowjets nennen chinas sozialismus "bauern- oder primitiver sozialismus"
+- zusammenfassung:
+	- sowjetunion öffnet, will tauwetter, frieden mit westen
+	- china will konfrontation, eskalation, klassenkampf, stärkung sozialismus
