@@ -247,15 +247,286 @@ kriegsgefahr
 **Welchen Einfluss hatte die internationale Situation Anfang der 1960er Jahre auf die Entwicklung in China?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+einenen großen, es gab verschiedene "brodelnde" bereiche:
 
+- tibet/indien
+	- aufstände in tibet da sich die leute dort nicht mit chinesischer kollektivierungs-politik identifizieren
+	- durch flucht des dalai lama nach indien unterstellt china indien doof zu sein
+	- kommt zu border friction, china reagiert militärisch, auch um entschlossenheit und bereitschaft für krieg zu zeigen
+	- bis heute demilitarisierte zone
+	- china nutzte es als ausrede das zu zeigen, eigentlicher konflikt eher egal
+- kuba-krise
+	- china war unzufrieden mit sowjetischem nachgeben in cubakrise
+	- wollte dass sowjets so eskalieren wie china in indien
+	- beschuldigt sowjets mit usa zusammen gegen china zu arbeiten, hinderung an atommacht
+- zhou enlai mobilisiert afrika, china sieht sich vermehr als "führungsrolle" der blockfreien und 3. welt staaten
+- zunehmende isolation
+	- nordkorea, nordvietnam gehen weiter auf sowjets zu, wenden sich von china ab
+	- usa arbeiten enger mit südkorea, taiwan und hongkong zusammen
+	- china fühlt sich eingekreist
 
 **Wie reagierte die chinesische Politik, und insbesondere Mao, auf die internationalen Ereignisse?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+- mao ist empört über jegliche westzuwendung und "weichheit" der repräsentation des internationalen sozialismus/kommunismus
+- geht im gegensatz zu den sowjets auf volle konfrontation
+- mobilisiert jungend und warnt wie immer vor scheitern der revolution
+- will immer weiter eskalieren
 
 Vorlesung 5.3: Die Kulturrevolution (1966-1976)
 -----------------------------------------------
 
+Etwa ab ende 1965 beginnt mao davon zu reden dass proletarische kulturrevolution gegen jen in der partei richtet, die seine überzeugungen nicht teilen, und gegen sine politik argumentieren. die kulturrevolution dauert etwa 10 jahre.
+
+das jahrzehnt der kulturrevolution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+in drei perioden unterteilbar
+
+1. 1966-1968 "die heiße phase"
+	- demonstrationen
+	.- mssenbewegungen
+	- rote garden
+	- straßenkämpfe
+2. 1968-1971 landverschickung der roten garden
+	- rote garden werden aufs land geschickt
+	- machtzunahme der vba
+	- brutale massensäuberungen "säuberung der klassenränge"
+3. 1971-1976 "graue phase"
+	- konsolidierung nach der lin-biao-affäre
+	- langsame normalisierung
+	- konsolidierte ruhige situation entsteht
+
+ziele der kulturrevolution
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+unterscheiden zw breiten, konfusen, utopische ziele und konkrete, praktische ziele, die relativ klar sind.
+
+**ambitionierte breite ziele:**
+
+- kluturrevolution für mao ein dramatischer historischer akt
+- chinesische gesellschaft steht auf und tut etwas neues nie dagewesenes
+- revolution durchführen in der revolution
+- gegen autoritären und institutionen die die revolutionene 1949 geschaffen hat
+- in der geschichte keine parallele für einen führer der die eigene bevälkerung aufruft zu putschen gegen etwas das er geschaffen ha
+- ruft jugendliche auf, den staat anzugreifen, den er gebaut hat
+- allumfassender Umsturz (*dadao yiqie*)
+- allseitiger innerer kampf (*quanmian neizhan*)
+
+**konrete ziele:**
+
+- vorgesehenen mann der ihm nachfolgen soll zu entfernen und durch jmdanders zu ersetzen
+- entfernung liu shaoqis
+- seit 1949 eig 2. mann im staat
+- 2. person soll entfernt werden
+- durch jemand anderen ersetzen
+- korrektur des politischen kurses der KPCh
+	- pragmatischen moderaten kurs korrigieren, in verbindung mit lokalen märkten, privateigentum, von mao zunehmend kritisiert
+- will jugend eine revolutionäre erfahrung schaffen
+- revolution nur erfolgreich, wenn jede generation eine revolution hatte
+- "permanente, kontinuierliche revolution"
+
+rebellion (*zaofan*)
+~~~~~~~~~~~~~~~~~~~~
+
+*zaofan youli*, "Rebellion ist richtig"
+
+- studentendemonstrationen, denunziationen, säuberungen und öffentliche schauprozesse
+- mao hatte unterstützer in der partei
+	- jiang qing, seine frau
+	- langjähriger sekretär chen boda, half mao seine schriften zu verfassen
+	- kang sheng, chef der sicherheitsbehörden, innerparteiliche disziplin, geheimpolizei
+	- diese 3 sind die kerngruppe auf die sich mao in kulturrevolution verlässt
+
+kritik an wu han
+~~~~~~~~~~~~~~~~
+
+revolution beginnt mit öffentlicher kritik an Wu Han, stellvertretender bürgermeinster bejinigs
+
+- verfasste theaterstück
+- dieses, laut mao, kritisiert mao
+- spielt eigetnlich in ming dynastie, 16. jh.
+- beschreibt geschichte, wie beamter kaiser kritisiert, obwohl das tod heißen kann
+- zeitgenossen haben das gelesen als eine parabel zu mao zedongs behandlung von peng dehuai am ende des großen sprungs nach vorne
+	- pen gdehuai hatte mao vor allen kritisiert
+	- viele zeitgenossen sahen das als parallele
+- stück wurde also als kritik an mao gelesen
+- 1965 november wird wu han angegriffen öffentlich, das leitet die kulturrevolution ein
+- später folgen andere angriffe auf intellektuelle und ihre schriften
+
+1966: zentrale gruppe kulturrevolution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- frühling 1966, zentrale gruppe "kulturrevolution", später "*xiaozu*", kleine gruppe
+- kleine informelle gruppe gegründet aus parteileuten
+- die jetzt alle wichtigen entscheidungen treffen
+- wurden im nächsten jahrzehnt zum zentrum für chinesiche macht
+- kritisierte und entfernte zuvor geachtete parteiführer
+	- peng zhen
+	- li dingyi
+	- zhou yang
+	- alle 3 verdiente parteiführer die seit 30ern für die partei kämpfen
+	- alle jetzt angeklagt als konterrevolutionäre der schwarzen bande
+	- propagandaplakat: mitglieder der schwarzen bande dargestellt, sollen diese kritisieren und von ihnen distanzieren
+- mai 1966: mao führt offiziell durchführung einer kulturrevolution an
+- kampf gengen revisionismus in der partei
+- will alle entfernen
+- dadurch gesellschaft zum sozialismus voranbringen
+- wichtig: wie mao das tut
+- nicht indem er sich auf armee verlässt oder indem er parteikader in der partei mobilisiert
+- er tut es indem er die jugend mobilisiert
+
+große Wandzeitungen
+~~~~~~~~~~~~~~~~~~~
+
+- in unis und oberschulen
+- breitet sich landesweit aus
+- erste 25. mai 1966 von studis der peking uni
+- kritisierne führung und leitung der uni
+- rektor wird vorgeworfen revisionist zu sein
+- diese bewegung sehr schnell landesweit verbreitet
+- überall studenten und schüler hngen wandzeitungen auf die selbst verfasst sind
+- allein im juni 1966: 65000 plakate in beijing
+- in shanghai 88000
+- mindestens 1360 menschen angeklagt
+- was treibt diese jungen menschen dazu?
+	1. sie sind besonders durch mao kult beeinflusst. sie glauben dass wenn mao sie dazu aufruft sich zu engagieren, dann müssen sie dem folgen. leute waren exstatisch in der nähe von mao
+	2. studenten und schüler waren unzufrieden. konkrete ursachen dass sie nteresse an revolution hatten. zustände an schulen und unis schlecht, berufliche zukunft unklar.
+- 13. juni 1966, schuunterricht eingestellt, aufnahmeorüfungen für unis fielen aus.
+- dadurch 13 millionen und ca. halbe million studenten ohne beschäftigung, waren also ready für politische aktionen
+- außerdem dürfen schüler kostenlos mit de rbahn fahren
+- konnten jetzt ohne letern in andere städte reisen
+- august 1966: maos "sechzehn punkte"
+	- kulturrevoution einzige methode zur selbstbefreiung der massen
+	- unruhen zugelassen
+	- massen sollen sich selbst unterrichtne
+	- massen können zw richtig und falsch unterscheiden
+- er heißt also gut was die studenten tun
+- das ist signal
+- mao macht selbst ein wandplakat
+- "bombadiert das hauptquartier", also die partei
+- aufruf zum angriff an die partei
+- absetzung und anprangerung an hohe tiere
+- greift an, es ist in ordnung, ist das signal
+- studenten beteiligen sich, da sie hoffen es gibt neues system das ihnen bessere chancen gibt und privilegien
+
+rote garden (*hongweibing*)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- selbst erfundener begriff
+- mao befürwortet ihn
+- selbst mit einer armbinde dieser
+- er sieht sich auch als rotgardist
+- sollten "vier alte relikte" zerstären
+	- alte gedanken
+	- alte gebäruche und gewohnheiten
+	- alte kultur
+	- alte kunst
+- kapitalisten aufspüren, revisionisten kämpfen
+- öffentliche kritikversammlungen
+- demütigungen
+- gewalthandlungen
+- "roter terror"
+
+fraktionskämpfe
+~~~~~~~~~~~~~~~
+
+die entwicklung läuft anders als mao dachte
+
+ende 1966:
+
+- in den roten garden selbst verschiedene gruppen
+- gibt "erste rote garden" des ersten moments
+- später "rebellenruppen" rebellenrote garden die anderen hintergrund haben, aus land oder ärmlicheren gegenden, erst später dazu
+- anfang 1967: arbeiterorganisationene gründeten garden
+- militärische meuterei in wuhan
+	- soldaten stehen auf und erheben sich gegen ihre alten vorgesetze
+- zahllose konflikte in ganz china
+- führt zu gruppenbildung in städten und dlrfern und rebellieren gegen representanten von partei und staat
+- ergebnis ist chaos
+- bewaffnete häuserkeige und straßenschlachten
+- bürgerkrieg basically
+- gruppen schießen mit schwerer artillerie aufeinander
+- situation gerät außer kontrolle
+- 1968: wiederherstellung der ordnung auf maos befehl
+- vba wird landesweit einberufen
+- ruft neue militärkometees ein, die in china macht übernehmen sollen
+- "revolutuonskmitees"
+- schulen öffnen wieder
+- kampagne zur "säuberung de klassenränge" mit 1970
+- zu dieser zeit ist massenbewegung der revolution vorbei
+- säuberungen finden jetzt statt, wo kritiker entfernt werden
+- landen in kaderschulen des 7. mai
+- oder werden aufs land geschickt oder sterben durch todesurteile und hinrichtungen, teilweise unkontrolliert
+
+lernen von der landbevälkerung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+rotgardisten werden aufgerufen, vom land zu lernen. merh als 12 millinonen kugendliche werden aufs land gescickt. handelt sich um genau jede studis und schüler die den aufruf maos zur rebellion gefolgt sind. später folgen mehr.
+
+- lebensumstände auf land für viele jugendliche ernüchternd
+- eigentlich ofiziell aufgerufen auf dem land zu lernen
+- stellten aber fest dass bauern nicht revolutionär oder politisch waren
+- größtes oroblem auf land war armut worauf schüler schlecht vorbereitet warne
+- junge mädchen 16-18 wurden dort missbraucht und vergewaltigt
+- mehrheit der studierenden schülern ist rückkehr erst 1970 möglich
+- viele waren 7, 8 oder 10 jhahre auf dem land
+- später "verlorene generation" weil sie über 10 jahre ihrer ausbildung auf dem land warne
+- jemand der im ersten semester an einer uni war, kommt mit 31 raus und hat ausbildung nie abgeschlossen.
+- diese gruppe der rotgardisten fühlt sich also bedroht
+- es dämmert dass ien icht hingeschickt wurden um zu lernen, sondenr um ordnung wiederherzustellen
+- enttäuschung und desillusionierung
+
+weitere initiativen
+~~~~~~~~~~~~~~~~~~~
+
+- ab 1970
+- initiative zur deuzierung der "drei größten unterschiede" zu reduzieren
+	- geistige vs. körperliche arbeit
+	- arbeiter vs. bauern
+	- städtisches vs. ländliches
+- positive initiative der kulturrevolution
+- größere gleichheit herstellen, untershciede in gesellschaft abbauen
+- anzahl der schuljahre wurde verkürzt
+- studenten sollten mehrere jahre kärperliche arbeit verrichten vor uni
+- so lernten studenten situation auf dem land kennen
+- allgemeine zugangsprüfungen wurden abgeschafft, kollektives lernen betont
+- gesundheitsverosrgung in ländlichen gebieten
+- neuverteilung des medizinischen personals
+- bauern hatten zum ersten mal zugang zu einem gesundheitssystems
+- "barfußdoktoren"
+- die auf dörfer gingen und konnten bauern helfen
+- oft traditionelle chinesische medizin
+- rotzdem von bauern begrüßt
+- war ein versuch ihnen konkrez zu helfen
+- im ländloichen bereich hatte kulturrevolution positive effekte
+- aber im wesentlichen ein städtisches phänomen
+- in ländlichen regionen oft nichts bemerkt
+- motivierte selbstversorgung und soziale verbesserung auf dem land
+- soziale fürsorge durch z.b. eiserne reisschüssel eine garantierte bezahlung und arbeitsplatz für die bauern
+- vergleicht man land und stadt
+	- kulturrevolution im ländlichen bereich verbesserungen
+	- im städtischen bereich destruktiv
+
+- ambivalente konequenzen zeigen warum auch heute kulturrevolution einersetzs in china als positiv abe rauch sehr kritisch betrachtet wird.
+
+
+**Leitfragen**
+~~~~~~~~~~~~~~
+
+**Welche Ziele verfolgte die Kulturrevolution?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+**In welche Phasen lässt sich die Kulturrevolution unterteilen?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
 Vorlesung 5.4: Führungskämpfe am Ende der Kulturrevolution
 ----------------------------------------------------------
+
+
+
+**Leitfrage: Was waren die unmittelbaren und langfristigen Folgen der Kulturrevolution?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
