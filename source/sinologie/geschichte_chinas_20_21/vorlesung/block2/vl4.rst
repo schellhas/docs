@@ -471,7 +471,36 @@ china ist in einer schwierigen und konfliktreichen situation.
 **Was waren die Ursachen für das Scheitern der Politik der Drei Roten Banner und des Großen Sprungs nach Vorn?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+- fehlplanung und mangelnde koordination
+	- lokale ebenen arbeiteten unkoordiniert
+	- keine zentrale abstimmung der maßnahmen
+	- ineffiziente nutzung von arbeitskraft und ressourcen
+- falsche produktionszahlen
+	- übertriebene erfolgsmeldungen aus lokalen ebenen
+	- führte zu noch unrealistischeren vorgaben
+	- mangelhafter stahl
+- "eiserne reisschüssel"
+	- gleiche versorgung minderte produktivität
+	- sinkende motivation und produktivität
+- zerstörung von ressourcen
+	- abholzung für hinterhofhochöfen
+	- produktion von unbrauchbarem metall
+- naturkatastrophen
+- unterdrückung von kritik
+	- innerparteiliche kritik (z.b. peng dehuai) wurde ausgeschaltet
+	- falsche politik konnte nicht korrigiert werden
 
 **Welche Konsequenzen hatte diese Politik?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- hungersnot, 26-30 millionen tote
+- wirtschaftlicher kollaps
+	- einbruch der landwirtschaft
+	- einbruch der industrie
+	- verschwendung von ressourcen
+- rückgang zu religion/sekten/bruderschaften durch krise
+- unruhe in der partei, kritische stimmen
+- **das** versprechen vom sozialismus gebrochen
+	- armut verbreitet
+	- hunger verbreitet
+	- lebensstandard niedrig
