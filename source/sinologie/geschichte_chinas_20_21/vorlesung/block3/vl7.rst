@@ -236,11 +236,308 @@ Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 e
 Vorlesung 7.2: Öfentliche Debatten über die chinesische Kultur in den 1980er Jahren
 -----------------------------------------------------------------------------------
 
+- hauptzweck der deng reformen: verbesserung der lebensstandards und wirtschaftlichen verhältnisse
+- aber viele andere betroffen, z.b. kultur und erziehung. beide maßgeblich getroffen und grundlegend gewandelt
+
 **Leitfrage: Welche Ideen und Vorstellungen prägten die öffentlichen Debatten in den 1980er Jahren?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- kontakt zu westen durch handel, investment, übersetzungen, fernsehen, etc.
+	- intellektuelles leben in china verändert
+	- neues wissen verfügbar
+	- unterschied von marxismus
+	- leidenschaftliche debatten über änderung der chinesischen kultur und reform auch über politisches system
+- modernisierung chinas mittels technologie- und wissenstransfer
+- wiedereinführung des nationalen eintrittsprüfungssystems (gaokao)
+	- wichtige entscheidung
+	- landesweites system das alleine über hochschulzugang entscheidet
+	- wieso wichtig?
+	- damit das alte system überwunden, basierte auf politischen kriterien
+	- politische überzeugung, aktivismus, leistung in landwirtscahft waren damals wichtige faktoren
+	- talent und leistung jetzt einziger zugang zu höherer bildung
+- internationaler studentenaustausch
+	- internationale studenten brachten neue internationale kultur ins land
+- dadurch liberalisierung
+- stimmen in der partei:
+	- angst vor absoluter macht der partei durch liberale kultur
+	- aber auch widerstand gegen "linke" ideen und abschottung des landes
+- regierung wählt "mittleren weg"
+	- intellektuelle öffnung kontrollieren und managem
+	- wenn entwicklung zu weit -> mit kampagnendarauf reageiren
+		- z.b. gegen "geistige verschmutzung" oder "gegen burgeoise liberalisierung"
+	- amdererseits öffnung beibehalten da wichtig für wirtschaft
+	- wollte großere nutzung der marktkräfte
+	- man wollte gesellschaftliche und intellektuelle vielfalt um monopol der partei zu ersetzen
+- literatur
+	- während kulturrevolution bücherverbrennungen
+	- in braunen umschlägen damit man nicht weiß was es ist
+	- wurden weitergereicht, von hunderten bis tausenden studenten gelesen
+	- untergrundliteratur
+		- 70er und 80er, zuerst untergrund, später in magazinen
+	- obskure dichtung
+		- schock für literarisches system der KP
+		- hatte in 50er und 60ern realismus propagiert
+		- obskure dichtung also viel zu abstrakt
+		- mittlerweile international bekannt
+	- offenheit, suchen nach neuem, mut zu eigenen gefühlen, verwirrung der zeit und mangelnde orientierung
+	- "*suche nach den wurzeln*"
+		- experimentelle erzähltechniken
+		- innere naration, bewusstseinseinstrom
+		- komplexe symboliken
+		- verschiedene sprachregister
+		- auf suche nach kulturellen quellen chinas
+		- unerhört neu
+		- mao hat vergangenheit immer kritisiert
+		- gilt jetzt als reichhaltig, teifgründig und bereicherung
+	- publikationen über die welt
+	- ziel: schaffung eines öffentlichen raums
+	- nietzsche, kant, weber, kafka, mann
+	- china im "leserausch"
+	- höhepunkt davon:
+		- *he shang*, "Flusselegie"
+		- frage: wie konnte das einst mächtige chinesische kaiserreich hinter die westliche welt zurückfallen?
+		- autoren kommen zur antwort: die ursachen sind vor allem in einem fundamentalen defizit im kern der chinesischen tradition zu suchen. dieses defizit ist etwasvon dem die autoren der auffassung sind dass es sowohl die tradition behindert hat als auch chinas weg in die moderne beeinflusst hat. diese tradition die sie dort betrachten sehen sie als eine kontinentale, als ein autokratische, als eine abgeschlossene und isolierte tradition an. sie beschreiben also die kultur des traditionellen chinas einerseits als eine der zivilisatorischen größe, aber sie hat eben ein großes defizit, sie ist konservativ und sie ist isolationistisch.
+		- in der serie wird der gelbe fluss als symbol für china verwendet. der gelbe fluss, die lössebene, der sich so langsam durch diese ebene schlängelt, träge, und der gefährlich ist weil er immer wieder durch überflutungen die menschen bedroht. und die seire kontrastiert das mit dem blauen, dem blauen des meers, des himmel, und irgendwie durch diese symbolik wird für chinesen sehr deutlich angezeigt, das blaue ist eigentlich der westliche liebralismus, was die serie argumentiert, wir haben auf de rinen setie ein konservatives, starres, grausames china, und wir haben die offene, emanzipierte westliche zivilisation des meeres dagegen. die serie will damit vor allem eine einzige aurgumentation voranbringen. diese argumentation besagt, dass es für china notwendig ist, sich mit lieberalismus zu beschäftigen, sich zu öffnen, und das politische system zu liberalisieren.also westliche werte und liebrale ideen, freiheitliche ideen übernommen werden, und nur das kann gewissermaen dieses erbe des konservativsmus, des gelben flusses, überwinden helfen.
+		- in ihrer radikalität der verurteilung des autoritarismus, und jeder form der abschottung und ihrer hinwendung zu einer freiheit und zum westen ist diese serie ohne irgendeine parallele in der chinesischen geschichte, und die debatten die sie hervorruft sind intensiv, es gibt ganze fernsehsitzungen, talkshows die sihc damit bschäftigen, ganze vorlesungsreihen die millionen von chinesen faszinieren und interessieren, und im grunde geht e sdabei um die debatte, "wie soll es weitegehen in china, sollen wir an einem autoritären system festhalten, oder haben wir dieses system zur öffnung und liberalisiern" und die fenrsehserie macht klar, china muss sich auch politisch verändern.
+		- asustrahlung war nur mäglich weils in der KP kräfte gab die genau den liberalismus befürworteten.
+- hu yaobang und zhao ziyang waren für liberalismus innerhalb der KPCh
+	- reformorientiert und der auffassung dass auch politisches system reformiert werden muss
+	- ermutigten schriftsteller, ließen serien zu, unterstützten öffentliche situation
+
 Vorlesung 7.3: Die Niederschlagung der Demokratiebewegung am 4. Juni 1989
 -------------------------------------------------------------------------
+
+- bis heute keine aufarbeitung
+- schwelgt weiter im unterbewusstsein der gesellschaft
+
+ruf nach politischen reformen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- wirtschaftliche reformen
+- intellektuelle öffnung
+- debatten über zivilisation und geschichte chinas
+- führten alle zu fragen wie rechte und anliegen geschützt werden in china (bei manchen)
+- geht bis in 70er zurück
+- kulturrevolution sind viele menschen verltzt worden, verfolgt worden, intellektuelle bestraft worden, in arbeitslager geschickt worden, oder freiheit beraubt worden
+- mit beginn der reform und äffnungpolitik wollen die die gelitten haben, ihre erfahrungen thematisieren, und sicher stellen, dass sie nicht nochmal opfer werden
+- 1978: "mauer der demokratie"
+	- ist eine mauer
+	- wandzeitungen
+	- berichtet über erfahrungen von opfern der kulturrevolution
+	- aufrufen aus fehlern der vergangenheit zu lernen
+	- frage nach schuldigen
+	- einige wenige intellektuelle stellen forderungen nach demokratie und schutz der individuellen freiheitsrechten
+	- mauer der demokratie ist reaktion auf dramatische erfahrungen der kulturrevolution
+	- rekation auf eingriff in eigene rechte
+	- "nur durch demokratie kann weitere kulturrevolution verhindert werden"
+	- gruppe hinter den protesten klein, opfer der kulturrevolution
+- eine person:
+	- wei jingsheng
+	- äußert sich kritisch wie kein anderer
+	- welche konsequenzen partei ziehen muss
+- märz 1979: deng: "vier grundprinzipien"
+	1. der sozialistische weg
+	2. unter führung der KP
+	3. auf grundlage von marxismus-leninismus-maoismus
+	4. auf grundlage der diktatur des proletariats
+- deng: autoritäre beendigung der debatte um die rolle der demokratie
+- kommt zur verhaftung und verurteilung der anführer der bewegung
+- wei jingsheng schreibt im gefängnis weiter
+- hält an seinen überzeugungen fest
+- kommt nicht umerzogen aus dem gefängnis
+- es gibt für china keine alternative
+
+konflikt
+~~~~~~~~
+
+- zwischen partei (machterhalt) und intellektuellen/studenten (demokratie und rechte)
+- in diskussion kommen immer mehr intellektuelle
+- liu binyan
+	- überzeugter kommunist
+	- hat sich stark für sozialismus engagiert
+	- wird in 80ern kritisch gegenüber partei
+	- wurde während politischen kampagnen verurteilt und verfolgt
+	- testet grenzen der meinungsfreiheiten
+	- hinterfragt ideologische grundordnung
+	- beschreibt korruption
+	- ideologische engstirnigkeit, machtmissbrauch
+	- wie kader intellektuelle drangsalieren
+	- freiheitseinschränkung
+	- tritt ein für journalistische freiheit
+	- kritik an partei notwendig
+	- um volk zu vertreten
+- fang lizhi
+	- physiker
+	- in 50ern und 60ern für sozialismus
+	- durch kulturrevolution desillusioniert und enttäuscht
+	- sagt in 80ern, man müsse system verändern
+	- hintergrund: wissenschaftlicher rationalismus
+	- beschreibt marxismus als überholt ideologie des 19. jh.
+	- marxismus galt als wissenschaft, als wissenschaftlich begründet
+	- bezweifelt die wissenschaftlichkeit, nennt es doktrin
+	- wissenschaftlich weder widerlegbar, noch begründet
+	- fang lizhi sieht gedanken und redefreiheit als voraussetzung
+	- partei muss intellektuelle freiheit zulassen
+	- darf sich nicht in intellektuelles und wissenschaftliches leben einmischen
+	- ist kritiker des westens
+		- in westen haben unternehmen udn wirtschaftskreise zu viel einfluss auf wissenschaft
+		- auftragsforschung
+		- nehmen einfluss auf wichtige prozesse
+		- beeinflussen richtung der wissenschaft
+		- wissenschaftsfreiheit und akademische freiheit sind absolut
+		- weder religion, politik, wissenschaft sollten einschränken
+	- wird als dissident beezeichnet, flieht nach amerika
+- werden im exil oft einsam, verlieren einfluss
+
+widerstand der partei
+~~~~~~~~~~~~~~~~~~~~~
+
+- kampagne gegen geistige verschmutzung , 1983
+- kampagne gegen bourgeoise liberalisierung, 1986-1987
+- einschränkung kultureller produkte und ideen aus dem westen
+- führen zur desillusionierung vieler intellektueller
+
+- partei hält nichts von freiheiten
+- grenzen der freiheiten zeigen sich sehr deutlich in dieser zeit
+
+die demokratiebewegung von 1989
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1989 kommt konfliktstellung die immer dringlicher wird, eine schwellende krise
+
+- größte spontane massenbewegung seit gründung der VR china
+- kommt zu stande als liberaler generalsekretär verstirbt
+- und studenten fangen an ihm spontan ohne anweisung der partei zu gedenken
+- liegen kränze und bilder am tiananmenplatz nieder
+- studenten sympathiesieren also klar mit sienen liberalen vorstellungen
+- sie wussten wer liberalisierung vorantreibt
+- gedenken, singen lieder, verfassen gedichte, über hu yaobang
+
+- missfallen vieler v.a. linken kadern innerhalb der partei
+- sehen in politischem gedenken ein politisches statement
+- war es ja auch
+- parteiblätter veröffentlichen kritische kommentare die dem öffentlichen gedanken von hu yaobang einhalt zu gebieten
+- aus gedenkfeiern werden deshalb demonstrationen
+- mehr und mehr strömen auf tiananmenplatzu
+- mittlerweile geht es um mehr
+- erste forderungen nach demokratie werden laut
+- einhaltung individueller rechte
+- freiheiten, musik, bücher, ausland
+- offizielle parteizeitschrift, wird immer kritischer in berichterstattung über studentendemos
+- bewegung wird als "tumult" bezeichnet, der ovn wenigen menschen die um hu yaobang rum aktiv waren mit hintergedanken und in verräterischer absicht ferngesteuert werden
+	- ist die sicht der partei, wie sie es im parteiblatt darstellen
+- als reaktion auf artikel
+- am 27. april gehen 100000 studenten auf die straße
+- jetzt schon klar: eine der großen herausforderungen der partei
+- sowas hat es noch nie gegeben
+- in folgenden tagen immer mehr
+- viele verlassen den platz gar nicht mehr
+- machen ein "sit-in", geben nicht mehr frei, verlassen nicht
+- auch in anderen städten kommt es zu demonstrationen
+- wird damals im westen kaum wahrgenommen
+	- shanghai, nanjing, chengdu, guangzhou
+	- selbe forderungen
+- mai 1989: regierung macht zugeständnisse
+- studierende verlangen dialog mit partei
+- verärgert über berichterstattung und vorwurf von landesverrat
+- verlangen verhandlung mit führern der partei
+- partei lehnt das ab
+- will zugeständnis nicht machen
+- würde bedeuten die partei muss sich einer massenbewegung beugen
+- studenten beginnen einen hungerstreik
+- dadurc hgelingt neue eskalation
+- hungerstreik ist machtvolle waffe, wo viele in 50ern verhungert sind wegen politischem missmanagement und kulturrevolution
+- kaum zu überschätzendes politisches symbol des protests
+- öffentliches hungern/verhungern auf dem platz
+- nach wenigen tagen werden die ersten schwach
+- studierende fast leblos auf ihren lagern
+- hungerstreik bringt gewaltige welle der sypathie und öffentlichen solidarisierung mit studenten die durch china geht
+- jetzt sind es millionen die auf die straße gehen
+- in unterstützung der anliegen der studierenden
+- 19. mai: hunderttausende der bewohner pekings gehen auf die straße, um vorrücken der armee zu verhindern, die von partei ausgeschickt wurde
+- in großen städten versammeln sich erstem ilitärische kontingente
+- um städte wieder unter kontrolle zu bringen
+- 100000 gehen auf die straße, nur mit kleidung und leben
+- stellen sich soldaten entgehen
+- städtische bewohner sind siegreich
+- truppen ziehen sich zurück
+- können 100000 menschen nicht überwinden
+- starker rückschlag für partei
+- seit 1949 ist nichts was sich mit diesem ereignis vergleichen ließe
+- die partei, weiß man im nachhinein, ghet in intensive beratungen
+- etwas eine woche lang wird debatiert
+- wissen es von memoiren von zhao zeyang
+- er hat memoiren aus dem land geschmuggelt, auf kasetten als kinderspiele getarnt
+- beschreibt ereignisse dieser zeit
+- tägliche stundenlange auseinandersetzungen
+- er sagt, man darf niemals mit gewalt auf studenten zugehen
+- andere sagen, wenn man jetzt nicht eingreift, verliert man die kontrolle
+- und china wird kollabieren
+- partei würde macht verliren
+- nach langen debatten
+- 3. juni: entscheidung des politbüros, soldaten beauftragt, mit waffengewalt platz zu räumen
+- mit scharfer munition wird geschossen
+- partei marschiert zur nacht zum 4. juni ein
+- tausde oder hudnerte von toten, schätzungen von 300-400 bis zu 3000-4000
+- tausende von verwundeten
+- am abend vor räumung ist zhao ziyang noch zu studenten gegangen
+
+konsequenzen
+~~~~~~~~~~~~
+
+- kosequenz der niederschlagung: kluft innerhalb der partei wird beseitigt
+- zhao ziyang wird unterhausrrrest gestellt
+- liberale und prodemokratische gruppen in der partei werden zum schweigen gebracht
+- versuche einen moderaten und politischen kurs zu verfolgen
+- gilt jetzt als illoyalität und versuch der spaltung der partei
+- eine der konsequenzen:
+	- innerparteiliche fraktion die für liberales china eingetreten ist, ist jetzt ausgelöscht
+	- ab jetzt niemand mehr in der partei der sich für demokratie und liberalisierung einsetzt, in der führungsgruppe
+
+unmittelbare konsequenzen
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ergebnis: innere konsolidierung der KPCh, geschlossener den je
+
+- politische stabilität und konsolidierung der kommunistischen partei
+- temporärer halt der wirtschaftlichen reformen
+- überhitze wirtscahft kühlt ab und wird stabiler
+
+alles natürlich nur möglich, da mit menschenleben gezahlt, konsequenzen problematisch, als die wichtigen themen von demokratie und freiehit von china jetzt nicht mehr erörtert werden können.
+
+langfristige konsequenzen
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- zeigte konflikte zw gesellschaftlichen gruppen auf
+- neben dmeokratie und freiheit auch um gerechtigkeit, arm und reich
+- um nachhinein:
+	- demokratiebewegung ausdruck der verstärkenden sozialen und gesellschaftlichen spannungen
+	- gefälle zw stadt und land
+	- verwerfung durch die volk gegangen ist
+
+internationaler kontext
+~~~~~~~~~~~~~~~~~~~~~~~
+
+- kamen vor eriegnissen in osteuropa
+- die zum zerfall des sozialismus in osteuropa führten
+- und fundamentalen politischen transformation in russland und anderen ehemalig sozialistischen staaten
+- sozialistische staaten in osteuropa wählen anderen weg, nutzen keine gewalt gegen protestierende
+- öffnen sich forderungen nach demokratischen freiheiten
+- weitegehend friedliche regimewechsel
+- chinesische erfahrung spielt große rolle
+- wurde mit entsetzen wahrgenommen
+- ohne diese in china, wär es in osteruopa vlt anders passiert
+
+- in vielen anderen gegenden gibt es auch keine öffnung
+- oft china ähnliche entscheidungen
+- neue formen des widerstands gegen westliceh liberale ordnugn entstehen
+	- z.b. im politischen islam
+- islamische fundamentalisten sind der überzeugung krieg gegen westen jetzt in den westen zu tragen
+- populismus in russland, lateinamerika
+- 90er als ergebnis nicht nur jahre der politischen liberalisierung
+- auch form autoritärer herrschaft
+
+auf der grundlage des durch die demokratiebewegung und der niederschlagung entstandenen chaos wurde das autoritäre chinamodell geboren. das modell das in großen teilen der nicht-westlichen welt eine gewisse bewunderung und anerkennung findet.
 
 **Leitfragen**
 ~~~~~~~~~~~~~~
@@ -248,5 +545,8 @@ Vorlesung 7.3: Die Niederschlagung der Demokratiebewegung am 4. Juni 1989
 **Welche Faktoren führten zum Entstehen der Demokratiebewegung?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+
 **Was waren die Folgen ihrer gewaltsamen Niederschlagung?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
