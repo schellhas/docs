@@ -53,9 +53,9 @@ Die Reaktion Chinas
 Wenn man in China darüber nachdenkt, wie man das eigene System reformieren kann, ist klar, dass das sowjetische Modell nicht mehr exemplarisch ist. Auch in China wirkt es negativ.
 
 - Orientierung Chinas an ostasiatischen Nachbarn  
-    - Täuschung, dass China sich am Westen orientiert  
+	- Täuschung, dass China sich am Westen orientiert  
 - Japan, Südkorea, Hongkong, Taiwan  
-    - Aus ähnlicher Lage heraus (Unterentwicklung, Armut) Reformen begonnen, die ihnen Zugang zur Industrialisierung und beschleunigten Modernisierung ermöglichten  
+	- Aus ähnlicher Lage heraus (Unterentwicklung, Armut) Reformen begonnen, die ihnen Zugang zur Industrialisierung und beschleunigten Modernisierung ermöglichten  
 - Wenn China also Vorbilder sucht, sind diese Vorbilder wesentlich relevanter  
 - Für China ist klar: Zusammenarbeit mit entwickelten Staaten des Westens ist von großer Bedeutung  
 - Annäherung an die USA  
@@ -108,7 +108,7 @@ Abbildung: Wachstumskurve Chinas, wäre nicht möglich gewesen ohne günstige gl
 
 - Durch Wirtschafskrise in 70ern waren Investitionen in Westen und Ostasien unprofitabler
 - China im Gegensatz unerschlossen und unterentwickelt -> sehr attraktiv
-    - Außerdem Zugang über "verwestlichtes" Hongkong
+	- Außerdem Zugang über "verwestlichtes" Hongkong
 - Durch sowjetische Versagen war ein "Konkurrent" weniger
 - Durch neoliberalismus mehr Hinwendung zu deregulierten und freien Märkten
 - sozialistische Ideen werden vor allem auch wirtschaftlich kritisiert
@@ -172,7 +172,7 @@ Die Reaktion des Volkes
 - Nach dem Chaos der Kulturrevolution, wo viele Mitglieder der Partei und Bevölkerung in Mitleidenschaft gezogen wurden, viele Verluste zu beklagen waren, materiell als auch Menschenleben, eine Zeit, in der viele Intellektuelle litten, hofften nach Ende dieser viele in der Bevölkerung auf einen Wandel  
 - Hoffnung auf Wandel, Wunsch nach Stabilität und Wohlstand  
 - Kampagne der Zwei Alles hatte wenig Widerhall  
-    - Sagt ja, wir machen einfach weiter
+	- Sagt ja, wir machen einfach weiter
 
 Wirtschaftliche Situation
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -217,10 +217,10 @@ Der "Große Sprung nach Außen"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Hua Guofeng: Investitionen in die Schwerindustrie
-    - sehr viel Geld, bewirkte sehr wenig
+	- sehr viel Geld, bewirkte sehr wenig
 - nach Hua Guofengs Absetzung:
 - pragmatisches, wirtschaftliches Stabilisierungsprogramm begonnen
-    - dieses ließ Schwerindustrie aus
+	- dieses ließ Schwerindustrie aus
 - konzentrierte sich auf Leichtindustrie
 - Übergang von Plan- zu Marktwirtschaft nicht getrieben von großer Vision oder einem Beschluss
 - es entstand aus Zwängen und praktischen Notwendigkeiten heraus
@@ -393,5 +393,26 @@ Sozialismus musste angepasst werden, um diesen Bedingungen/Bedürfnissen eines E
 	d. die Grundlage der Diktatur des Proletariats
 - diese vier Prinzipien definieren jetzt, was der Sozialismus ist. Darüber hinaus in Wirtschaft, Gesellschaft oder Kultur kann Veränderung zugelassen werden. Liberalisierung ist hier möglich. Sozialismus mit chinesischen Eigenschaften bedeutet also: Beibehaltung der Führung der KPCh, aber unter Voraussetzung, dass diese Führung garantiert wird, ist eine weitgehende Liberalisierung in anderen gesellschaftlichen Nebereichen wie z. B. Wirtschaft und gesellschaftlicher Aufbau und Kultur, möglich. Dieses Konzept des Sozialismus mit chinesischen Eigenheiten das bis heute die theoretische Basis der Entwicklung Chinas darstellt.
 
-**Leitfrage: Welche Leitideen standen hinter der Reform- und Öffnungspolitik Deng Xiaopings?*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Leitfrage: Welche Leitideen standen hinter der Reform- und Öffnungspolitik Deng Xiaopings?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- sozialistischer weg sollte trotz innerparteilicher demokratie beibehalten werden
+- marktwirschaft und sozialismus zusammenbringen (neues modell)
+- sozialismus beibehalten, wirtschaftlich liberalisieren
+- vier modernisierungen
+	1. landwirtschaft
+	2. industrie
+	3. wirtschaft/technik
+	4. landesverteidigung
+- akzent auf praxis, neues denken, "praxis ist das kriterium der wahrheit"
+- ideologie nicht unantastbar -> funktioniert oder funktioniert nicht
+- mehr pragmatismus, deng: "egal ob schwarze oder weiße katze, hauptsache sie fängt die maus"
+- weg von mao, hin zu wirtschaftsentwicklung
+- sommer 1984: "sozialismus mit chinesischen eigenschaften"
+- einerseits: durchführung umfassender reformen in industrie, handel, wissenschaft und bildung
+- andererseits: erhaltung von parteiherrschaft und loyalität zu den sozialistischen werten
+- vier grundlegende prinzipien
+	a. der sozialistische Weg
+	b. die Führung der Kommunistischen Partei
+	c. die Grundlage von Marxismus-Leninismus-Maoismus
+	d. die Grundlage der Diktatur des Proletariats

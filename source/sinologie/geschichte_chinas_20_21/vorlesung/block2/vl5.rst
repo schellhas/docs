@@ -715,7 +715,6 @@ unmittelbare folgen der kulturrevolution
 	- 1976 am ende der kulturrevolution ist die situation in china schwierig
 	- konflikte und machtkämpfe haben bevölkerung desillusioniert
 
-
 **Leitfrage: Was waren die unmittelbaren und langfristigen Folgen der Kulturrevolution?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
