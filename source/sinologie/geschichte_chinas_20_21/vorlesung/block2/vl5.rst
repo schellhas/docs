@@ -285,7 +285,7 @@ in drei perioden unterteilbar
 
 1. 1966-1968 "die heiße phase"
 	- demonstrationen
-	.- mssenbewegungen
+	- mssenbewegungen
 	- rote garden
 	- straßenkämpfe
 2. 1968-1971 landverschickung der roten garden
@@ -516,10 +516,50 @@ weitere initiativen
 **Welche Ziele verfolgte die Kulturrevolution?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+**ambitionierte breite ziele:**
 
+- kluturrevolution für mao ein dramatischer historischer akt
+- chinesische gesellschaft steht auf und tut etwas neues nie dagewesenes
+- revolution durchführen in der revolution
+- gegen autoritären und institutionen die die revolutionene 1949 geschaffen hat
+- in der geschichte keine parallele für einen führer der die eigene bevälkerung aufruft zu putschen gegen etwas das er geschaffen ha
+- ruft jugendliche auf, den staat anzugreifen, den er gebaut hat
+- allumfassender Umsturz (*dadao yiqie*)
+- allseitiger innerer kampf (*quanmian neizhan*)
+
+**konrete ziele:**
+
+- vorgesehenen mann der ihm nachfolgen soll zu entfernen und durch jmdanders zu ersetzen
+- entfernung liu shaoqis
+- seit 1949 eig 2. mann im staat
+- 2. person soll entfernt werden
+- durch jemand anderen ersetzen
+- korrektur des politischen kurses der KPCh
+	- pragmatischen moderaten kurs korrigieren, in verbindung mit lokalen märkten, privateigentum, von mao zunehmend kritisiert
+- will jugend eine revolutionäre erfahrung schaffen
+- revolution nur erfolgreich, wenn jede generation eine revolution hatte
+- "permanente, kontinuierliche revolution"
 
 **In welche Phasen lässt sich die Kulturrevolution unterteilen?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. 1966-1968 "die heiße phase"
+	- demonstrationen
+	- mssenbewegungen
+	- rote garden
+	- straßenkämpfe
+2. 1968-1971 landverschickung der roten garden
+	- rote garden werden aufs land geschickt
+	- machtzunahme der vba
+	- brutale massensäuberungen "säuberung der klassenränge"
+3. 1971-1976 "graue phase"
+	- konsolidierung nach der lin-biao-affäre
+	- langsame normalisierung
+	- konsolidierte ruhige situation entsteht
+
+
+Vorlesung 5.4: Führungskämpfe am Ende der Kulturrevolution
+----------------------------------------------------------
 
 sit 1970 leidet mao unter krankheiten und ist davon stark beeinträchtigt. vor diesem hintergrund:
 
@@ -527,12 +567,180 @@ führungskrise
 ~~~~~~~~~~~~~
 
 auch durch kulturrevolution erregte aufruhe trägt zu dieser nachfolgekrise bei
--
 
-Vorlesung 5.4: Führungskämpfe am Ende der Kulturrevolution
-----------------------------------------------------------
+- frage wer macht nach mao übernehmen soll war in kulturrevolution wichtig
+- ebensowichtig wie eigentlichen ziele der kulturrevolution
+- die wettbewerber um die macht:
+	- lin biao
+	- hua guofeng
+	- deng xiaoping
+- auch außempoltisch führt zur führungskrise
 
+breschnew-doktrin
+~~~~~~~~~~~~~~~~~
+
+besagt dass sowjets gerechtfertigt in ein kommunistisches land eingreifen dürfen, wenn dort sozialismus in gefahr ist. z.b. genutzt um in osteuropa zu intervenieren. china befürchtet eine sowjetische invasion.
+
+- seit 1966: sowjetunion streitkräfte entlang der ehemals entmilitarisierten chinesisch-sowjetischen grenze
+- china fühlt sich von außen bedroht durch doktrin und reale stationierung von streitkräften
+- führt zu kriegsängste in china
+
+kriegsängste
+~~~~~~~~~~~~
+
+- 1969: militärischer konflikt, sowjetische soldaten dringen in chinesisches gebiet vor
+- als folge davon wird lin biao offiziell zum nachfolger maos bestimmt
+- festigt einfluss von militär über partie und gesellschaft
+- zhou enlai versucht macht von militär und lin biao einzudämmen
+	- durch wiederaufbau westlicher beziehungen
+- schon deutlicher konflikt:
+	- lin biao
+		- militär unterstützt
+	- zhou enlai
+		- ziviles politisches etablisment hinter sich
+- 1969: lin biao mobilisiert armee und sicherheitskräfte ohne zustimmung maos
+- einige parteiführer waren repressionene ausgesetzt und starben dadurch
+- mao reagierte misstrauisch und begann sich von lin biao abzuwenden
+
+offene führungskämpfe
+~~~~~~~~~~~~~~~~~~~~~
+
+- sommer 1970:
+	- chen boda und lin biao äußern sich öffentlich zur nachfolge maos
+	- mao reagiert mit absetzung von chen boda, als warnung an lin biao
+	- "du bist nächster wenn du nicht aufpasst"
+- frühling 1971:
+	- lin biao plant coup gegen mao mit seinem sohn
+	- umstände bis heute nicht geklärt
+	- aber geht davon aus, dass lin biao in der tat den pla nhatte mit seinem sohn mao zu ermorden
+	- und macht in china an sich zu nehmen
+	- plan wird aufgedeckt
+	- "von der schwester des sohnes von lin biao"????? also von lin biaos tochter???
+	- lin biao muss daraufhin fliegen mit familie
+
+flucht lin biaos
+~~~~~~~~~~~~~~~~
+
+- in tianjin per flugzeug über mongolei nach sowjetunion
+- flugzeug stürzt über mongolei ab
+- lin biao und seine familie kommt ums leben
+- umstände des flugeugabsturzes bis heute umgeklärt
+- lin biao war bekannteste und bedingungloseste unterstützer maos
+- dass er versuchte mao zu ermorden und zu fliehen hatte schockierenden und desillusionierenden einfluss auf chinesen damals
+
+sino-amerikanische Beziehungen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- verhältnis zw china und amerika entwickelt sich weiter
+- zhou enlai der versuchte diplomatische kontakte zu stärken
+- ging auch richtung amerika
+- usa regierung war stark interessiert beziehungen zu chin aufzubauen
+- seit 60er jahren überlegen sie wie man aus konflikt zw sowjets und china profitieren kann
+- usa ist klar: konflikt in sozialistischem lager bietet mäglichkeit einen keil zw die beiden stärksten sozialisten zu treiben
+- 1970: nixon ändert china politik und beschließt auf china zuzugehen
+- will aufnahme der beziehungen vorantreiben
+- vor hintergrund des disasters in vietnam
+- initiative china gegenüber ein innenpolitisches mittel als auch sich aus vietnam zurückziehen zu können
+- juli 1971 besuch von henry kissinger (geheim)
+- fühlt in china vor ob aufnahme der beziehungen mäglich ist
+- abgeschlossen durch nixon in 1972 februar, historischer besuch
+- besuch endet mit unterszeichnung des "shanghai-communique", usa und china vereinbaren eine "normalisierung" ihrer beziehungen
+- taiwanfrage gelöst -> usa erkennen ein.china-politik an
+- usa sagen: es gibt nur ein china, das ist die VR-China
+- dadurch abbruch der beziehungen zu taiwan
+- 1973: mao erleidet einen schweren schlaganfall
+- danach nicht emrh in der lage in politik einzugreifen
+- zhou enlai bekommt schweren krebs
+- angesichts krankheiten: sie holen deng xiaoping nach peking
+- geben ihm wichtige rolle
+- rehabilitierung dengs wird abgelehnt von radikaler linken in partei
+- die die kulturrevolution unterstützt haben
+- ab 1973 immer größere auseinandersetzungen
+- nachfolgekrise zw lin biao und zhou enlai
+	- jetzt zw deng xiaoping und den radikalen linken um maos ehefrau
+	- nach mehreren jahren kein ende der führungskämpfe
+- radikale linke befürworten jiang qing
+	- politische mobilisierung
+	- fortsetzung des klassenkampfes
+	- gegen intellektuelle
+	- wollen egalitarismus und isolation
+	- gewinng 1973 bis 1974 oberhand
+	- deutlich anhand der kampagne zu kritik an lin biao und konfuzianismus
+
+dengs "vier modernisierungen"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- mit vier modernisierungen fokus von politik weg vom klassenkampf, hin zu wirtschaftlicher modernisierung
+- opfer der kulturrevolution sollen rehabilitiert werden
+- will wirtschaftswachstum, stabilität, technischen fortschritt, pragmatisch außenpolitik
+- die radikale linke reagiert mit einem angriff auf deng
+
+das ende der kulturrevolution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 1976 ende der kulturrevolution
+- zhou enlai stirbt, deng hält gedenkenrede
+- proteste und demonstrationen zum gedenken an zhou fordern radikale linke heraus
+	- deng wird im april wieder gestürzt
+- mao stirbt am 09. september 1976
+- einige wochen später verhaftung der viererbande
+- mit tod maos und der verhaftung der viererbande endet kulturrevolution
+
+unmittelbare folgen der kulturrevolution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- unmittelbare/kurzfristige
+	- große politische instabilität
+	- langsames wirtschaftliches wachstum und rückgang der produktion
+	- 10 jahre kulturrevolution für wirtscahft verlorenes jahrzehnt
+	- zurückhaltung der kader (wegen kampagnen der dauernd wechselnden vorgaben wollten keine initiative mehr zeigen und entscheidungen treffen)
+	- etwa 3 millionen KP mitglieder und andere bürger warten auf rehabilitation
+	- lehrer verloren arbeit, schüler/studenten landem auf land
+	- KP führungsrige wurde amt enthoben
+	- karrieren und ausbildungen wurden unterbrochen, lebensläufe fundamental verändert
+	- kosten waren also immens, jeder einzelne betroffen
+- langfristige
+	- einige noch heute wirksam
+	- ganze generation keine adequate ausbildung
+	- bildungslücke also
+	- ausbreitung von korruption in KP und regierung
+	- knappheit vom ressourcen zwang zu alternativen und illegalen wegen ressourcen zu beschaffen
+	- KP erhielt legitimitätsverlust durch ständig wechselnde ideologische und politischen begründungen
+	- desillusionierung und unterentwicklung
+		- mao war architekt der normen und regeln der KP herrscahft
+		- präsentierte sich in kulturrevolution als stimme der rebellion
+		- das was er aufgebaut hat wollte er wieder zerstören
+		- "es ist richtig zu rebellieren", "bombadiert das hauptquartier"
+	- armut und unterentwicklung auf dem land
+	- 1976 am ende der kulturrevolution ist die situation in china schwierig
+	- konflikte und machtkämpfe haben bevölkerung desillusioniert
 
 
 **Leitfrage: Was waren die unmittelbaren und langfristigen Folgen der Kulturrevolution?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- unmittelbare/kurzfristige
+	- große politische instabilität
+	- langsames wirtschaftliches wachstum und rückgang der produktion
+	- 10 jahre kulturrevolution für wirtscahft verlorenes jahrzehnt
+	- zurückhaltung der kader (wegen kampagnen der dauernd wechselnden vorgaben wollten keine initiative mehr zeigen und entscheidungen treffen)
+	- etwa 3 millionen KP mitglieder und andere bürger warten auf rehabilitation
+	- lehrer verloren arbeit, schüler/studenten landem auf land
+	- KP führungsrige wurde amt enthoben
+	- karrieren und ausbildungen wurden unterbrochen, lebensläufe fundamental verändert
+	- kosten waren also immens, jeder einzelne betroffen
+- langfristige
+	- einige noch heute wirksam
+	- ganze generation keine adequate ausbildung
+	- bildungslücke also
+	- ausbreitung von korruption in KP und regierung
+	- knappheit vom ressourcen zwang zu alternativen und illegalen wegen ressourcen zu beschaffen
+	- KP erhielt legitimitätsverlust durch ständig wechselnde ideologische und politischen begründungen
+	- desillusionierung und unterentwicklung
+		- mao war architekt der normen und regeln der KP herrscahft
+		- präsentierte sich in kulturrevolution als stimme der rebellion
+		- das was er aufgebaut hat wollte er wieder zerstören
+		- "es ist richtig zu rebellieren", "bombadiert das hauptquartier"
+	- armut und unterentwicklung auf dem land
+	- 1976 am ende der kulturrevolution ist die situation in china schwierig
+	- konflikte und machtkämpfe haben bevölkerung desillusioniert
