@@ -545,8 +545,103 @@ auf der grundlage des durch die demokratiebewegung und der niederschlagung entst
 **Welche Faktoren führten zum Entstehen der Demokratiebewegung?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+- immer mehr kritische stimmen von intellektuellen
+- "mauer der demokratie"
+- fing an mit vor allem studenten
+- vor allem solche die von kulturrevolution geschädigt ware
+- hauptauslöser: tod von liberalem staatssekretär, hu yaobang
+- studenten versammelten sich daraufhin zu spontaner trauerfeier
+- kränze wurden niedergelegt, lieder gesungen, gedichte verfasst
+- sie wussten er war ein liberaler
+- v.a. linke kader in der politik erkennen das zeichen, einem liberalen öffentlich nachzutrauern
+- sehen in politischem gedenken ein politisches statement, war es ja auch
+- parteiblätter veröffentlichen kritische kommentare zum öffentlichen gedenken
+- gedenkenfeiern entwickeln sich daher zu demonstrationen
+- immer mehr leute strömen aus protest auf tiananmen platz
+- mittlerweile geht es um mehr als trauerfeier, erste forderungen nach demokratie werden laut
+- forderung nach individuellen rechten, freiheiten, musik, bücher
+- bewegung wird in parteizeitrschrift als tumult bezeichnet, "verräterische absichten mit hintergedanken von menschen um hu yaobang"
+- am 27. april gehen 100.000 studenten auf die straße
+- so eine zahl hat es noch nie gegeben, es werden immer mehr
+- viele verlassen den platz gar nicht mehr, geben ihn nicht mehr frei
+- in shanghai, nanjing, chengdu, guangzhou gleiche umstände
+- mai 1989: regierung macht zugeständnisse
+- studierende verlangen dialog mit partei
+- verärgert über berichterstattung und vorwurf von landesverrat
+- verlangen verhandlung mit führern der partei
+- partei lehnt das ab
+- will zugeständnis nicht machen
+- würde bedeuten die partei muss sich einer massenbewegung beugen
+- studenten beginnen einen hungerstreik
+- dadurc hgelingt neue eskalation
+- hungerstreik ist machtvolle waffe, wo viele in 50ern verhungert sind wegen politischem missmanagement und kulturrevolution
+- kaum zu überschätzendes politisches symbol des protests
+- öffentliches hungern/verhungern auf dem platz
+- nach wenigen tagen werden die ersten schwach
+- studierende fast leblos auf ihren lagern
+- hungerstreik bringt gewaltige welle der sypathie und öffentlichen solidarisierung mit studenten die durch china geht
+- jetzt sind es millionen die auf die straße gehen
+- in unterstützung der anliegen der studierenden
+- 19. mai: hunderttausende der bewohner pekings gehen auf die straße, um vorrücken der armee zu verhindern, die von partei ausgeschickt wurde
+- in großen städten versammeln sich erstem ilitärische kontingente
+- um städte wieder unter kontrolle zu bringen
+- 100000 gehen auf die straße, nur mit kleidung und leben
+- stellen sich soldaten entgehen
+- städtische bewohner sind siegreich
+- truppen ziehen sich zurück
+- können 100000 menschen nicht überwinden
+- starker rückschlag für partei
+- seit 1949 ist nichts was sich mit diesem ereignis vergleichen ließe
+- die partei, weiß man im nachhinein, ghet in intensive beratungen
+- etwas eine woche lang wird debatiert
+- wissen es von memoiren von zhao zeyang
+- er hat memoiren aus dem land geschmuggelt, auf kasetten als kinderspiele getarnt
+- beschreibt ereignisse dieser zeit
+- tägliche stundenlange auseinandersetzungen
+- er sagt, man darf niemals mit gewalt auf studenten zugehen
+- andere sagen, wenn man jetzt nicht eingreift, verliert man die kontrolle
+- und china wird kollabieren
+- partei würde macht verliren
+- nach langen debatten
+- 3. juni: entscheidung des politbüros, soldaten beauftragt, mit waffengewalt platz zu räumen
+- mit scharfer munition wird geschossen
+- partei marschiert zur nacht zum 4. juni ein
+- tausde oder hudnerte von toten, schätzungen von 300-400 bis zu 3000-4000
+- tausende von verwundeten
+- am abend vor räumung ist zhao ziyang noch zu studenten gegangen
 
 **Was waren die Folgen ihrer gewaltsamen Niederschlagung?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+konsequenzen
+************
+
+- kosequenz der niederschlagung: kluft innerhalb der partei wird beseitigt
+- zhao ziyang wird unterhausrrrest gestellt
+- liberale und prodemokratische gruppen in der partei werden zum schweigen gebracht
+- versuche einen moderaten und politischen kurs zu verfolgen
+- gilt jetzt als illoyalität und versuch der spaltung der partei
+- eine der konsequenzen:
+	- innerparteiliche fraktion die für liberales china eingetreten ist, ist jetzt ausgelöscht
+	- ab jetzt niemand mehr in der partei der sich für demokratie und liberalisierung einsetzt, in der führungsgruppe
+
+unmittelbare konsequenzen
+*************************
+
+ergebnis: innere konsolidierung der KPCh, geschlossener den je
+
+- politische stabilität und konsolidierung der kommunistischen partei
+- temporärer halt der wirtschaftlichen reformen
+- überhitze wirtscahft kühlt ab und wird stabiler
+
+alles natürlich nur möglich, da mit menschenleben gezahlt, konsequenzen problematisch, als die wichtigen themen von demokratie und freiehit von china jetzt nicht mehr erörtert werden können.
+
+langfristige konsequenzen
+*************************
+
+- zeigte konflikte zw gesellschaftlichen gruppen auf
+- neben dmeokratie und freiheit auch um gerechtigkeit, arm und reich
+- um nachhinein:
+	- demokratiebewegung ausdruck der verstärkenden sozialen und gesellschaftlichen spannungen
+	- gefälle zw stadt und land
+	- verwerfung durch die volk gegangen ist
