@@ -71,4 +71,28 @@ Block III: ländliche Haushaltsverantwortungssyteme
 
 Was war das "ländliche Haushaltsverantwortungssystem"?
 
-Das **ländliche** Haushaltsverantwortungssystem war ein neuer Ansatz im Agrarsystem der VR China. Zwischen den Bauern und ihren Kollektiven wurden **Verträge** geschlossen. Das Kollektiv legte **Produktionsvorgaben** fest, welche die Produktionsquoten des Staates decken sollten. Neu war, dass die Bauern ihre **individuellen** Überschüsse vermarkten durften, wenn die **staatliche** Abgabequote übertroffen wurde. Dadurch schaffte der Staat den Anreiz für einzelne Bauern und ihre Familien, die Produktion zu steigern. Diese Einführung der Familienbewirtschaftung diente nicht nur der sozialen **Absicherung** der einzelnen Haushalte, sondern war auch der Übergang zu einer ländlichen **Marktwirtschaft**. 
+Das **ländliche** Haushaltsverantwortungssystem war ein neuer Ansatz im Agrarsystem der VR China. Zwischen den Bauern und ihren Kollektiven wurden **Verträge** geschlossen. Das Kollektiv legte **Produktionsvorgaben** fest, welche die Produktionsquoten des Staates decken sollten. Neu war, dass die Bauern ihre **individuellen** Überschüsse vermarkten durften, wenn die **staatliche** Abgabequote übertroffen wurde. Dadurch schaffte der Staat den Anreiz für einzelne Bauern und ihre Familien, die Produktion zu steigern. Diese Einführung der Familienbewirtschaftung diente nicht nur der sozialen **Absicherung** der einzelnen Haushalte, sondern war auch der Übergang zu einer ländlichen **Marktwirtschaft**.
+
+Block IV: "Drei Vertretungen" von Jiang Zemin
+---------------------------------------------
+
+- Die Entwicklung der fortschrittlichen chinesischen Kultur
+- Die fundamentalen Interessen der Mehrheit
+- Fortschrittliche Produktionskräfte
+
+Block IV: Was waren negative Folgen des raschen Wirtschaftswachstums, welche auc hfür die Firmen selbst spürbar waren?
+----------------------------------------------------------------------------------------------------------------------
+
+- ✅ Arbeitsplätze für weniger qualifizierte Personen wurden seltener (Lohndruck)
+- ✅ Subventionen/Förderungen verzerrten den Markt
+- ❌ Die Kosten für einheimische Waren stiegen so sehr an, dass die Gewinnmarge schwand
+- ❌ Der chinesische Markt wurde von ausländischen Firmen überflutet
+
+Block IV: Welche Aspekte zeichneten die chinesische Außenpolitik nach 1989 in erster Linie aus?
+-----------------------------------------------------------------------------------------------
+
+- ✅ Wirtschaftswachstum
+- ❌ Sportliche Großveranstaltungen wurden Zentrum wichtiger Gespräche und Verhandlungen
+- ❌ Als Zeichen der Freundschaft verlieh China sein Statussymbol (den Panda) an wirtschaftliche Unterstützer (Pandadiplomatie)
+- ✅ Wahrung territorialer Integrität und regionaler Stabilität
+- ❌ Der Status als Atommacht sollte beibehalten werden ✅
