@@ -1,8 +1,8 @@
 Test Lücken
 ===========
 
-Danwei (单位)
--------------
+Block I: Danwei (单位)
+---------------------
 
 :sub:`GPT Absatz`
 
@@ -36,8 +36,8 @@ In den von der „danwei“ verwalteten Personalakten wurden folgende persönlic
 
 Ebenfalls organisierte die „danwei“ das **soziale Umfeld**, indem sie u.a. Sanatorien, Kindergärten, Alten- und Kinderheime unterhielt.
 
-Dorf- und Nachbarschaftskomitees
---------------------------------
+Block I: Dorf- und Nachbarschaftskomitees
+------------------------------------------
 
 :sub:`GPT Absatz`
 
@@ -61,4 +61,14 @@ Dorf- und Nachbarschaftskomitees
 	- Ermöglichen von Kontrolle, Mobilisierung und Mitwirkung auf kleinstem Raum  
 	- Instrument der Konsolidierung der Herrschaft der KPCh auf Dorf- und Nachbarschaftsebene  
 
-💡 Kurz gesagt: Sie waren **lokale Selbstverwaltungsorgane**, die gleichzeitig **Mobilisierung, Organisation und politische Kontrolle** über die Bevölkerung ausübten.  
+💡 Kurz gesagt: Sie waren **lokale Selbstverwaltungsorgane**, die gleichzeitig **Mobilisierung, Organisation und politische Kontrolle** über die Bevölkerung ausübten.
+
+Hundert-Blumen-Bewegung
+-----------------------
+
+Block III: ländliche Haushaltsverantwortungssyteme
+--------------------------------------------------
+
+Was war das "ländliche Haushaltsverantwortungssystem"?
+
+Das **ländliche** Haushaltsverantwortungssystem war ein neuer Ansatz im Agrarsystem der VR China. Zwischen den Bauern und ihren Kollektiven wurden **Verträge** geschlossen. Das Kollektiv legte **Produktionsvorgaben** fest, welche die Produktionsquoten des Staates decken sollten. Neu war, dass die Bauern ihre **individuellen** Überschüsse vermarkten durften, wenn die **staatliche** Abgabequote übertroffen wurde. Dadurch schaffte der Staat den Anreiz für einzelne Bauern und ihre Familien, die Produktion zu steigern. Diese Einführung der Familienbewirtschaftung diente nicht nur der sozialen **Absicherung** der einzelnen Haushalte, sondern war auch der Übergang zu einer ländlichen **Marktwirtschaft**. 
