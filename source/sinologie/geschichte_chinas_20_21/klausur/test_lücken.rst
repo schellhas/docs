@@ -35,3 +35,30 @@ Die „danwei“ kontrollierten viele Aspekte des **täglichen** Lebens ihrer Mi
 In den von der „danwei“ verwalteten Personalakten wurden folgende persönliche Informationen gesammelt: Schulzeugnisse, Informationen zur **Parteimitgliedschaft**, Beförderungen und Leistungsbewertungen, Bewertungen von Vorgesetzten, schriftliche Kritik und Abmahnungen. Selbst die **Familiengeschichten** wurden in den Akten abgelegt.
 
 Ebenfalls organisierte die „danwei“ das **soziale Umfeld**, indem sie u.a. Sanatorien, Kindergärten, Alten- und Kinderheime unterhielt.
+
+Dorf- und Nachbarschaftskomitees
+--------------------------------
+
+:sub:`GPT Absatz`
+
+
+- **Entstehung:** Anfang der 1950er Jahre, im Zuge der Massenkampagnen und der Schaffung eines sozialistischen Chinas  
+- **Zweck:**  
+	- Förderung der Basisdemokratie auf lokaler Ebene  
+	- Mobilisierung der Bevölkerung für Kampagnen und politische Ziele  
+	- Überwachung und Kontrolle einzelner Haushalte  
+	- Unterstützung staatlicher Maßnahmen wie Gesundheit, Bildung, Konfliktbewältigung  
+- **Struktur:**  
+	- Organisiert nach Straße, Viertel oder Dorf  
+	- Mitglieder aus der Nachbarschaft, teils gewählt, teils von Partei bestimmt  
+- **Aufgaben:**  
+	- Gesundheitsvorsorge (z. B. Impfungen, Hygiene)  
+	- Konfliktvermittlung zwischen Nachbarn  
+	- Organisation der Teilnahme an staatlichen Kampagnen (z. B. Spenden, Unterstützung von Korea-Kampagne, Vier-Plagen-Kampagne)  
+	- Politische Aufklärung und Schaffung eines Bewusstseins für die Ziele der KPCh  
+- **Funktion im Staatssystem:**  
+	- Lokales Bindeglied zwischen Bevölkerung und zentraler Regierung  
+	- Ermöglichen von Kontrolle, Mobilisierung und Mitwirkung auf kleinstem Raum  
+	- Instrument der Konsolidierung der Herrschaft der KPCh auf Dorf- und Nachbarschaftsebene  
+
+💡 Kurz gesagt: Sie waren **lokale Selbstverwaltungsorgane**, die gleichzeitig **Mobilisierung, Organisation und politische Kontrolle** über die Bevölkerung ausübten.  
