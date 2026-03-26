@@ -184,8 +184,8 @@ Zum Ende der 80er Jahre geriet der Staatshaushalt immer mehr unter Druck, da die
 Insgesamt führten die Reformen trotz aller Erfolge zu zunehmenden Problemen in der chinesischen Wirtschaft. Die Defizite der Staatsunternehmen und Verluste durch Investitionen in Infrastruktur führten zu hoher Inflation, die die Realeinkommen der Menschen bedrohte, und zu verbreitetem Unmut sowie ersten Protesten.
 
 
-Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 ergriffen, um die Wirtschaft zu reformieren?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Leitfrage: Welche konkreten wirtschaftspolitischen Maßnahmen wurden nach 1978 ergriffen, um die Wirtschaft zu reformieren?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Über alle Maßnahmen ist erstmal zu sagen: sie waren graduell. Was ja in Osteuropa nicht so gut geklappt hat (sofortiges Öffnen des Marktes, Staatsunternehmen gingen schnell bankrott, dadurch hohe Arbeitslosigkeit und Unzufriedenheit), wurde in China besser gelöst. "Alle" Änderungen wurden graduell vorgenommen, sodass Staatsunternehmen sich an den freien Markt anpassen konnten, Konkurrenz graduell eingeführt wurde, und nicht alle Stützen sofort verschwanden. Stattdessen wurden ein wenig Stützen genommen, die dann durch Profit am freien/privaten Markt ersetzt worden konnten. So hat man sich langsam "vorgearbeitet" und die Planwirtschaft langsam in Richtung freier Marktwirtschaft umgebaut. Bis heute bleibt es allerdings ein "Hybridsystem". (Das galt in dieser Zeit vor allem für Bauern und die Industrie)
 

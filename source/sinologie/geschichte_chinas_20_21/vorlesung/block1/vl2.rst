@@ -366,8 +366,8 @@ Resultate
 **Leitfragen**
 ~~~~~~~~~~~~~~
 
-Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Bewegungen?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Bewegungen?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - städte des konsums in städte der produktion verwandeln
 - durch *hukou* kontrolle über ausgewählte teile der bevölkerungen -> infos über geburten/todesfälle/schulabschlüsse/berufe/familie -> generell über haushalt
@@ -400,8 +400,8 @@ Welchen Zweck verfolgte die Partei mit der Durchführung von Kampagnen und Beweg
 - konsolidierte herrscahft der KPCh erheblich
 - jetzt tieferer einblick in die gesellschaft
 
-Was waren die wichtigsten Massenorganisationen?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Was waren die wichtigsten Massenorganisationen?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Einwohnerkomitees
         - Organisation auf Nachbarschaftsebene (Straßen, Viertel, Dörfer)
