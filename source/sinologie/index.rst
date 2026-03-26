@@ -21,4 +21,4 @@ Geschichte Chinas im 20. und 21. Jahrhundert
 	geschichte_chinas_20_21/klausur/block2/index
 	geschichte_chinas_20_21/klausur/block3/index
 	geschichte_chinas_20_21/klausur/block4/index
-	geschichte_chinas_20_21/klausur/notes
+	geschichte_chinas_20_21/klausur/test_lücken
