@@ -268,7 +268,6 @@ gemischte globale bilanz
 	- Modernisierung von Luft- und Seestreitkräften
 	- steigende Militärausgaben
 
-
 **Welche Phasen lassen sich unterscheiden?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
