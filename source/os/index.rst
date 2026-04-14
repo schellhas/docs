@@ -10,18 +10,11 @@ Main sources for these notes are
 
 .. toctree::
 	:maxdepth: 1
-	:caption: Contents
+	:caption: Lecture
 
-	overview
-	architecture
-	threads
-	scheduling
-	interaction
-	client-server
-	memory-management
-	io
-	resource-management
-	file-system
-	performance-modeling
-	virtualization
-	lecture/index
+	0-overview
+	1-architecture
+	2-threads
+	3-scheduling
+	exam
+	assignments
