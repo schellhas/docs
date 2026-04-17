@@ -82,6 +82,7 @@ Terminology
 -----------
 
 Concerning the terminology, care must be taken in the relevant literature:
+
 - A process (task) is mostly considered as a UNIX-type process with a private address space.
 - Most operating systems (including current UNIX variants) offer the possibility to run several processes in a shared address sapce.
 - They are called *lightweight processes* or *threads*.
