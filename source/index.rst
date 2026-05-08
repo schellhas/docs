@@ -9,12 +9,12 @@ Everything is written by hand. Sometimes AI corrected typos, grammar and readabi
 	:maxdepth: 1
 	:caption: Languages
 
-	asm/index
 	c/index
-	cpp/index
-	rust/index
-	haskell/index
 	go/index
+	asm/index
+	cpp/index
+	haskell/index
+	rust/index
 	kotlin/index
 
 .. toctree::
