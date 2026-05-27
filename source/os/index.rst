@@ -1,23 +1,13 @@
 Operating Systems
 =================
 
-Main source for these notes
-
-- https://www.mi.fu-berlin.de/w/SE/VorlesungBetriebssysteme2025
-
-Additional sources
-
-- https://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/resources/Course-Material.html#OSCN
-- https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/
-- Operating System Concepts, Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, 9th edition
-
 .. toctree::
 	:maxdepth: 1
-	:caption: Lecture
+	:caption: Contents
 
-	0-overview
-	1-architecture
-	2-threads
-	3-scheduling
-	exam
-	assignments
+	vl/index
+	assignments/index
+	exam/index
+	vocabulary/index
+	bks/index
+	bks-exam/index
