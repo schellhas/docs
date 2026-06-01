@@ -85,21 +85,17 @@ Answer
 Aufgabe 5, **10 Punkte** (Prozesswechsel)
 -----------------------------------------
 
-Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann.<br>
-Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
+Nennen Sie mindestens vier Anlässe an denen ein Prozesswechsel vorgenommen werden kann. Diskutieren Sie die unterschiedlichen Anlässe in Bezug auf ihre Eignung, eine responsive und faire Prozessorzuordnung zu gestalten.
 
-*Name at least four occasions that may lead to a process switch.*<br>
-*Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
+*Name at least four occasions that may lead to a process switch. Discuss for these different events the usefulness to design a scheduling which implements responsiveness and fairness.*
 
 Answer
 ~~~~~~
 
-.. warning:: TODO: Discuss
-
-- Preemptive scheduling
-- I/O-Warten (blockieren) Prozess gibt ab
-- Prozess wird beendet/beendet sich
-- Erhöhung der Priorität eines wartenden Threads
+- Timer interrupt: wichtig für fairness
+- I/O-Warten (blockieren) Prozess gibt ab: gut für responsiveness
+- Prozess wird beendet/beendet sich: gut für throughput (weniger systemlast, bessere cpu auslastung)
+- Erhöhung der Priorität eines wartenden Threads: gut für was auch immer der genutzte scheduler priorisiert
 
 Aufgabe 6, **10 Punkte** (Kommunikation)
 ----------------------------------------
@@ -111,7 +107,22 @@ Wie können Kanal-Objekte den kommunizierenden Threads zugeordnet (an sie gebund
 Answer
 ~~~~~~
 
-.. warning:: TODO
+1. No Binding
+	- n:n
+	- "channel"
+	- pro: sehr flexibel, n:n möglich, gut für dynamische systeme
+	- con: high maintenance/verwaltung, (routing, synchronization, lookup/matching), less efficient
+2. Binding to Sender
+	- 1:n
+	- "exit port"
+	- pro: very structured
+	- con: unflexible for receier, hard to scale with different receivers
+3. Binding to Receiver
+	- n:1
+	- "entry port"
+	- most OS's use it today
+	- pro: good for asynchronous, easy structure on receiver side
+	- con: potential bottleneck at receiver (queue/buffer)
 
 Aufgabe 9, **10 Punkte** (Hauptspeicherverwaltung)
 --------------------------------------------------
