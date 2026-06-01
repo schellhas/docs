@@ -53,8 +53,6 @@ Nutzen Sie zur Beschreibung gern folgende Abkürzungen für die Beschreibung der
 Answer
 ~~~~~~
 
-.. warning:: TODO: Description
-
 **Hinrichtung**
 
 ::
@@ -75,22 +73,14 @@ Answer
 
 **Erklärung**
 
-- create
-	- TCB wird vom Kernel initial angelegt
-- delete
-	- TCB wird vom Kernel gelöscht
-- activate
-	- der TCB existierte schon und war nur inaktiv, aber der Thread kann jetzt vom scheduler berücksichtigt werden, wird also in diesen algorithmus/datenstruktur aufgenommen
-- deactivate
-	- der thread wird nicht mehr vom scheduler berücktsichtigt/wahrgenommen, wird aus dieser datenstruktur also rausgenommen, TCB existiert aber weiter
-- assign
-	- der scheduler hat dem thread prozessorzeit gegeben, kontext des threads wird also in register geladen
-- block
-	- thread muss auf z.B. I/O oder andere ressource/ereignis warten, thread wird von cpu genommen, kontext wird von registern in TCB geschrieben. vielleicht in wait queue (i/o wait, semaphore, ...) oder thread bekommt später signal wenn etwas fertig ist
-- deblock
-	- worauf auch immer thread gewartet hat ist ready/fertig. kommt in queue von scheduler rein (also datenstruktur von scheduler, welcher algo auch immer)
-- relinquish
-	- thread hört freiwillig auf, kontext wird aus registern in tcb geschrieben; entered wieder scheduler -> is also ready und will vom scheduler berücksichtigt werden, nicht inactive werden oder so
+- **create**: TCB wird vom Kernel initial angelegt
+- **delete**: TCB wird vom Kernel gelöscht
+- **activate**: der TCB existierte schon und war nur inaktiv, aber der Thread kann jetzt vom scheduler berücksichtigt werden, wird also in diesen algorithmus/datenstruktur aufgenommen
+- **deactivate**: der thread wird nicht mehr vom scheduler berücktsichtigt/wahrgenommen, wird aus dieser datenstruktur also rausgenommen, TCB existiert aber weiter
+- **assign**: er scheduler hat dem thread prozessorzeit gegeben, kontext des threads wird also in register geladen
+- **block**: thread muss auf z.B. I/O oder andere ressource/ereignis warten, thread wird von cpu genommen, kontext wird von registern in TCB geschrieben. vielleicht in wait queue (i/o wait, semaphore, ...) oder thread bekommt später signal wenn etwas fertig ist
+- **deblock**: worauf auch immer thread gewartet hat ist ready/fertig. kommt in queue von scheduler rein (also datenstruktur von scheduler, welcher algo auch immer)
+- **relinquish**: thread hört freiwillig auf, kontext wird aus registern in tcb geschrieben; entered wieder scheduler -> is also ready und will vom scheduler berücksichtigt werden, nicht inactive werden oder so
 
 Aufgabe 5, **10 Punkte** (Prozesswechsel)
 -----------------------------------------
