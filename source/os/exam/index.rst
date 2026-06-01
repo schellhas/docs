@@ -134,21 +134,81 @@ Nennen und erläutern Sie eine Strategie zur Verhinderung des Thrashing-Effekts.
 Answer
 ~~~~~~
 
-.. warning:: TODO
+**Working-Set-Strategie**
+
+Für jeden Prozess wird die Menge der Seiten bestimmt, die er in einem bestimmten Zeitfenster tatsächlich benutzt (Working Set).
+
+**Benötigte Daten**
+
+Seitenzugriffe eines Prozesses
+Zeitstempel oder Referenzbits der Seiten
+Größe des aktuellen Working Sets
+
+**Erfassung**
+
+Hardware setzt Referenz-/Access-Bits bei Seitenzugriffen.
+Das Betriebssystem wertet diese Bits periodisch aus oder speichert Zeitstempel der letzten Benutzung.
+
+**Erkennung von Thrashing**
+
+Die Summe aller Working Sets wird mit der Anzahl verfügbarer Seitenrahmen verglichen.
+Wenn die Prozesse insgesamt mehr Seiten benötigen als physischer Speicher verfügbar ist, steigt die Seitenfehlerrate stark an.
+Das System verbringt dann mehr Zeit mit Auslagern und Nachladen von Seiten als mit echter Ausführung → Thrashing.
+
+**Verhinderung**
+
+Prozesse suspendieren/swappen oder den Multiprogramming-Grad reduzieren, bis die Working Sets wieder in den Hauptspeicher passen.
 
 Aufgabe 12, **9 Punkte** (Dateisysteme)
 ---------------------------------------
 
-Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.<br>
+Eine aktuelle Herausforderung im Zusammenhang mit Dateisystemen ist, diese auch nach Ausfall des Systems in einen konsistenten Zustand zu versetzen.
 Nennen Sie drei Lösungen und beschreiben Sie, warum diese den Aufwand für die Wiederherstellung des konsistenten Dateisystems signifikant gegenüber einem klassischen Dateisystem reduzieren.
 
-*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed.*<br>
-*Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
+*A current challenge related to file systems is to keep them in a consistent state even after the system has crashed. Name three solutions and describe why they significantly reduce the effort for restoring the consistency of the file system compared to a classic file system.*
 
 Answer
 ~~~~~~
 
-.. warning:: TODO
+**Journaling file systems (aka logging file systems)** = Traditional file system + Journal
+
+- Every modification is written as a transaction to the journal *first*
+- Finished transactions are discarded from the system
+- After a crash, only the journal has to be replayed
+	- Incomplete transactions are recognized by wrong checksums
+- Drawback: low performance, everything is written twice
+- Trade-off: journal only metadata
+
+**Log-structured file systems**
+
+- The file system consists only of a log
+- All modifications are appended sequentially to the log
+- Checkpoints periodically store enough metadata to reconstruct the file system state
+- After a crash, only the log entries after the last checkpoint have to be replayed
+- This avoids a complete file system scan and significantly reduces recovery time
+- Drawback: garbage collection is required to remove obsolete data
+
+**Copy-on-write file systems (aka shadow paging file systems)**
+
+- Existing blocks are never overwritten
+- If a block must be updated, a copy of that block is updated and then the reference to it is replaced
+- Modified data and metadata are written to new blocks
+- References are updated only after all new blocks have been written successfully
+- After a crash, the file system can simply continue using the last consistent version
+- No lengthy consistency check is necessary because the old state remains intact until the update is completed
+- Drawbacks: COW operations can be costly
+- Trade-off: increase commit latency for better performance
+- "Not enough free space to delete file"?
+
+**File systems with soft updates** = Traditional file system + Enforced order of writes
+
+- Writes are ordered to avoid inconsistencies
+- On-disk file system is always semi-consistent
+	- Not all inconsistencies can be avoided, but
+	- Nothing bad will happen after a crash
+- Still needs a complete file system check after a crash
+	- Can be done concurrently in the background
+- Drawback: difficult to implement, reduced performance due to frequently used I/O barriers, conflicts with I/O scheduler
 
 Aufgabe 1, **8 Punkte** (Architektur)
 -------------------------------------
