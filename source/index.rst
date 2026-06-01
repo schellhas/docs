@@ -1,7 +1,7 @@
 Docs
 ====
 
-personal notes, not intended for anyone else
+personal notes, not intended for anyone else; only public because thats the only way to keep them available for myself on the web for free
 
 .. toctree::
 	:maxdepth: 1
