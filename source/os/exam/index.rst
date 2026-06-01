@@ -318,7 +318,14 @@ b.	Bei der ARM-Architektur befinden sich die Seitentabellen der Prozesse an virt
 Answer
 ~~~~~~
 
-.. warning:: TODO
+a.	*For higher efficiency and security, logical address spaces are decomposed into segments (of different size) which in turn are cut into pages (equal size).*
+	- Segmente -> logische Einheiten wie Code/Daten, unterschiedliche Zugriffsrechte
+	- Pages -> feste Größe, dienen effizienter Speicherverwaltung
+	- Kombination -> Speicherschutz und logische Strukturierung + effiziente Speicherbelegung und Auslagerung
+b.
+	- Seitentabellen selbst können ausgelagert werden -> müssen nicht vollständig im Hauptspeicher sein
+	- Flexibler, da Tabellen wie normale Speicherobjekte behandelt werden können
+	- Leichtere Verwaltung vom Betriebssystem (vergrößern/kleinern)
 
 Aufgabe 11, **6 Punkte** (Gerätebetrieb)
 ----------------------------------------
