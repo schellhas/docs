@@ -1,9 +1,7 @@
 Docs
 ====
 
-These documents serve for everything I've had to lookup twice, everything I still want to learn, and some stuff for the sake of completeness.
-
-Everything is written by hand. Sometimes AI corrected typos, grammar and readability, but never contents.
+personal notes, not intended for anyone else
 
 .. toctree::
 	:maxdepth: 1
