@@ -385,7 +385,16 @@ Welche Teile eines Monitors als Mechanismus zum Schutz eines kritischen Abschnit
 Answer
 ~~~~~~
 
-.. warning:: TODO
+vom os:
+
+- block() und deblock(), werden von lock und conditional variables aufgerufen
+	- nur das os kann thread in wartezustand versetzen und wieder aktivieren
+- gegenseitiger ausschluss -> mutex außerhalb des monitors (dieser ist selber teil des kernels also kritischer abschnitt)
+- verwaltung der warteschlange -> welche threads blockieren und deblockieren (scheduling halt)
+
+nicht vom os:
+
+- 
 
 Aufgabe 13, **3 Punkte** (Leistungsmodellierung)
 ------------------------------------------------
