@@ -108,15 +108,15 @@ Answer
 ~~~~~~
 
 1. Keine Bindung (n:n-Kanal)
-   Der Kanal existiert unabhängig von Sender und Empfänger; beliebig viele Threads auf beiden Seiten können ihn nutzen.
+	- Der Kanal existiert unabhängig von Sender und Empfänger; beliebig viele Threads auf beiden Seiten können ihn nutzen.
 	- Pro: Maximale Flexibilität - keine statische Konfiguration nötig, Zuordnung kann zur Laufzeit variieren.
 	- Con: Beide Kommunikationspartner müssen explizit adressiert/verwaltet werden; höherer Koordinationsaufwand, die Identität der Partner ist nicht automatisch bekannt.
 2. Bindung an den Sender → Exit Port (1:n-Kanal)
-   Der Kanal gehört fest zu einem Sender-Thread, der alle ausgehenden Nachrichten darüber verschickt.
+	- Der Kanal gehört fest zu einem Sender-Thread, der alle ausgehenden Nachrichten darüber verschickt.
 	- Pro: Der Empfänger kann den Sender anhand des Kanals eindeutig identifizieren (Absender implizit bekannt).
 	- Con: Ein Sender-Thread ist auf genau einen Exit Port beschränkt; wenig flexibel, wenn ein Thread mit verschiedenen Empfängergruppen kommunizieren soll.
 3. Bindung an den Empfänger → Entry Port (n:1-Kanal)
-   Der Kanal gehört fest zu einem Empfänger-Thread, der alle eingehenden Nachrichten darüber empfängt. Das ist laut Folie die in echten Betriebssystemen am häufigsten verwendete Variante.
+	- Der Kanal gehört fest zu einem Empfänger-Thread, der alle eingehenden Nachrichten darüber empfängt. Das ist laut Folie die in echten Betriebssystemen am häufigsten verwendete Variante.
 	- Pro: Einfache Adressierung - Sender muss nur den Port des Empfängers kennen; gut geeignet für das Client-Server-Modell.
 	- Con: Nur ein Empfänger pro Kanal; fällt der Empfänger-Thread aus, ist der Port nicht mehr nutzbar (Single Point of Failure).
 
